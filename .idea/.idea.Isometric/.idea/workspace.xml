@@ -1,0 +1,1540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="091ee08e-5292-4466-9502-0d91d21f75cb" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Isometric" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Isometric.Server.Application/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="559">
+              <caret line="162" column="66" lean-forward="true" selection-start-line="162" selection-start-column="66" selection-end-line="162" selection-end-column="66" />
+              <folding>
+                <marker date="1504179378704" expanded="true" signature="6:495" ph="..." />
+                <marker date="1504179378704" expanded="true" signature="535:33821" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="564:33819" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="891:6615" ph="{...}" />
+                <marker date="1504179378704" expanded="false" signature="914:1669" ph="Loading Session" />
+                <marker date="1504179378704" expanded="true" signature="939:1579" ph="/* ##if !DEBUG ... */" />
+                <marker date="1504179378704" expanded="true" signature="1683:4935" ph="News" />
+                <marker date="1504179378704" expanded="true" signature="1771:2779" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="1976:2050" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="2097:2765" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="2406:2745" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="2830:4910" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="2884:4346" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="2972:3464" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="3224:3440" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="3514:4042" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="3623:4020" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="3894:3992" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="4244:4326" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="4390:4895" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="4455:4876" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="4698:4852" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="5269:6605" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="5658:5732" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="5771:6591" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="5822:6205" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="5955:6183" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="6230:6573" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="6435:6551" ph="{...}" />
+                <marker date="1504179378704" expanded="false" signature="6658:7565" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="6692:7548" ph="/* const int savingPeriodMilliseconds = 1000 * 60 * 60 * 6; // 6 hours ... */" />
+                <marker date="1504179378704" expanded="true" signature="7895:33813" ph="{...}" />
+                <marker date="1504179378704" expanded="false" signature="8019:8118" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="8514:33410" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="8540:33388" ph="Requests" />
+                <marker date="1504179378704" expanded="false" signature="8582:9744" ph="Net" />
+                <marker date="1504179378704" expanded="true" signature="8799:8927" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="9069:9675" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="9413:9538" ph="{...}" />
+                <marker date="1504179378704" expanded="false" signature="9794:10493" ph="Administration and debug" />
+                <marker date="1504179378704" expanded="true" signature="10062:10414" ph="{...}" />
+                <marker date="1504179378704" expanded="false" signature="10519:13698" ph="Area &amp; resources" />
+                <marker date="1504179378704" expanded="true" signature="10717:10862" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="11106:11222" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="11399:12976" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="11760:12941" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="12012:12901" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="13191:13625" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="13290:13594" ph="{...}" />
+                <marker date="1504179378704" expanded="false" signature="13724:20712" ph="Buildings" />
+                <marker date="1504179378704" expanded="true" signature="13846:14933" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="14090:14228" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="14465:14625" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="14730:14902" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="15094:18106" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="15569:18075" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="15674:18040" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="18255:20639" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="18382:19064" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="18508:18670" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="18795:18957" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="19297:20608" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="19652:20449" ph="{...}" />
+                <marker date="1504179378704" expanded="false" signature="20738:24962" ph="People management" />
+                <marker date="1504179378704" expanded="true" signature="20872:21408" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="21125:21377" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="21621:21876" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="22086:22392" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="22606:22861" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="23083:24341" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="23405:24262" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="24561:24889" ph="{...}" />
+                <marker date="1504179378704" expanded="false" signature="24988:28141" ph="Researches" />
+                <marker date="1504179378704" expanded="true" signature="25187:26614" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="25841:26535" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="26820:27087" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="27304:28068" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="28167:32616" ph="Armies" />
+                <marker date="1504179378704" expanded="true" signature="28356:29439" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="28559:29360" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="29598:30183" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="29902:30046" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="30353:30979" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="30706:30874" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="31126:31824" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="31370:31793" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="31970:32542" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="32246:32437" ph="{...}" />
+                <marker date="1504179378704" expanded="false" signature="32642:33352" ph="News" />
+                <marker date="1504179378704" expanded="true" signature="32821:33279" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="33051:33200" ph="{...}" />
+                <marker date="1504179378704" expanded="true" signature="33631:33762" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameConstants.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Isometric.Core/GameConstants.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding>
+                <marker date="1504178781820" expanded="false" signature="6:50" ph="..." />
+                <marker date="1504178781820" expanded="true" signature="76:739" ph="{...}" />
+                <marker date="1504178781820" expanded="true" signature="109:737" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SessionGenerator.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Isometric.Game/SessionGenerator.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="21" column="14" lean-forward="false" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+              <folding>
+                <marker date="1504178848416" expanded="false" signature="6:152" ph="..." />
+                <marker date="1504178848416" expanded="true" signature="178:1808" ph="{...}" />
+                <marker date="1504178848416" expanded="true" signature="214:1806" ph="{...}" />
+                <marker date="1504178848416" expanded="true" signature="254:1800" ph="{...}" />
+                <marker date="1504178848416" expanded="true" signature="323:746" ph="{...}" />
+                <marker date="1504178848416" expanded="true" signature="890:1561" ph="{...}" />
+                <marker date="1504178848416" expanded="true" signature="1070:1292" ph="{...}" />
+                <marker date="1504178848416" expanded="true" signature="1363:1542" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArmiesManager.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Isometric.Core/Managers/ArmiesManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="445">
+              <caret line="85" column="17" lean-forward="false" selection-start-line="85" selection-start-column="17" selection-end-line="85" selection-end-column="17" />
+              <folding>
+                <marker date="1504157392421" expanded="false" signature="6:160" ph="..." />
+                <marker date="1504157392421" expanded="true" signature="195:3447" ph="{...}" />
+                <marker date="1504157392421" expanded="true" signature="242:3445" ph="{...}" />
+                <marker date="1504157392421" expanded="true" signature="621:800" ph="{...}" />
+                <marker date="1504157392421" expanded="false" signature="883:964" ph="{...}" />
+                <marker date="1504157392421" expanded="true" signature="1034:1763" ph="{...}" />
+                <marker date="1504157392421" expanded="true" signature="1267:1753" ph="{...}" />
+                <marker date="1504157392421" expanded="true" signature="1563:1739" ph="{...}" />
+                <marker date="1504157392421" expanded="true" signature="1811:2628" ph="{...}" />
+                <marker date="1504157392421" expanded="true" signature="1970:2604" ph="{...}" />
+                <marker date="1504157392421" expanded="true" signature="2035:2191" ph="{...}" />
+                <marker date="1504157392421" expanded="true" signature="2256:2586" ph="{...}" />
+                <marker date="1504157392421" expanded="true" signature="2669:2802" ph="{...}" />
+                <marker date="1504157392421" expanded="true" signature="2846:3089" ph="{...}" />
+                <marker date="1504157392421" expanded="true" signature="3144:3439" ph="{...}" />
+                <marker date="1504157392421" expanded="true" signature="3250:3349" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DestroyingTask.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Isometric.Core/Managers/Tasks/DestroyingTask.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="8" column="41" lean-forward="false" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+              <folding>
+                <marker date="1504152964642" expanded="true" signature="54:607" ph="{...}" />
+                <marker date="1504152964642" expanded="true" signature="99:605" ph="{...}" />
+                <marker date="1504152964642" expanded="true" signature="159:599" ph="{...}" />
+                <marker date="1504152964642" expanded="true" signature="265:562" ph="{...}" />
+                <marker date="1504152964642" expanded="true" signature="414:548" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Army.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Isometric.Core/Army.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="774">
+              <caret line="108" column="85" lean-forward="false" selection-start-line="108" selection-start-column="85" selection-end-line="108" selection-end-column="85" />
+              <folding>
+                <marker date="1504150918234" expanded="false" signature="6:118" ph="..." />
+                <marker date="1504150918234" expanded="true" signature="144:5025" ph="{...}" />
+                <marker date="1504150918234" expanded="true" signature="199:5023" ph="{...}" />
+                <marker date="1504150918234" expanded="false" signature="469:1567" ph="{...}" />
+                <marker date="1504150918234" expanded="true" signature="525:1557" ph="{...}" />
+                <marker date="1504150918234" expanded="true" signature="691:755" ph="{...}" />
+                <marker date="1504150918234" expanded="true" signature="960:1106" ph="{...}" />
+                <marker date="1504150918234" expanded="true" signature="1300:1403" ph="{...}" />
+                <marker date="1504150918234" expanded="true" signature="1445:1543" ph="{...}" />
+                <marker date="1504150918234" expanded="false" signature="1762:2392" ph="IMilitaryObject" />
+                <marker date="1504150918234" expanded="true" signature="2112:2217" ph="{...}" />
+                <marker date="1504150918234" expanded="true" signature="2333:2372" ph="{...}" />
+                <marker date="1504150918234" expanded="true" signature="2887:2948" ph="/// testing ctor ... " />
+                <marker date="1504150918234" expanded="true" signature="3107:3337" ph="{...}" />
+                <marker date="1504150918234" expanded="true" signature="3468:3828" ph="{...}" />
+                <marker date="1504150918234" expanded="true" signature="3856:3937" ph="{...}" />
+                <marker date="1504150918234" expanded="true" signature="3993:4460" ph="{...}" />
+                <marker date="1504150918234" expanded="true" signature="4070:4450" ph="{...}" />
+                <marker date="1504150918234" expanded="true" signature="4513:5017" ph="{...}" />
+                <marker date="1504150918234" expanded="true" signature="4662:4722" ph="{...}" />
+                <marker date="1504150918234" expanded="true" signature="4762:4946" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>TestC</find>
+      <find>TestCla</find>
+      <find>TestClas</find>
+      <find>T</find>
+      <find>Tes</find>
+      <find>TestClass</find>
+      <find>TestM</find>
+      <find>TestMet</find>
+      <find>TestMeth</find>
+      <find>TestMetho</find>
+      <find>TestMethod</find>
+      <find>N</find>
+      <find>NotIm</find>
+      <find>NotImp</find>
+      <find>NotImpl</find>
+      <find>NotImple</find>
+      <find>NotImplem</find>
+      <find>NotImpleme</find>
+      <find>NotImplemen</find>
+      <find>NotImplement</find>
+      <find>NotImplemente</find>
+      <find>NotImplemented</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>TestFixture</replace>
+      <replace>Test</replace>
+    </replaceStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../tools/BashDotNet/BashDotNet/Library.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../tools/BashDotNet/BashDotNet/Command.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Isometric.Server.Application/Administration/AdministrationConsoleFacade.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Isometric.Server.Application/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Isometric.Server.Application/PlayingTimeCalculator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Isometric.Core.Tests/AreaTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Isometric.Server.Application/CommandsLibrary.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Isometric.Core.Tests/Time/ClocksTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Isometric.Core/Army.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Isometric.Core.Tests/Managers/ArmiesManagerTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Isometric.Core/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../tools/BashDotNet/BashDotNet/Generic/Library.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Isometric.Core/World.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Isometric.Core/GameConstants.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Isometric.Core.Tests/Buildings/IncomeBuildingTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Isometric.Core.Tests/Buildings/ArmyBuildingTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Isometric.Core/Session.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Isometric.Core/Building.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Isometric.Core/Area.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Isometric.Core.Tests/AreaGeneration/RandomPositionModifierTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Isometric.Core.Tests/AreaGeneration/ComplexAreaGeneratorTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Isometric.Server/Log.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Isometric.Core.Tests/AreaGeneration/RandomModifierTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Isometric.Core/Managers/ArmiesManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Isometric.Server/Connection.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Isometric.Core/Managers/Tasks/ArmyTask.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Isometric.Core/Managers/Tasks/DestroyingTask.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Isometric.Core/Managers/Tasks/MovingTask.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Isometric.Core.Tests/WorldTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Isometric.Server/Server.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Isometric.Core/AreaGeneration/IAreaModifier.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Isometric.Core/AreaGeneration/RandomPositionModifier.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Isometric.Core/AreaGeneration/RandomGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Isometric.Server/RequestManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Isometric.Core/AreaGeneration/VillageModifier.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Isometric.Server.Tests/LogTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Isometric.Server.Tests/ConnectionTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Isometric.Core/Common/TimeSpanHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Isometric.Core.Tests/BuildingTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Isometric.Core.Tests/ArmyTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Isometric.Core/Buildings/PeriodIncomeBuilding.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Isometric.Core/Buildings/IncomeBuilding.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Isometric.Core/Buildings/ArmyBuilding.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Isometric.Core.Vectors/Vector.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Isometric.Game/SessionGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Isometric.Game/BuildingPrototypes.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Isometric.Core/Common/VectorHelper.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Isometric.Core.Vectors/Class1.cs" />
+        <option value="$PROJECT_DIR$/Isometric.Core.Tests/Tests.cs" />
+        <option value="$PROJECT_DIR$/Isometric.Core.Tests/AreaGeneration/RandomModifierTests.cs" />
+        <option value="$PROJECT_DIR$/Isometric.Dtos/Class1.cs" />
+        <option value="$PROJECT_DIR$/Isometric.Game/Class1.cs" />
+        <option value="$PROJECT_DIR$/Isometric.Server/Class1.cs" />
+        <option value="$PROJECT_DIR$/Isometric.Server.Application/Class1.cs" />
+        <option value="$PROJECT_DIR$/Isometric.Server.Application/Common/WorldHelper.cs" />
+        <option value="$PROJECT_DIR$/Isometric.Game.Tests/Tests.cs" />
+        <option value="$PROJECT_DIR$/Isometric.Server.Tests/Tests.cs" />
+        <option value="$PROJECT_DIR$/Isometric.Server.Tests/LogTests.cs" />
+        <option value="$PROJECT_DIR$/Isometric.Server.Tests/ConnectionTests.cs" />
+        <option value="$PROJECT_DIR$/Isometric.Server.Application/AdministrationConsoleFacade.cs" />
+        <option value="$PROJECT_DIR$/Isometric.Server.Application/Administration/SavedData.cs" />
+        <option value="$PROJECT_DIR$/Isometric.Server.Application/Administration/SavingData.cs" />
+        <option value="$PROJECT_DIR$/Isometric.Core/Session.cs" />
+        <option value="$PROJECT_DIR$/../tools/BashDotNet/BashDotNet/Library.cs" />
+        <option value="$PROJECT_DIR$/Isometric.Server.Application/Administration/AdministrationConsoleFacade.cs" />
+        <option value="$PROJECT_DIR$/Isometric.Core/Buildings/IncomeBuilding.cs" />
+        <option value="$PROJECT_DIR$/Isometric.Core/Buildings/PeriodIncomeBuilding.cs" />
+        <option value="$PROJECT_DIR$/Isometric.Core.Vectors/AbsolutePosition.cs" />
+        <option value="$PROJECT_DIR$/Isometric.Core/AbsolutePosition.cs" />
+        <option value="$PROJECT_DIR$/Isometric.Core/Common/VectorHelper.cs" />
+        <option value="$PROJECT_DIR$/Isometric.Core/Managers/Tasks/MovingTask.cs" />
+        <option value="$PROJECT_DIR$/Isometric.Core.Tests/AreaGeneration/ComplexAreaGeneratorTests.cs" />
+        <option value="$PROJECT_DIR$/Isometric.Core.Tests/AreaGeneration/RandomPositionModifierTests.cs" />
+        <option value="$PROJECT_DIR$/Isometric.Core.Tests/AreaTests.cs" />
+        <option value="$PROJECT_DIR$/Isometric.Core.Tests/WorldTests.cs" />
+        <option value="$PROJECT_DIR$/Isometric.Core/Area.cs" />
+        <option value="$PROJECT_DIR$/Isometric.Core.Vectors/Vector.cs" />
+        <option value="$PROJECT_DIR$/Isometric.Server/Server.cs" />
+        <option value="$PROJECT_DIR$/Isometric.Core/Building.cs" />
+        <option value="$PROJECT_DIR$/Isometric.Core/Buildings/ArmyBuilding.cs" />
+        <option value="$PROJECT_DIR$/Isometric.Core/AreaGeneration/RandomGenerator.cs" />
+        <option value="$PROJECT_DIR$/Isometric.Core/AreaGeneration/RandomPositionModifier.cs" />
+        <option value="$PROJECT_DIR$/Isometric.Core/AreaGeneration/VillageModifier.cs" />
+        <option value="$PROJECT_DIR$/Isometric.Core.Tests/ArmyTests.cs" />
+        <option value="$PROJECT_DIR$/Isometric.Core.Tests/BuildingTests.cs" />
+        <option value="$PROJECT_DIR$/Isometric.Core.Tests/Buildings/ArmyBuildingTests.cs" />
+        <option value="$PROJECT_DIR$/Isometric.Core.Tests/Managers/ArmiesManagerTests.cs" />
+        <option value="$PROJECT_DIR$/Isometric.Core.Tests/Buildings/IncomeBuildingTests.cs" />
+        <option value="$PROJECT_DIR$/Isometric.Core/World.cs" />
+        <option value="$PROJECT_DIR$/Isometric.Core/Managers/Tasks/ArmyTask.cs" />
+        <option value="$PROJECT_DIR$/Isometric.Core/Managers/Tasks/QueueTask.cs" />
+        <option value="$PROJECT_DIR$/Isometric.Core/Army.cs" />
+        <option value="$PROJECT_DIR$/Isometric.Core/Managers/Tasks/DestroyingTask.cs" />
+        <option value="$PROJECT_DIR$/Isometric.Core/Managers/ArmiesManager.cs" />
+        <option value="$PROJECT_DIR$/Isometric.Core/GameConstants.cs" />
+        <option value="$PROJECT_DIR$/Isometric.Game/SessionGenerator.cs" />
+        <option value="$PROJECT_DIR$/Isometric.Core/Player.cs" />
+        <option value="$PROJECT_DIR$/Isometric.Server.Application/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Isometric (9 projects)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Isometric (9 projects)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Isometric.Server.Application" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Isometric (9 projects)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Isometric.Game" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Isometric (9 projects)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Isometric.Core" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tools/BashDotNet/BashDotNet/bin/Release/BashDotNet.dll" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.Default">
+    <configuration default="true" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="false" name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Isometric.Server.Application/Isometric.Server.Application.csproj" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5.2" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Isometric.Server.Application/bin/Debug/Isometric.Server.Application.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
+    </list>
+    <configuration />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="091ee08e-5292-4466-9502-0d91d21f75cb" name="Default" comment="" />
+      <created>1503302364752</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1503302364752</updated>
+      <workItem from="1503302366319" duration="2101000" />
+      <workItem from="1503375237245" duration="2487000" />
+      <workItem from="1503381951314" duration="8937000" />
+      <workItem from="1503394186395" duration="6816000" />
+      <workItem from="1503556982989" duration="6693000" />
+      <workItem from="1503696590595" duration="956000" />
+      <workItem from="1503697558868" duration="161000" />
+      <workItem from="1503698186198" duration="609000" />
+      <workItem from="1503806563401" duration="33316000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="62076000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39915523" sideWeight="0.5125" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32826748" sideWeight="0.49166667" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947916" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30091184" sideWeight="0.49375" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46779302" sideWeight="0.4875" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="15" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="DotNetProject">
+        <watch expression="army.World.GetBuilding(to + delta)" language="C#" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Isometric.Server/Log.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Isometric.Server/RequestManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Isometric.Game.Tests/Tests.cs" />
+    <entry file="file://$PROJECT_DIR$/Isometric.Server.Tests/Tests.cs" />
+    <entry file="file://$PROJECT_DIR$/Isometric.Server.Application/Administration/SavingData.cs" />
+    <entry file="file://$PROJECT_DIR$/Isometric.Server.Application/PlayingTimeCalculator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Isometric.Core/Session.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="57" column="54" lean-forward="false" selection-start-line="57" selection-start-column="54" selection-end-line="57" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Isometric.Server.Tests/LogTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="10" column="7" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Isometric.Server.Tests/ConnectionTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="12" column="21" lean-forward="false" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Isometric.Core/Buildings/IncomeBuilding.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2116">
+          <caret line="95" column="13" lean-forward="false" selection-start-line="95" selection-start-column="13" selection-end-line="95" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Isometric.Core/Buildings/PeriodIncomeBuilding.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="12" column="85" lean-forward="false" selection-start-line="12" selection-start-column="85" selection-end-line="12" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Isometric.Core.Vectors/AbsolutePosition.cs" />
+    <entry file="file://$PROJECT_DIR$/Isometric.Core/AbsolutePosition.cs" />
+    <entry file="file://$PROJECT_DIR$/Isometric.Core/Common/VectorHelper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="1" lean-forward="false" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <folding>
+            <marker date="1503895025485" expanded="true" signature="62:555" ph="{...}" />
+            <marker date="1503895025485" expanded="true" signature="101:553" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Isometric.Core/Managers/Tasks/MovingTask.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <marker date="1503896585967" expanded="false" signature="6:72" ph="..." />
+            <marker date="1503896585967" expanded="true" signature="113:1042" ph="{...}" />
+            <marker date="1503896585967" expanded="true" signature="156:1040" ph="{...}" />
+            <marker date="1503896585967" expanded="true" signature="243:1034" ph="{...}" />
+            <marker date="1503896585967" expanded="true" signature="402:997" ph="{...}" />
+            <marker date="1503896585967" expanded="true" signature="524:651" ph="{...}" />
+            <marker date="1503896585967" expanded="true" signature="701:828" ph="{...}" />
+            <marker date="1503896585967" expanded="true" signature="849:983" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Isometric.Core/AreaGeneration/IAreaModifier.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="40" lean-forward="false" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+          <folding>
+            <marker date="1503896774707" expanded="true" signature="70:191" ph="{...}" />
+            <marker date="1503896774707" expanded="true" signature="107:189" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Isometric.Core.Tests/AreaGeneration/ComplexAreaGeneratorTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="38" column="18" lean-forward="false" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
+          <folding>
+            <marker date="1503896949267" expanded="false" signature="6:114" ph="..." />
+            <marker date="1503896949267" expanded="true" signature="161:1508" ph="{...}" />
+            <marker date="1503896949267" expanded="true" signature="224:1506" ph="{...}" />
+            <marker date="1503896949267" expanded="true" signature="329:1500" ph="{...}" />
+            <marker date="1503896949267" expanded="true" signature="645:739" ph="{...}" />
+            <marker date="1503896949267" expanded="true" signature="873:1016" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Isometric.Core.Tests/AreaGeneration/RandomPositionModifierTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="60" column="12" lean-forward="false" selection-start-line="60" selection-start-column="12" selection-end-line="60" selection-end-column="12" />
+          <folding>
+            <marker date="1503896920238" expanded="false" signature="6:133" ph="..." />
+            <marker date="1503896920238" expanded="true" signature="180:2484" ph="{...}" />
+            <marker date="1503896920238" expanded="true" signature="247:2482" ph="{...}" />
+            <marker date="1503896920238" expanded="true" signature="344:1275" ph="{...}" />
+            <marker date="1503896920238" expanded="true" signature="444:531" ph="{...}" />
+            <marker date="1503896920238" expanded="true" signature="755:988" ph="{...}" />
+            <marker date="1503896920238" expanded="true" signature="773:864" ph="{...}" />
+            <marker date="1503896920238" expanded="true" signature="882:973" ph="{...}" />
+            <marker date="1503896920238" expanded="true" signature="1071:1129" ph="/* modifier.Modify(world, position); ... */" />
+            <marker date="1503896920238" expanded="true" signature="1369:2476" ph="{...}" />
+            <marker date="1503896920238" expanded="true" signature="1469:1556" ph="{...}" />
+            <marker date="1503896920238" expanded="true" signature="1784:2017" ph="{...}" />
+            <marker date="1503896920238" expanded="true" signature="1802:1893" ph="{...}" />
+            <marker date="1503896920238" expanded="true" signature="1911:2002" ph="{...}" />
+            <marker date="1503896920238" expanded="true" signature="2114:2247" ph="{...}" />
+            <marker date="1503896920238" expanded="true" signature="2293:2380" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Isometric.Server.Application/Common/WorldHelper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="7" column="48" lean-forward="false" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Isometric.Core.Tests/AreaTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="22" column="38" lean-forward="false" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+          <folding>
+            <marker date="1503897115031" expanded="false" signature="6:77" ph="..." />
+            <marker date="1503897115031" expanded="true" signature="109:798" ph="{...}" />
+            <marker date="1503897115031" expanded="true" signature="156:796" ph="{...}" />
+            <marker date="1503897115031" expanded="true" signature="225:790" ph="{...}" />
+            <marker date="1503897115031" expanded="true" signature="399:598" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Isometric.Core.Tests/WorldTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1070">
+          <caret line="82" column="0" lean-forward="false" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+          <folding>
+            <marker date="1503897092032" expanded="false" signature="6:77" ph="..." />
+            <marker date="1503897092032" expanded="true" signature="109:2758" ph="{...}" />
+            <marker date="1503897092032" expanded="true" signature="157:2756" ph="{...}" />
+            <marker date="1503897092032" expanded="true" signature="237:859" ph="{...}" />
+            <marker date="1503897092032" expanded="true" signature="389:553" ph="{...}" />
+            <marker date="1503897092032" expanded="true" signature="925:1554" ph="{...}" />
+            <marker date="1503897092032" expanded="true" signature="1077:1241" ph="{...}" />
+            <marker date="1503897092032" expanded="true" signature="1624:2033" ph="{...}" />
+            <marker date="1503897092032" expanded="true" signature="2106:2750" ph="{...}" />
+            <marker date="1503897092032" expanded="true" signature="2261:2428" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Isometric.Server/Connection.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="93" column="32" lean-forward="false" selection-start-line="93" selection-start-column="32" selection-end-line="93" selection-end-column="32" />
+          <folding>
+            <marker date="1503384307405" expanded="false" signature="6:113" ph="..." />
+            <marker date="1503384307405" expanded="true" signature="141:3176" ph="{...}" />
+            <marker date="1503384307405" expanded="true" signature="174:3174" ph="{...}" />
+            <marker date="1503384307405" expanded="true" signature="305:600" ph="{...}" />
+            <marker date="1503384307405" expanded="true" signature="368:590" ph="{...}" />
+            <marker date="1503384307405" expanded="true" signature="454:576" ph="{...}" />
+            <marker date="1503384307405" expanded="true" signature="810:920" ph="{...}" />
+            <marker date="1503384307405" expanded="true" signature="957:1045" ph="{...}" />
+            <marker date="1503384307405" expanded="true" signature="1176:2174" ph="{...}" />
+            <marker date="1503384307405" expanded="true" signature="1264:2150" ph="{...}" />
+            <marker date="1503384307405" expanded="true" signature="1353:1494" ph="{...}" />
+            <marker date="1503384307405" expanded="true" signature="1538:1615" ph="{...}" />
+            <marker date="1503384307405" expanded="true" signature="2211:2573" ph="{...}" />
+            <marker date="1503384307405" expanded="true" signature="2353:2459" ph="{...}" />
+            <marker date="1503384307405" expanded="true" signature="2618:2699" ph="{...}" />
+            <marker date="1503384307405" expanded="true" signature="2733:3168" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Isometric.Server.Application/Administration/AdministrationConsoleFacade.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="28" column="41" lean-forward="false" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
+          <folding>
+            <marker date="1503395449597" expanded="true" signature="6:84" ph="..." />
+            <marker date="1503395449597" expanded="true" signature="139:1659" ph="{...}" />
+            <marker date="1503395449597" expanded="true" signature="193:1657" ph="{...}" />
+            <marker date="1503395449597" expanded="true" signature="247:360" ph="{...}" />
+            <marker date="1503395449597" expanded="true" signature="501:1211" ph="{...}" />
+            <marker date="1503395449597" expanded="true" signature="796:1198" ph="{...}" />
+            <marker date="1503395449597" expanded="true" signature="926:1115" ph="{...}" />
+            <marker date="1503395449597" expanded="true" signature="1336:1651" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tools/BashDotNet/BashDotNet/Library.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tools/BashDotNet/BashDotNet/Generic/Library.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="167" column="16" lean-forward="false" selection-start-line="167" selection-start-column="16" selection-end-line="167" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tools/BashDotNet/BashDotNet/Command.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Isometric.Server.Application/CommandsLibrary.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="43" column="71" lean-forward="false" selection-start-line="43" selection-start-column="71" selection-end-line="43" selection-end-column="71" />
+          <folding>
+            <marker date="1503384380765" expanded="false" signature="6:103" ph="..." />
+            <marker date="1503384380765" expanded="true" signature="143:2658" ph="{...}" />
+            <marker date="1503384380765" expanded="true" signature="185:2656" ph="{...}" />
+            <marker date="1503384380765" expanded="true" signature="450:951" ph="{...}" />
+            <marker date="1503384380765" expanded="true" signature="538:929" ph="{...}" />
+            <marker date="1503384380765" expanded="true" signature="1108:1190" ph="{...}" />
+            <marker date="1503384380765" expanded="true" signature="1227:1726" ph="{...}" />
+            <marker date="1503384380765" expanded="true" signature="1889:2015" ph="{...}" />
+            <marker date="1503384380765" expanded="true" signature="2179:2326" ph="{...}" />
+            <marker date="1503384380765" expanded="true" signature="2492:2647" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Isometric.Core.Vectors/Vector.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="49" lean-forward="false" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
+          <folding>
+            <marker date="1503904901443" expanded="true" signature="47:1567" ph="{...}" />
+            <marker date="1503904901443" expanded="true" signature="74:1565" ph="{...}" />
+            <marker date="1503904901443" expanded="true" signature="256:314" ph="{...}" />
+            <marker date="1503904901443" expanded="true" signature="817:871" ph="{...}" />
+            <marker date="1503904901443" expanded="true" signature="933:985" ph="{...}" />
+            <marker date="1503904901443" expanded="true" signature="1036:1236" ph="{...}" />
+            <marker date="1503904901443" expanded="true" signature="1077:1188" ph="{...}" />
+            <marker date="1503904901443" expanded="true" signature="1278:1347" ph="{...}" />
+            <marker date="1503904901443" expanded="true" signature="1390:1498" ph="{...}" />
+            <marker date="1503904901443" expanded="true" signature="1422:1488" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Isometric.Server/Server.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <folding>
+            <marker date="1503905275153" expanded="false" signature="6:141" ph="..." />
+            <marker date="1503905275153" expanded="true" signature="169:1769" ph="{...}" />
+            <marker date="1503905275153" expanded="true" signature="212:1767" ph="{...}" />
+            <marker date="1503905275153" expanded="true" signature="736:797" ph="/// Testing ctor ... " />
+            <marker date="1503905275153" expanded="true" signature="912:1119" ph="{...}" />
+            <marker date="1503905275153" expanded="true" signature="1131:1193" ph="/// Starts Server ... " />
+            <marker date="1503905275153" expanded="true" signature="1221:1679" ph="{...}" />
+            <marker date="1503905275153" expanded="true" signature="1332:1669" ph="{...}" />
+            <marker date="1503905275153" expanded="true" signature="1712:1761" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Isometric.Core/Area.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <marker date="1503898363930" expanded="false" signature="6:99" ph="..." />
+            <marker date="1503898363930" expanded="true" signature="125:1114" ph="{...}" />
+            <marker date="1503898363930" expanded="true" signature="163:1112" ph="{...}" />
+            <marker date="1503898363930" expanded="true" signature="215:341" ph="{...}" />
+            <marker date="1503898363930" expanded="true" signature="385:485" ph="{...}" />
+            <marker date="1503898363930" expanded="true" signature="637:698" ph="/// testing ctor ... " />
+            <marker date="1503898363930" expanded="true" signature="775:927" ph="{...}" />
+            <marker date="1503898363930" expanded="true" signature="982:1106" ph="{...}" />
+            <marker date="1503898363930" expanded="true" signature="1033:1096" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Isometric.Core/Building.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="214" column="27" lean-forward="false" selection-start-line="214" selection-start-column="27" selection-end-line="214" selection-end-column="27" />
+          <folding>
+            <marker date="1504075158452" expanded="false" signature="6:152" ph="..." />
+            <marker date="1504075158452" expanded="true" signature="178:8470" ph="{...}" />
+            <marker date="1504075158452" expanded="true" signature="354:8468" ph="{...}" />
+            <marker date="1504075158452" expanded="false" signature="369:617" ph="Private fields" />
+            <marker date="1504075158452" expanded="false" signature="629:1461" ph="Building main variables" />
+            <marker date="1504075158452" expanded="true" signature="792:1285" ph="{...}" />
+            <marker date="1504075158452" expanded="true" signature="845:1275" ph="{...}" />
+            <marker date="1504075158452" expanded="true" signature="895:1043" ph="{...}" />
+            <marker date="1504075158452" expanded="true" signature="1113:1261" ph="{...}" />
+            <marker date="1504075158452" expanded="false" signature="1481:1892" ph="Prototype main variables" />
+            <marker date="1504075158452" expanded="false" signature="1912:3848" ph="People variables" />
+            <marker date="1504075158452" expanded="false" signature="2097:2518" ph="{...}" />
+            <marker date="1504075158452" expanded="true" signature="2166:2508" ph="{...}" />
+            <marker date="1504075158452" expanded="true" signature="2369:2476" ph="{...}" />
+            <marker date="1504075158452" expanded="true" signature="2615:2850" ph="{...}" />
+            <marker date="1504075158452" expanded="true" signature="2681:2840" ph="{...}" />
+            <marker date="1504075158452" expanded="true" signature="2879:3108" ph="{...}" />
+            <marker date="1504075158452" expanded="true" signature="2943:3098" ph="{...}" />
+            <marker date="1504075158452" expanded="true" signature="3145:3467" ph="{...}" />
+            <marker date="1504075158452" expanded="true" signature="3216:3457" ph="{...}" />
+            <marker date="1504075158452" expanded="true" signature="3360:3443" ph="{...}" />
+            <marker date="1504075158452" expanded="true" signature="3502:3828" ph="{...}" />
+            <marker date="1504075158452" expanded="true" signature="3572:3818" ph="{...}" />
+            <marker date="1504075158452" expanded="true" signature="3711:3804" ph="{...}" />
+            <marker date="1504075158452" expanded="true" signature="3868:4476" ph="IMilitaryObject" />
+            <marker date="1504075158452" expanded="true" signature="4264:4456" ph="{...}" />
+            <marker date="1504075158452" expanded="true" signature="4600:4661" ph="/// Testing ctor ... " />
+            <marker date="1504075158452" expanded="true" signature="4747:4819" ph="{...}" />
+            <marker date="1504075158452" expanded="true" signature="5070:5548" ph="{...}" />
+            <marker date="1504075158452" expanded="true" signature="5623:5834" ph="{...}" />
+            <marker date="1504075158452" expanded="true" signature="5855:5907" ph="{...}" />
+            <marker date="1504075158452" expanded="true" signature="5963:8195" ph="{...}" />
+            <marker date="1504075158452" expanded="true" signature="6037:6103" ph="{...}" />
+            <marker date="1504075158452" expanded="true" signature="6156:6709" ph="{...}" />
+            <marker date="1504075158452" expanded="true" signature="6537:6695" ph="{...}" />
+            <marker date="1504075158452" expanded="true" signature="6751:6803" ph="{...}" />
+            <marker date="1504075158452" expanded="true" signature="6941:7600" ph="{...}" />
+            <marker date="1504075158452" expanded="true" signature="7704:8185" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Isometric.Core/Buildings/ArmyBuilding.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="47" column="21" lean-forward="false" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
+          <folding>
+            <marker date="1504075207977" expanded="false" signature="6:42" ph="..." />
+            <marker date="1504075207977" expanded="true" signature="78:1798" ph="{...}" />
+            <marker date="1504075207977" expanded="true" signature="121:1796" ph="{...}" />
+            <marker date="1504075207977" expanded="true" signature="274:387" ph="{...}" />
+            <marker date="1504075207977" expanded="true" signature="399:460" ph="/// testing ctor ... " />
+            <marker date="1504075207977" expanded="true" signature="633:745" ph="{...}" />
+            <marker date="1504075207977" expanded="true" signature="801:1790" ph="{...}" />
+            <marker date="1504075207977" expanded="true" signature="954:1780" ph="{...}" />
+            <marker date="1504075207977" expanded="true" signature="1127:1766" ph="{...}" />
+            <marker date="1504075207977" expanded="true" signature="1286:1432" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Isometric.Core/AreaGeneration/RandomGenerator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="24" column="37" lean-forward="false" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+          <folding>
+            <marker date="1504075225586" expanded="false" signature="6:47" ph="..." />
+            <marker date="1504075225586" expanded="true" signature="88:1026" ph="{...}" />
+            <marker date="1504075225586" expanded="true" signature="140:1024" ph="{...}" />
+            <marker date="1504075225586" expanded="true" signature="285:354" ph="{...}" />
+            <marker date="1504075225586" expanded="true" signature="419:1018" ph="{...}" />
+            <marker date="1504075225586" expanded="true" signature="612:964" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Isometric.Core/AreaGeneration/RandomPositionModifier.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="53" column="32" lean-forward="false" selection-start-line="53" selection-start-column="32" selection-end-line="53" selection-end-column="32" />
+          <folding>
+            <marker date="1504075234392" expanded="false" signature="6:62" ph="..." />
+            <marker date="1504075234392" expanded="true" signature="103:1797" ph="{...}" />
+            <marker date="1504075234392" expanded="true" signature="161:1795" ph="{...}" />
+            <marker date="1504075234392" expanded="true" signature="268:329" ph="/// testing ctor ... " />
+            <marker date="1504075234392" expanded="true" signature="444:528" ph="{...}" />
+            <marker date="1504075234392" expanded="true" signature="607:1789" ph="{...}" />
+            <marker date="1504075234392" expanded="true" signature="738:864" ph="{...}" />
+            <marker date="1504075234392" expanded="true" signature="950:1779" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Isometric.Core/AreaGeneration/VillageModifier.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="56" column="32" lean-forward="false" selection-start-line="56" selection-start-column="32" selection-end-line="56" selection-end-column="32" />
+          <folding>
+            <marker date="1504075239992" expanded="false" signature="6:62" ph="..." />
+            <marker date="1504075239992" expanded="true" signature="103:2055" ph="{...}" />
+            <marker date="1504075239992" expanded="true" signature="154:2053" ph="{...}" />
+            <marker date="1504075239992" expanded="true" signature="412:563" ph="{...}" />
+            <marker date="1504075239992" expanded="true" signature="642:2047" ph="{...}" />
+            <marker date="1504075239992" expanded="true" signature="716:818" ph="{...}" />
+            <marker date="1504075239992" expanded="true" signature="1161:1291" ph="{...}" />
+            <marker date="1504075239992" expanded="true" signature="1346:2037" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Isometric.Core.Tests/ArmyTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="205" column="37" lean-forward="false" selection-start-line="205" selection-start-column="37" selection-end-line="205" selection-end-column="37" />
+          <folding>
+            <marker date="1504075553065" expanded="false" signature="6:96" ph="..." />
+            <marker date="1504075553065" expanded="true" signature="128:5984" ph="{...}" />
+            <marker date="1504075553065" expanded="true" signature="175:5982" ph="{...}" />
+            <marker date="1504075553065" expanded="true" signature="261:699" ph="{...}" />
+            <marker date="1504075553065" expanded="true" signature="339:543" ph="{...}" />
+            <marker date="1504075553065" expanded="true" signature="788:1301" ph="{...}" />
+            <marker date="1504075553065" expanded="true" signature="866:1160" ph="{...}" />
+            <marker date="1504075553065" expanded="true" signature="1376:1728" ph="{...}" />
+            <marker date="1504075553065" expanded="true" signature="1824:2548" ph="{...}" />
+            <marker date="1504075553065" expanded="true" signature="2205:2303" ph="{...}" />
+            <marker date="1504075553065" expanded="true" signature="2632:3648" ph="{...}" />
+            <marker date="1504075553065" expanded="true" signature="2711:2825" ph="{...}" />
+            <marker date="1504075553065" expanded="true" signature="2916:3059" ph="{...}" />
+            <marker date="1504075553065" expanded="true" signature="2934:3044" ph="{...}" />
+            <marker date="1504075553065" expanded="true" signature="3291:3449" ph="{...}" />
+            <marker date="1504075553065" expanded="true" signature="3730:4772" ph="{...}" />
+            <marker date="1504075553065" expanded="true" signature="3809:3922" ph="{...}" />
+            <marker date="1504075553065" expanded="true" signature="4013:4156" ph="{...}" />
+            <marker date="1504075553065" expanded="true" signature="4031:4141" ph="{...}" />
+            <marker date="1504075553065" expanded="true" signature="4376:4534" ph="{...}" />
+            <marker date="1504075553065" expanded="true" signature="4867:5308" ph="{...}" />
+            <marker date="1504075553065" expanded="true" signature="4945:5078" ph="{...}" />
+            <marker date="1504075553065" expanded="true" signature="5366:5976" ph="{...}" />
+            <marker date="1504075553065" expanded="true" signature="5719:5817" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Isometric.Core.Tests/BuildingTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="157" column="21" lean-forward="false" selection-start-line="157" selection-start-column="21" selection-end-line="157" selection-end-column="21" />
+          <folding>
+            <marker date="1504075571057" expanded="false" signature="6:136" ph="..." />
+            <marker date="1504075571057" expanded="true" signature="168:13070" ph="{...}" />
+            <marker date="1504075571057" expanded="true" signature="219:13068" ph="{...}" />
+            <marker date="1504075571057" expanded="true" signature="285:716" ph="{...}" />
+            <marker date="1504075571057" expanded="true" signature="397:496" ph="{...}" />
+            <marker date="1504075571057" expanded="true" signature="533:600" ph="{...}" />
+            <marker date="1504075571057" expanded="true" signature="795:1167" ph="{...}" />
+            <marker date="1504075571057" expanded="true" signature="881:1013" ph="{...}" />
+            <marker date="1504075571057" expanded="true" signature="1253:1798" ph="{...}" />
+            <marker date="1504075571057" expanded="true" signature="1339:1637" ph="{...}" />
+            <marker date="1504075571057" expanded="true" signature="1879:2425" ph="{...}" />
+            <marker date="1504075571057" expanded="true" signature="1965:2263" ph="{...}" />
+            <marker date="1504075571057" expanded="true" signature="2528:3018" ph="{...}" />
+            <marker date="1504075571057" expanded="true" signature="2614:2857" ph="{...}" />
+            <marker date="1504075571057" expanded="true" signature="3104:3649" ph="{...}" />
+            <marker date="1504075571057" expanded="true" signature="3190:3488" ph="{...}" />
+            <marker date="1504075571057" expanded="true" signature="3721:4137" ph="{...}" />
+            <marker date="1504075571057" expanded="true" signature="4013:4127" ph="{...}" />
+            <marker date="1504075571057" expanded="true" signature="4230:4797" ph="{...}" />
+            <marker date="1504075571057" expanded="true" signature="4871:5209" ph="{...}" />
+            <marker date="1504075571057" expanded="true" signature="5300:5655" ph="{...}" />
+            <marker date="1504075571057" expanded="true" signature="5749:6148" ph="{...}" />
+            <marker date="1504075571057" expanded="true" signature="6220:6713" ph="{...}" />
+            <marker date="1504075571057" expanded="true" signature="6306:6553" ph="{...}" />
+            <marker date="1504075571057" expanded="true" signature="6808:7509" ph="{...}" />
+            <marker date="1504075571057" expanded="true" signature="6894:7348" ph="{...}" />
+            <marker date="1504075571057" expanded="true" signature="7053:7277" ph="{...}" />
+            <marker date="1504075571057" expanded="true" signature="7575:8259" ph="{...}" />
+            <marker date="1504075571057" expanded="true" signature="7711:8100" ph="{...}" />
+            <marker date="1504075571057" expanded="true" signature="7870:7958" ph="{...}" />
+            <marker date="1504075571057" expanded="true" signature="8347:9094" ph="{...}" />
+            <marker date="1504075571057" expanded="true" signature="8433:8927" ph="{...}" />
+            <marker date="1504075571057" expanded="true" signature="8592:8816" ph="{...}" />
+            <marker date="1504075571057" expanded="true" signature="9155:9710" ph="{...}" />
+            <marker date="1504075571057" expanded="true" signature="9286:9539" ph="{...}" />
+            <marker date="1504075571057" expanded="true" signature="9801:10537" ph="{...}" />
+            <marker date="1504075571057" expanded="true" signature="9887:10378" ph="{...}" />
+            <marker date="1504075571057" expanded="true" signature="10046:10270" ph="{...}" />
+            <marker date="1504075571057" expanded="true" signature="10610:11214" ph="{...}" />
+            <marker date="1504075571057" expanded="true" signature="10696:11053" ph="{...}" />
+            <marker date="1504075571057" expanded="true" signature="11299:11591" ph="{...}" />
+            <marker date="1504075571057" expanded="true" signature="11385:11438" ph="{...}" />
+            <marker date="1504075571057" expanded="true" signature="11667:12086" ph="{...}" />
+            <marker date="1504075571057" expanded="true" signature="11794:11879" ph="{...}" />
+            <marker date="1504075571057" expanded="true" signature="12175:12678" ph="{...}" />
+            <marker date="1504075571057" expanded="true" signature="12261:12516" ph="{...}" />
+            <marker date="1504075571057" expanded="true" signature="12756:13062" ph="{...}" />
+            <marker date="1504075571057" expanded="true" signature="12842:12911" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Isometric.Core.Tests/Buildings/ArmyBuildingTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="105" column="22" lean-forward="false" selection-start-line="105" selection-start-column="22" selection-end-line="105" selection-end-column="22" />
+          <folding>
+            <marker date="1504075734241" expanded="false" signature="6:117" ph="..." />
+            <marker date="1504075734241" expanded="true" signature="159:4096" ph="{...}" />
+            <marker date="1504075734241" expanded="true" signature="214:4094" ph="{...}" />
+            <marker date="1504075734241" expanded="true" signature="290:939" ph="{...}" />
+            <marker date="1504075734241" expanded="true" signature="373:775" ph="{...}" />
+            <marker date="1504075734241" expanded="true" signature="1039:2061" ph="{...}" />
+            <marker date="1504075734241" expanded="true" signature="1122:1577" ph="{...}" />
+            <marker date="1504075734241" expanded="true" signature="1624:1724" ph="{...}" />
+            <marker date="1504075734241" expanded="true" signature="2146:3054" ph="{...}" />
+            <marker date="1504075734241" expanded="true" signature="2229:2688" ph="{...}" />
+            <marker date="1504075734241" expanded="true" signature="2735:2835" ph="{...}" />
+            <marker date="1504075734241" expanded="true" signature="3133:4088" ph="{...}" />
+            <marker date="1504075734241" expanded="true" signature="3216:3729" ph="{...}" />
+            <marker date="1504075734241" expanded="true" signature="3776:3876" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Isometric.Core.Tests/Managers/ArmiesManagerTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="99" column="9" lean-forward="false" selection-start-line="99" selection-start-column="9" selection-end-line="99" selection-end-column="9" />
+          <folding>
+            <marker date="1504076199552" expanded="false" signature="6:153" ph="..." />
+            <marker date="1504076199552" expanded="true" signature="194:3212" ph="{...}" />
+            <marker date="1504076199552" expanded="true" signature="250:3210" ph="{...}" />
+            <marker date="1504076199552" expanded="false" signature="317:1635" ph="{...}" />
+            <marker date="1504076199552" expanded="true" signature="455:1387" ph="{...}" />
+            <marker date="1504076199552" expanded="true" signature="625:1327" ph="{...}" />
+            <marker date="1504076199552" expanded="true" signature="721:1308" ph="{...}" />
+            <marker date="1504076199552" expanded="true" signature="722:1307" ph="{...}" />
+            <marker date="1504076199552" expanded="true" signature="781:1285" ph="{...}" />
+            <marker date="1504076199552" expanded="true" signature="1709:3204" ph="{...}" />
+            <marker date="1504076199552" expanded="true" signature="1837:2571" ph="{...}" />
+            <marker date="1504076199552" expanded="true" signature="1890:2557" ph="{...}" />
+            <marker date="1504076199552" expanded="true" signature="1912:2539" ph="{...}" />
+            <marker date="1504076199552" expanded="true" signature="2013:2517" ph="{...}" />
+            <marker date="1504076199552" expanded="true" signature="2618:2979" ph="{...}" />
+            <marker date="1504076199552" expanded="true" signature="2719:2788" ph="{...}" />
+            <marker date="1504076199552" expanded="true" signature="2994:3061" ph="/* act ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Isometric.Core.Tests/Buildings/IncomeBuildingTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="112" column="32" lean-forward="false" selection-start-line="112" selection-start-column="32" selection-end-line="112" selection-end-column="32" />
+          <folding>
+            <marker date="1504076553553" expanded="false" signature="6:68" ph="..." />
+            <marker date="1504076553553" expanded="true" signature="110:5939" ph="{...}" />
+            <marker date="1504076553553" expanded="true" signature="167:5937" ph="{...}" />
+            <marker date="1504076553553" expanded="true" signature="257:1146" ph="{...}" />
+            <marker date="1504076553553" expanded="true" signature="349:980" ph="{...}" />
+            <marker date="1504076553553" expanded="true" signature="410:541" ph="{...}" />
+            <marker date="1504076553553" expanded="true" signature="810:965" ph="{...}" />
+            <marker date="1504076553553" expanded="true" signature="1223:1838" ph="{...}" />
+            <marker date="1504076553553" expanded="true" signature="1308:1693" ph="{...}" />
+            <marker date="1504076553553" expanded="true" signature="1918:2516" ph="{...}" />
+            <marker date="1504076553553" expanded="true" signature="2010:2349" ph="{...}" />
+            <marker date="1504076553553" expanded="true" signature="2594:3191" ph="{...}" />
+            <marker date="1504076553553" expanded="true" signature="2686:3025" ph="{...}" />
+            <marker date="1504076553553" expanded="true" signature="3264:4131" ph="{...}" />
+            <marker date="1504076553553" expanded="true" signature="3356:3903" ph="{...}" />
+            <marker date="1504076553553" expanded="true" signature="3764:3839" ph="{...}" />
+            <marker date="1504076553553" expanded="true" signature="4216:5144" ph="{...}" />
+            <marker date="1504076553553" expanded="true" signature="4308:4916" ph="{...}" />
+            <marker date="1504076553553" expanded="true" signature="4720:4852" ph="{...}" />
+            <marker date="1504076553553" expanded="true" signature="5224:5931" ph="{...}" />
+            <marker date="1504076553553" expanded="true" signature="5316:5765" ph="{...}" />
+            <marker date="1504076553553" expanded="true" signature="5655:5710" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Isometric.Core/World.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="84" column="33" lean-forward="false" selection-start-line="84" selection-start-column="33" selection-end-line="84" selection-end-column="33" />
+          <folding>
+            <marker date="1504077991416" expanded="false" signature="6:136" ph="..." />
+            <marker date="1504077991416" expanded="true" signature="162:2576" ph="{...}" />
+            <marker date="1504077991416" expanded="true" signature="201:2574" ph="{...}" />
+            <marker date="1504077991416" expanded="true" signature="533:594" ph="/// testing ctor ... " />
+            <marker date="1504077991416" expanded="true" signature="738:948" ph="{...}" />
+            <marker date="1504077991416" expanded="true" signature="995:1125" ph="{...}" />
+            <marker date="1504077991416" expanded="true" signature="1049:1115" ph="{...}" />
+            <marker date="1504077991416" expanded="true" signature="1173:1296" ph="{...}" />
+            <marker date="1504077991416" expanded="true" signature="1358:1913" ph="{...}" />
+            <marker date="1504077991416" expanded="true" signature="1460:1518" ph="{...}" />
+            <marker date="1504077991416" expanded="true" signature="1965:2047" ph="{...}" />
+            <marker date="1504077991416" expanded="true" signature="2109:2192" ph="{...}" />
+            <marker date="1504077991416" expanded="true" signature="2254:2378" ph="{...}" />
+            <marker date="1504077991416" expanded="true" signature="2444:2568" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Isometric.Core/Managers/Tasks/QueueTask.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="19" column="9" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Isometric.Core/Army.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="774">
+          <caret line="108" column="85" lean-forward="false" selection-start-line="108" selection-start-column="85" selection-end-line="108" selection-end-column="85" />
+          <folding>
+            <marker date="1504150918234" expanded="false" signature="6:118" ph="..." />
+            <marker date="1504150918234" expanded="true" signature="144:5025" ph="{...}" />
+            <marker date="1504150918234" expanded="true" signature="199:5023" ph="{...}" />
+            <marker date="1504150918234" expanded="false" signature="469:1567" ph="{...}" />
+            <marker date="1504150918234" expanded="true" signature="525:1557" ph="{...}" />
+            <marker date="1504150918234" expanded="true" signature="691:755" ph="{...}" />
+            <marker date="1504150918234" expanded="true" signature="960:1106" ph="{...}" />
+            <marker date="1504150918234" expanded="true" signature="1300:1403" ph="{...}" />
+            <marker date="1504150918234" expanded="true" signature="1445:1543" ph="{...}" />
+            <marker date="1504150918234" expanded="false" signature="1762:2392" ph="IMilitaryObject" />
+            <marker date="1504150918234" expanded="true" signature="2112:2217" ph="{...}" />
+            <marker date="1504150918234" expanded="true" signature="2333:2372" ph="{...}" />
+            <marker date="1504150918234" expanded="true" signature="2887:2948" ph="/// testing ctor ... " />
+            <marker date="1504150918234" expanded="true" signature="3107:3337" ph="{...}" />
+            <marker date="1504150918234" expanded="true" signature="3468:3828" ph="{...}" />
+            <marker date="1504150918234" expanded="true" signature="3856:3937" ph="{...}" />
+            <marker date="1504150918234" expanded="true" signature="3993:4460" ph="{...}" />
+            <marker date="1504150918234" expanded="true" signature="4070:4450" ph="{...}" />
+            <marker date="1504150918234" expanded="true" signature="4513:5017" ph="{...}" />
+            <marker date="1504150918234" expanded="true" signature="4662:4722" ph="{...}" />
+            <marker date="1504150918234" expanded="true" signature="4762:4946" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Isometric.Core/Managers/Tasks/ArmyTask.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="38" lean-forward="false" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+          <folding>
+            <marker date="1503558332009" expanded="true" signature="54:200" ph="{...}" />
+            <marker date="1503558332009" expanded="true" signature="91:198" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Isometric.Core/Managers/Tasks/DestroyingTask.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="41" lean-forward="false" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+          <folding>
+            <marker date="1504152964642" expanded="true" signature="54:607" ph="{...}" />
+            <marker date="1504152964642" expanded="true" signature="99:605" ph="{...}" />
+            <marker date="1504152964642" expanded="true" signature="159:599" ph="{...}" />
+            <marker date="1504152964642" expanded="true" signature="265:562" ph="{...}" />
+            <marker date="1504152964642" expanded="true" signature="414:548" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Isometric.Core/Managers/ArmiesManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="85" column="17" lean-forward="false" selection-start-line="85" selection-start-column="17" selection-end-line="85" selection-end-column="17" />
+          <folding>
+            <marker date="1504157392421" expanded="false" signature="6:160" ph="..." />
+            <marker date="1504157392421" expanded="true" signature="195:3447" ph="{...}" />
+            <marker date="1504157392421" expanded="true" signature="242:3445" ph="{...}" />
+            <marker date="1504157392421" expanded="true" signature="621:800" ph="{...}" />
+            <marker date="1504157392421" expanded="false" signature="883:964" ph="{...}" />
+            <marker date="1504157392421" expanded="true" signature="1034:1763" ph="{...}" />
+            <marker date="1504157392421" expanded="true" signature="1267:1753" ph="{...}" />
+            <marker date="1504157392421" expanded="true" signature="1563:1739" ph="{...}" />
+            <marker date="1504157392421" expanded="true" signature="1811:2628" ph="{...}" />
+            <marker date="1504157392421" expanded="true" signature="1970:2604" ph="{...}" />
+            <marker date="1504157392421" expanded="true" signature="2035:2191" ph="{...}" />
+            <marker date="1504157392421" expanded="true" signature="2256:2586" ph="{...}" />
+            <marker date="1504157392421" expanded="true" signature="2669:2802" ph="{...}" />
+            <marker date="1504157392421" expanded="true" signature="2846:3089" ph="{...}" />
+            <marker date="1504157392421" expanded="true" signature="3144:3439" ph="{...}" />
+            <marker date="1504157392421" expanded="true" signature="3250:3349" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Isometric.Game/BuildingPrototypes.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="11" column="41" lean-forward="false" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+          <folding>
+            <marker date="1503384212687" expanded="false" signature="6:111" ph="..." />
+            <marker date="1503384212687" expanded="true" signature="137:7698" ph="{...}" />
+            <marker date="1503384212687" expanded="true" signature="177:7696" ph="{...}" />
+            <marker date="1503384212687" expanded="true" signature="772:845" ph="{...}" />
+            <marker date="1503384212687" expanded="true" signature="976:1024" ph="{...}" />
+            <marker date="1503384212687" expanded="true" signature="1133:1181" ph="{...}" />
+            <marker date="1503384212687" expanded="true" signature="1434:1651" ph="{...}" />
+            <marker date="1503384212687" expanded="true" signature="1895:2199" ph="{...}" />
+            <marker date="1503384212687" expanded="true" signature="2408:2588" ph="{...}" />
+            <marker date="1503384212687" expanded="true" signature="2812:2992" ph="{...}" />
+            <marker date="1503384212687" expanded="true" signature="3169:3304" ph="{...}" />
+            <marker date="1503384212687" expanded="true" signature="3670:3768" ph="{...}" />
+            <marker date="1503384212687" expanded="true" signature="3823:3925" ph="{...}" />
+            <marker date="1503384212687" expanded="true" signature="4320:4485" ph="{...}" />
+            <marker date="1503384212687" expanded="true" signature="4538:4718" ph="{...}" />
+            <marker date="1503384212687" expanded="true" signature="4933:5188" ph="{...}" />
+            <marker date="1503384212687" expanded="true" signature="5388:5644" ph="{...}" />
+            <marker date="1503384212687" expanded="true" signature="5876:6131" ph="{...}" />
+            <marker date="1503384212687" expanded="true" signature="6351:6608" ph="{...}" />
+            <marker date="1503384212687" expanded="true" signature="6842:7093" ph="{...}" />
+            <marker date="1503384212687" expanded="true" signature="7134:7181" ph="{...}" />
+            <marker date="1503384212687" expanded="true" signature="7219:7690" ph="{...}" />
+            <marker date="1503384212687" expanded="true" signature="7277:7617" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Isometric.Core/GameConstants.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <marker date="1504178781820" expanded="false" signature="6:50" ph="..." />
+            <marker date="1504178781820" expanded="true" signature="76:739" ph="{...}" />
+            <marker date="1504178781820" expanded="true" signature="109:737" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Isometric.Core/Player.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1243">
+          <caret line="83" column="41" lean-forward="true" selection-start-line="83" selection-start-column="41" selection-end-line="83" selection-end-column="41" />
+          <folding>
+            <marker date="1504179005984" expanded="false" signature="6:123" ph="..." />
+            <marker date="1504179005984" expanded="true" signature="149:3762" ph="{...}" />
+            <marker date="1504179005984" expanded="true" signature="189:3760" ph="{...}" />
+            <marker date="1504179005984" expanded="true" signature="1038:1099" ph="/// testing ctor ... " />
+            <marker date="1504179005984" expanded="true" signature="1186:1266" ph="{...}" />
+            <marker date="1504179005984" expanded="true" signature="1324:2990" ph="{...}" />
+            <marker date="1504179005984" expanded="true" signature="1449:1551" ph="{...}" />
+            <marker date="1504179005984" expanded="true" signature="1905:1979" ph="{...}" />
+            <marker date="1504179005984" expanded="true" signature="2571:2826" ph="{...}" />
+            <marker date="1504179005984" expanded="true" signature="3038:3435" ph="{...}" />
+            <marker date="1504179005984" expanded="true" signature="3156:3425" ph="{...}" />
+            <marker date="1504179005984" expanded="true" signature="3504:3754" ph="{...}" />
+            <marker date="1504179005984" expanded="true" signature="3580:3638" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Isometric.Game/SessionGenerator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="21" column="14" lean-forward="false" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+          <folding>
+            <marker date="1504178848416" expanded="false" signature="6:152" ph="..." />
+            <marker date="1504178848416" expanded="true" signature="178:1808" ph="{...}" />
+            <marker date="1504178848416" expanded="true" signature="214:1806" ph="{...}" />
+            <marker date="1504178848416" expanded="true" signature="254:1800" ph="{...}" />
+            <marker date="1504178848416" expanded="true" signature="323:746" ph="{...}" />
+            <marker date="1504178848416" expanded="true" signature="890:1561" ph="{...}" />
+            <marker date="1504178848416" expanded="true" signature="1070:1292" ph="{...}" />
+            <marker date="1504178848416" expanded="true" signature="1363:1542" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Isometric.Server.Application/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="559">
+          <caret line="162" column="66" lean-forward="true" selection-start-line="162" selection-start-column="66" selection-end-line="162" selection-end-column="66" />
+          <folding>
+            <marker date="1504179378704" expanded="true" signature="6:495" ph="..." />
+            <marker date="1504179378704" expanded="true" signature="535:33821" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="564:33819" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="891:6615" ph="{...}" />
+            <marker date="1504179378704" expanded="false" signature="914:1669" ph="Loading Session" />
+            <marker date="1504179378704" expanded="true" signature="939:1579" ph="/* ##if !DEBUG ... */" />
+            <marker date="1504179378704" expanded="true" signature="1683:4935" ph="News" />
+            <marker date="1504179378704" expanded="true" signature="1771:2779" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="1976:2050" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="2097:2765" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="2406:2745" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="2830:4910" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="2884:4346" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="2972:3464" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="3224:3440" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="3514:4042" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="3623:4020" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="3894:3992" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="4244:4326" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="4390:4895" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="4455:4876" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="4698:4852" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="5269:6605" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="5658:5732" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="5771:6591" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="5822:6205" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="5955:6183" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="6230:6573" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="6435:6551" ph="{...}" />
+            <marker date="1504179378704" expanded="false" signature="6658:7565" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="6692:7548" ph="/* const int savingPeriodMilliseconds = 1000 * 60 * 60 * 6; // 6 hours ... */" />
+            <marker date="1504179378704" expanded="true" signature="7895:33813" ph="{...}" />
+            <marker date="1504179378704" expanded="false" signature="8019:8118" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="8514:33410" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="8540:33388" ph="Requests" />
+            <marker date="1504179378704" expanded="false" signature="8582:9744" ph="Net" />
+            <marker date="1504179378704" expanded="true" signature="8799:8927" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="9069:9675" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="9413:9538" ph="{...}" />
+            <marker date="1504179378704" expanded="false" signature="9794:10493" ph="Administration and debug" />
+            <marker date="1504179378704" expanded="true" signature="10062:10414" ph="{...}" />
+            <marker date="1504179378704" expanded="false" signature="10519:13698" ph="Area &amp; resources" />
+            <marker date="1504179378704" expanded="true" signature="10717:10862" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="11106:11222" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="11399:12976" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="11760:12941" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="12012:12901" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="13191:13625" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="13290:13594" ph="{...}" />
+            <marker date="1504179378704" expanded="false" signature="13724:20712" ph="Buildings" />
+            <marker date="1504179378704" expanded="true" signature="13846:14933" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="14090:14228" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="14465:14625" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="14730:14902" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="15094:18106" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="15569:18075" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="15674:18040" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="18255:20639" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="18382:19064" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="18508:18670" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="18795:18957" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="19297:20608" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="19652:20449" ph="{...}" />
+            <marker date="1504179378704" expanded="false" signature="20738:24962" ph="People management" />
+            <marker date="1504179378704" expanded="true" signature="20872:21408" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="21125:21377" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="21621:21876" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="22086:22392" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="22606:22861" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="23083:24341" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="23405:24262" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="24561:24889" ph="{...}" />
+            <marker date="1504179378704" expanded="false" signature="24988:28141" ph="Researches" />
+            <marker date="1504179378704" expanded="true" signature="25187:26614" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="25841:26535" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="26820:27087" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="27304:28068" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="28167:32616" ph="Armies" />
+            <marker date="1504179378704" expanded="true" signature="28356:29439" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="28559:29360" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="29598:30183" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="29902:30046" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="30353:30979" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="30706:30874" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="31126:31824" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="31370:31793" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="31970:32542" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="32246:32437" ph="{...}" />
+            <marker date="1504179378704" expanded="false" signature="32642:33352" ph="News" />
+            <marker date="1504179378704" expanded="true" signature="32821:33279" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="33051:33200" ph="{...}" />
+            <marker date="1504179378704" expanded="true" signature="33631:33762" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

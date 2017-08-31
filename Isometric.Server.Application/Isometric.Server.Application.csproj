@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{526ED84F-C55B-4F63-B0FA-C8C981F3655D}</ProjectGuid>
+    <ProjectTypeGuids>{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Isometric.Server.Application</RootNamespace>
+    <AssemblyName>Isometric.Server.Application</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BashDotNet, Version=1.0.6443.28626, Culture=neutral, PublicKeyToken=null">
+      <HintPath>..\..\tools\BashDotNet\BashDotNet\bin\Release\BashDotNet.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed">
+      <HintPath>..\packages\Newtonsoft.Json.10.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Administration\AdministrationConsoleFacade.cs" />
+    <Compile Include="CommandsLibrary.cs" />
+    <Compile Include="Common\ArrayHelper.cs" />
+    <Compile Include="PlayingTimeCalculator.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Isometric.Core.Vectors\Isometric.Core.Vectors.csproj">
+      <Project>{AFF2F993-116B-4E56-BBAB-6DF858B182C2}</Project>
+      <Name>Isometric.Core.Vectors</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Isometric.Core\Isometric.Core.csproj">
+      <Project>{ECD21470-37CC-405D-BE33-1D6DAF15FFA9}</Project>
+      <Name>Isometric.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Isometric.Dtos\Isometric.Dtos.csproj">
+      <Project>{D909A4A8-3DAB-40F2-AE5D-0962746C098B}</Project>
+      <Name>Isometric.Dtos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Isometric.Game\Isometric.Game.csproj">
+      <Project>{F456EA9F-5632-412C-ADED-11EC2E3DE855}</Project>
+      <Name>Isometric.Game</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Isometric.Server\Isometric.Server.csproj">
+      <Project>{DBFAF4D0-9329-4E2E-8CA7-74DAB6BFA2DC}</Project>
+      <Name>Isometric.Server</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

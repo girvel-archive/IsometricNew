@@ -1,0 +1,7 @@
+E:\projects\isometric\Isometric.Server\bin\Release\Isometric.Server.dll
+E:\projects\isometric\Isometric.Server\bin\Release\Isometric.Server.pdb
+E:\projects\isometric\Isometric.Server\bin\Release\Newtonsoft.Json.dll
+E:\projects\isometric\Isometric.Server\bin\Release\Newtonsoft.Json.xml
+E:\projects\isometric\Isometric.Server\obj\Release\Isometric.Server.csprojResolveAssemblyReference.cache
+E:\projects\isometric\Isometric.Server\obj\Release\Isometric.Server.dll
+E:\projects\isometric\Isometric.Server\obj\Release\Isometric.Server.pdb

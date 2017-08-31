@@ -1,0 +1,14 @@
+E:\projects\isometric\Isometric.Server.Tests\bin\Release\Isometric.Server.Tests.dll
+E:\projects\isometric\Isometric.Server.Tests\bin\Release\Isometric.Server.Tests.pdb
+E:\projects\isometric\Isometric.Server.Tests\bin\Release\Isometric.Server.dll
+E:\projects\isometric\Isometric.Server.Tests\bin\Release\Moq.dll
+E:\projects\isometric\Isometric.Server.Tests\bin\Release\Newtonsoft.Json.dll
+E:\projects\isometric\Isometric.Server.Tests\bin\Release\nunit.framework.dll
+E:\projects\isometric\Isometric.Server.Tests\bin\Release\Isometric.Server.pdb
+E:\projects\isometric\Isometric.Server.Tests\bin\Release\Moq.pdb
+E:\projects\isometric\Isometric.Server.Tests\bin\Release\Moq.xml
+E:\projects\isometric\Isometric.Server.Tests\bin\Release\Newtonsoft.Json.xml
+E:\projects\isometric\Isometric.Server.Tests\bin\Release\nunit.framework.xml
+E:\projects\isometric\Isometric.Server.Tests\obj\Release\Isometric.Server.Tests.csprojResolveAssemblyReference.cache
+E:\projects\isometric\Isometric.Server.Tests\obj\Release\Isometric.Server.Tests.dll
+E:\projects\isometric\Isometric.Server.Tests\obj\Release\Isometric.Server.Tests.pdb

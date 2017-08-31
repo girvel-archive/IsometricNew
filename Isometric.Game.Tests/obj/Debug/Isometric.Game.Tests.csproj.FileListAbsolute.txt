@@ -1,0 +1,7 @@
+E:\projects\isometric\Isometric.Game.Tests\bin\Debug\Isometric.Game.Tests.dll
+E:\projects\isometric\Isometric.Game.Tests\bin\Debug\Isometric.Game.Tests.pdb
+E:\projects\isometric\Isometric.Game.Tests\bin\Debug\nunit.framework.dll
+E:\projects\isometric\Isometric.Game.Tests\bin\Debug\nunit.framework.xml
+E:\projects\isometric\Isometric.Game.Tests\obj\Debug\Isometric.Game.Tests.csprojResolveAssemblyReference.cache
+E:\projects\isometric\Isometric.Game.Tests\obj\Debug\Isometric.Game.Tests.dll
+E:\projects\isometric\Isometric.Game.Tests\obj\Debug\Isometric.Game.Tests.pdb

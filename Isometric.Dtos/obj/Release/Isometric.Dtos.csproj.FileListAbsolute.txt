@@ -1,0 +1,5 @@
+E:\projects\isometric\Isometric.Dtos\bin\Release\Isometric.Dtos.dll
+E:\projects\isometric\Isometric.Dtos\bin\Release\Isometric.Dtos.pdb
+E:\projects\isometric\Isometric.Dtos\obj\Release\Isometric.Dtos.csprojResolveAssemblyReference.cache
+E:\projects\isometric\Isometric.Dtos\obj\Release\Isometric.Dtos.dll
+E:\projects\isometric\Isometric.Dtos\obj\Release\Isometric.Dtos.pdb

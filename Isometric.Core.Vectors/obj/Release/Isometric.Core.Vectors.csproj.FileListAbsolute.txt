@@ -1,0 +1,5 @@
+E:\projects\isometric\Isometric.Core.Vectors\bin\Release\Isometric.Core.Vectors.dll
+E:\projects\isometric\Isometric.Core.Vectors\bin\Release\Isometric.Core.Vectors.pdb
+E:\projects\isometric\Isometric.Core.Vectors\obj\Release\Isometric.Core.Vectors.csprojResolveAssemblyReference.cache
+E:\projects\isometric\Isometric.Core.Vectors\obj\Release\Isometric.Core.Vectors.dll
+E:\projects\isometric\Isometric.Core.Vectors\obj\Release\Isometric.Core.Vectors.pdb

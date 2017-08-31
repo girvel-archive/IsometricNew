@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RIDER_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../..">
+      <sourceFolder url="file://$MODULE_DIR$/../../Isometric.Core" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Isometric.Core.Tests" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Isometric.Core.Vectors" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Isometric.Dtos" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Isometric.Game" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Isometric.Game.Tests" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Isometric.Server" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Isometric.Server.Application" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Isometric.Server.Tests" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Isometric.Core.Tests/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Isometric.Core.Tests/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Isometric.Core.Vectors/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Isometric.Core.Vectors/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Isometric.Core/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Isometric.Core/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Isometric.Dtos/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Isometric.Dtos/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Isometric.Game.Tests/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Isometric.Game.Tests/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Isometric.Game/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Isometric.Game/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Isometric.Server.Application/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Isometric.Server.Application/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Isometric.Server.Tests/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Isometric.Server.Tests/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Isometric.Server/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Isometric.Server/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../packages" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

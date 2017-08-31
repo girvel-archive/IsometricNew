@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{ECD21470-37CC-405D-BE33-1D6DAF15FFA9}</ProjectGuid>
+    <ProjectTypeGuids>{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Isometric.Core</RootNamespace>
+    <AssemblyName>Isometric.Core</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ChanceList, Version=1.0.6357.35176, Culture=neutral, PublicKeyToken=null">
+      <HintPath>..\..\tools\CsTools\RandomExtensions\bin\Release\ChanceList.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Area.cs" />
+    <Compile Include="AreaGeneration\ComplexAreaGenerator.cs" />
+    <Compile Include="AreaGeneration\IAreaGenerator.cs" />
+    <Compile Include="AreaGeneration\IAreaModifier.cs" />
+    <Compile Include="AreaGeneration\RandomGenerator.cs" />
+    <Compile Include="AreaGeneration\RandomPositionModifier.cs" />
+    <Compile Include="AreaGeneration\VillageModifier.cs" />
+    <Compile Include="ArmorType.cs" />
+    <Compile Include="Army.cs" />
+    <Compile Include="Building.cs" />
+    <Compile Include="Buildings\ArmyBuilding.cs" />
+    <Compile Include="Buildings\IncomeBuilding.cs" />
+    <Compile Include="Buildings\PeriodIncomeBuilding.cs" />
+    <Compile Include="Buildings\ScienceBuilding.cs" />
+    <Compile Include="Buildings\WorkerBuilding.cs" />
+    <Compile Include="Common\ResourcesHelper.cs" />
+    <Compile Include="Common\TimeSpanHelper.cs" />
+    <Compile Include="Common\VectorHelper.cs" />
+    <Compile Include="DefaultResources.cs" />
+    <Compile Include="GameConstants.cs" />
+    <Compile Include="IMilitaryObject.cs" />
+    <Compile Include="IResources.cs" />
+    <Compile Include="Managers\ArmiesManager.cs" />
+    <Compile Include="Managers\PeopleManager.cs" />
+    <Compile Include="Managers\Tasks\DestroyingTask.cs" />
+    <Compile Include="Managers\Tasks\ArmyTask.cs" />
+    <Compile Include="Managers\Tasks\MovingTask.cs" />
+    <Compile Include="Managers\VisionManager.cs" />
+    <Compile Include="Player.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Research.cs" />
+    <Compile Include="Session.cs" />
+    <Compile Include="Time\Clocks.cs" />
+    <Compile Include="Time\ITimeObject.cs" />
+    <Compile Include="World.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Isometric.Core.Vectors\Isometric.Core.Vectors.csproj">
+      <Project>{aff2f993-116b-4e56-bbab-6df858b182c2}</Project>
+      <Name>Isometric.Core.Vectors</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

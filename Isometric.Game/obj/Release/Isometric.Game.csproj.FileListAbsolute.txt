@@ -1,0 +1,11 @@
+E:\projects\isometric\Isometric.Game\bin\Release\Isometric.Game.dll
+E:\projects\isometric\Isometric.Game\bin\Release\Isometric.Game.pdb
+E:\projects\isometric\Isometric.Game\bin\Release\ChanceList.dll
+E:\projects\isometric\Isometric.Game\bin\Release\Isometric.Core.dll
+E:\projects\isometric\Isometric.Game\bin\Release\Isometric.Core.Vectors.dll
+E:\projects\isometric\Isometric.Game\bin\Release\Isometric.Core.Vectors.pdb
+E:\projects\isometric\Isometric.Game\bin\Release\Isometric.Core.pdb
+E:\projects\isometric\Isometric.Game\bin\Release\ChanceList.pdb
+E:\projects\isometric\Isometric.Game\obj\Release\Isometric.Game.csprojResolveAssemblyReference.cache
+E:\projects\isometric\Isometric.Game\obj\Release\Isometric.Game.dll
+E:\projects\isometric\Isometric.Game\obj\Release\Isometric.Game.pdb

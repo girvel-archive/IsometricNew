@@ -1,0 +1,9 @@
+E:\projects\isometric\Isometric.Core\bin\Release\Isometric.Core.dll
+E:\projects\isometric\Isometric.Core\bin\Release\Isometric.Core.pdb
+E:\projects\isometric\Isometric.Core\bin\Release\ChanceList.dll
+E:\projects\isometric\Isometric.Core\bin\Release\Isometric.Core.Vectors.dll
+E:\projects\isometric\Isometric.Core\bin\Release\Isometric.Core.Vectors.pdb
+E:\projects\isometric\Isometric.Core\bin\Release\ChanceList.pdb
+E:\projects\isometric\Isometric.Core\obj\Release\Isometric.Core.csprojResolveAssemblyReference.cache
+E:\projects\isometric\Isometric.Core\obj\Release\Isometric.Core.dll
+E:\projects\isometric\Isometric.Core\obj\Release\Isometric.Core.pdb

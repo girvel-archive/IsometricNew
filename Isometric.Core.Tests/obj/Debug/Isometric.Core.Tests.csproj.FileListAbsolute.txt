@@ -1,0 +1,17 @@
+E:\projects\isometric\Isometric.Core.Tests\obj\Debug\Isometric.Core.Tests.csprojResolveAssemblyReference.cache
+E:\projects\isometric\Isometric.Core.Tests\bin\Debug\Isometric.Core.Tests.dll
+E:\projects\isometric\Isometric.Core.Tests\bin\Debug\Isometric.Core.Tests.pdb
+E:\projects\isometric\Isometric.Core.Tests\bin\Debug\Castle.Core.dll
+E:\projects\isometric\Isometric.Core.Tests\bin\Debug\Isometric.Core.dll
+E:\projects\isometric\Isometric.Core.Tests\bin\Debug\Isometric.Core.Vectors.dll
+E:\projects\isometric\Isometric.Core.Tests\bin\Debug\Moq.dll
+E:\projects\isometric\Isometric.Core.Tests\bin\Debug\nunit.framework.dll
+E:\projects\isometric\Isometric.Core.Tests\bin\Debug\ChanceList.dll
+E:\projects\isometric\Isometric.Core.Tests\bin\Debug\Isometric.Core.Vectors.pdb
+E:\projects\isometric\Isometric.Core.Tests\bin\Debug\Isometric.Core.pdb
+E:\projects\isometric\Isometric.Core.Tests\bin\Debug\Moq.pdb
+E:\projects\isometric\Isometric.Core.Tests\bin\Debug\Moq.xml
+E:\projects\isometric\Isometric.Core.Tests\bin\Debug\nunit.framework.xml
+E:\projects\isometric\Isometric.Core.Tests\bin\Debug\ChanceList.pdb
+E:\projects\isometric\Isometric.Core.Tests\obj\Debug\Isometric.Core.Tests.dll
+E:\projects\isometric\Isometric.Core.Tests\obj\Debug\Isometric.Core.Tests.pdb
