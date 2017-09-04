@@ -222,16 +222,20 @@ namespace Isometric.Game
             {
                 UndergroundHouse,
                 WoodenHouse,
-                Sawmill,
                 Mill,
                 Barracks,
                 HeavyBarracks,
-                HuntersShack,
                 CoalMine,
                 Bakery,
                 SpiritHouse,
                 Field,
                 Workshop,
+            };
+            
+            Forest.Upgrades = new[]
+            {
+                Sawmill,
+                HuntersShack,
             };
 
             UndergroundHouse.Upgrades = new[] {WoodenHouse};

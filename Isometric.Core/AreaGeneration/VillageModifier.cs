@@ -47,17 +47,20 @@ namespace Isometric.Core.AreaGeneration
                 do
                 {
                     currentPosition = Position + new Vector(
-                        random.Next(-villageSize, villageSize),
-                        random.Next(-villageSize, villageSize));
+                        random.Next(-villageSize, villageSize) / 2,
+                        random.Next(-villageSize, villageSize) / 2);
                 } while (area[currentPosition].Prototype == BuildingPrototype);
 
-                area[currentPosition] 
+                var building 
+                    = area[currentPosition] 
                     = Building.CreateByPrototype(
                         BuildingPrototype, 
                         player, 
                         world, 
                         areaPosition * world.AreaWidth + currentPosition, 
                         world.Constants);
+
+                //building.Finished = true;
             }
         }
     }

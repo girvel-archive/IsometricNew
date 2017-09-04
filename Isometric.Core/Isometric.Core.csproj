@@ -43,6 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Area.cs" />
+    <Compile Include="AreaGeneration\ArmyModifier.cs" />
     <Compile Include="AreaGeneration\ComplexAreaGenerator.cs" />
     <Compile Include="AreaGeneration\IAreaGenerator.cs" />
     <Compile Include="AreaGeneration\IAreaModifier.cs" />
