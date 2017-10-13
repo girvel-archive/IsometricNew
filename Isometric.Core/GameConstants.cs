@@ -1,5 +1,6 @@
 ﻿using System;
 using Isometric.Core.AreaGeneration;
+using Isometric.Core.AreaGeneration.Modification;
 
 namespace Isometric.Core
 {
@@ -23,6 +24,10 @@ namespace Isometric.Core
 
         public IAreaModifier PlayerStartVillageModifier { get; set; }
         
+        public IAreaModifier PlayerStartDungeonModifier { get; set; }
+        
         public int StartPeople { get; set; }
+        
+        public Player NeutralPlayer { get; set; }
     }
 }

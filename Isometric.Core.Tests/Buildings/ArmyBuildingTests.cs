@@ -19,9 +19,10 @@ namespace Isometric.Core.Tests.Buildings
                 ArmyCreationTime = TimeSpan.FromSeconds(5),
                 Prototype = new ArmyBuilding {ArmyCreationTime = TimeSpan.FromSeconds(5)},
                 Owner = new Player { Resources = new DefaultResources(100) },
-                Constants = new GameConstants(),
                 ArmyPrototype = new Army { Price = new DefaultResources(),}
             };
+            
+            b.MakeBuildingSafeForTick();
 
             // act
             b.Tick(TimeSpan.FromSeconds(3));
@@ -42,12 +43,14 @@ namespace Isometric.Core.Tests.Buildings
                 Prototype = new ArmyBuilding {ArmyCreationTime = TimeSpan.FromSeconds(5)},
                 FreePeople = 2,
                 Owner = new Player { Resources = new DefaultResources(100) },
-                Constants = new GameConstants(),
             };
+            
+            b.MakeBuildingSafeForTick();
 
             b.World = new World
             {
                 Landscape = new[,] {{new Area {Buildings = new Building[,] {{b}}}}},
+                AreaWidth = 1,
             };
 
             b.World.GetArea(new Vector(0, 0)).World = b.World;
@@ -75,10 +78,13 @@ namespace Isometric.Core.Tests.Buildings
                 Owner = new Player { Resources = new DefaultResources(100)},
                 Constants = new GameConstants(),
             };
+            
+            b.MakeBuildingSafeForTick();
 
             b.World = new World
             {
                 Landscape = new[,] {{new Area {Buildings = new Building[,] {{b}}}}},
+                AreaWidth = 1,
             };
 
             b.World.GetArea(new Vector(0, 0)).World = b.World;
@@ -105,10 +111,13 @@ namespace Isometric.Core.Tests.Buildings
                 Constants = new GameConstants {HungerK = 0.5f},
                 ArePeopleHungry = true,
             };
+            
+            b.MakeBuildingSafeForTick();
 
             b.World = new World
             {
                 Landscape = new[,] {{new Area {Buildings = new Building[,] {{b}}}}},
+                AreaWidth = 1,
             };
 
             b.World.GetArea(new Vector(0, 0)).World = b.World;

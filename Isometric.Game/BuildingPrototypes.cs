@@ -103,17 +103,7 @@ namespace Isometric.Game
             Barracks = new ArmyBuilding(
                 "Barracks",
                 new Resources {Wood = 200},
-                new Army(
-                    "Infantry",
-                    10,
-                    TimeSpan.FromSeconds(3),
-                    10,
-                    Resources.Zero,
-                    new Resources {Food = 10})
-                {
-                    Damage = 10,
-                    Armor = ArmorType.Medium,
-                },
+                Armies.Current.Infantry,
                 TimeSpan.FromMinutes(5))
             {
                 Builders = 2,
@@ -123,18 +113,7 @@ namespace Isometric.Game
             HeavyBarracks = new ArmyBuilding(
                 "Barracks of heavy infantry",
                 new Resources {Wood = 500},
-                new Army(
-                    "Heavy infantry",
-                    15,
-                    TimeSpan.FromSeconds(6),
-                    10,
-                    Resources.Zero,
-                    new Resources {Food = 10})
-                {
-                    Armor = ArmorType.Heavy,
-                    BonusDamageArmorType = ArmorType.Building,
-                    BonusDamage = 10,
-                },
+                Armies.Current.HeavyInfantry,
                 TimeSpan.FromHours(1))
             {
                 Builders = 2,

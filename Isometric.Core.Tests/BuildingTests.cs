@@ -1,5 +1,7 @@
 ﻿using System;
+using System.Collections.Generic;
 using Isometric.Core.Buildings;
+using Isometric.Core.Tests.Buildings;
 using Isometric.Core.Time;
 using Isometric.Core.Vectors;
 using Moq;
@@ -11,58 +13,17 @@ namespace Isometric.Core.Tests
     public class BuildingTests
     {
         [Test]
-        public void Tick_CallsTickDelegate()
-        {
-            // arrange
-            var success = false;
-            var b = new Building
-            {
-                TickAction = dt => success = true,
-                Finished = true,
-            };
-
-            // act
-            try
-            {
-                b.Tick(TimeSpan.Zero);
-            }
-            catch (NullReferenceException) { }
-
-            // assert
-            Assert.IsTrue(success);
-        }
-
-        [Test]
-        public void Tick_DoesNotCallTemplateTickWhenItIsNull()
-        {
-            // arrange
-            var building = new Building
-            {
-                TickAction = null,
-                Finished = true,
-                Constants = new GameConstants(),
-            };
-
-            // act
-            building.Tick(new TimeSpan());
-
-            // assert
-            Assert.IsTrue(true); // when there is no exs
-        }
-
-        [Test]
         public void Tick_ChangesBuildingTimeIfBuildingIsNotFinished()
         {
             // arrange
             var building = new Building
             {
-                TickAction = dt => { },
                 BuildingTime = new TimeSpan(100),
                 Builders = 1,
                 Prototype = new Building { Builders = 1 },
-                Constants = new GameConstants(),
-                Owner = new Player { BirthrateK = 0 },
             };
+            
+            building.MakeBuildingSafeForTick();
 
             // act
             building.Tick(new TimeSpan(50));
@@ -77,13 +38,12 @@ namespace Isometric.Core.Tests
             // arrange
             var building = new Building
             {
-                TickAction = dt => { },
                 BuildingTime = new TimeSpan(100),
                 Builders = 1,
                 Prototype = new Building { Builders = 2 },
-                Constants = new GameConstants(),
-                Owner = new Player { BirthrateK = 0 },
             };
+            
+            building.MakeBuildingSafeForTick();
 
             // act
             building.Tick(new TimeSpan(100));
@@ -98,12 +58,12 @@ namespace Isometric.Core.Tests
             // arrange
             var building = new Building
             {
-                TickAction = dt => { },
                 BuildingTime = new TimeSpan(100),
                 Builders = 0,
                 Prototype = new Building { Builders = 0 },
-                Constants = new GameConstants(),
             };
+            
+            building.MakeBuildingSafeForTick();
 
             // act
             building.Tick(new TimeSpan(100));
@@ -118,13 +78,12 @@ namespace Isometric.Core.Tests
             // arrange
             var building = new Building
             {
-                TickAction = dt => { },
                 BuildingTime = new TimeSpan(100),
                 Builders = 1,
                 Prototype = new Building { Builders = 1 },
-                Constants = new GameConstants(),
-                Owner = new Player { BirthrateK = 0 },
             };
+            
+            building.MakeBuildingSafeForTick();
 
             // act
             ((ITimeObject)building).Tick(new TimeSpan(100));
@@ -201,14 +160,14 @@ namespace Isometric.Core.Tests
         {
             // arrange
             var from = new Building { FreePeople = 1, Builders = 2 };
-            var prototype = new Building();
+            var toPrototype = new Building();
 
             // act
-            var to = Building.CreateByPrototype(prototype, new Player(), null, new Vector(), null, from);
+            var result = Building.CreateByPrototype(toPrototype, new Player(), null, new Vector(), null, from);
 
             // assert
-            Assert.AreEqual(1, to.TotalPeople);
-            Assert.AreEqual(2, to.Builders);
+            Assert.AreEqual(1, result.FreePeople);
+            Assert.AreEqual(2, result.Builders);
         }
 
         [Test]
@@ -221,14 +180,14 @@ namespace Isometric.Core.Tests
                 Builders = 2,
                 FreePeople = 8,
                 Constants = new GameConstants { PeopleGenerationSize = TimeSpan.FromSeconds(10) },
-                Owner = new Player(),
+                Owner = new Player{BirthrateK = 1, MaxPeople = 20,},
             };
 
             // act
             building.Tick(TimeSpan.FromSeconds(1));
 
             // assert
-            Assert.AreEqual(9, building.TotalPeople);
+            Assert.AreEqual(9, building.FreePeople);
         }
 
         [Test]
@@ -246,14 +205,14 @@ namespace Isometric.Core.Tests
                     PersonConsumption = new DefaultResources(0),
                     PersonConsumptionPeriod = TimeSpan.FromMinutes(0),
                 },
-                Owner = new Player { BirthrateK = 2, },
+                Owner = new Player { BirthrateK = 2, MaxPeople = 20, },
             };
 
             // act
             building.Tick(TimeSpan.FromSeconds(1));
 
             // assert
-            Assert.AreEqual(10, building.TotalPeople);
+            Assert.AreEqual(10, building.FreePeople);
         }
 
         [Test]
@@ -273,6 +232,8 @@ namespace Isometric.Core.Tests
                 OnPeopleCreated = n => onPeopleCreatedWasCalled = true,
                 Owner = new Player { BirthrateK = 1 },
             };
+            
+            building.MakeBuildingSafeForTick();
 
             // act
             building.Tick(TimeSpan.FromSeconds(1));
@@ -298,6 +259,8 @@ namespace Isometric.Core.Tests
                 },
                 Owner = new Player { BirthrateK = 0, Resources = new DefaultResources(3, 0), },
             };
+            
+            building.MakeBuildingSafeForTick();
 
             // act
             building.Tick(TimeSpan.FromMinutes(2));
@@ -314,10 +277,10 @@ namespace Isometric.Core.Tests
             var building = new Building
             {
                 Finished = true,
-                Constants = new GameConstants(),
-                Owner = new Player { BirthrateK = 0, Resources = new DefaultResources(0), },
                 Armies = { armyMock.Object, armyMock.Object },
             };
+            
+            building.MakeBuildingSafeForTick();
 
             // act
             building.Tick(TimeSpan.Zero);
@@ -357,7 +320,6 @@ namespace Isometric.Core.Tests
             // arrange
             var building = new Building
             {
-                TickAction = dt => { },
                 BuildingTime = new TimeSpan(100),
                 Builders = 1,
                 Prototype = new Building { Builders = 1 },
@@ -442,6 +404,34 @@ namespace Isometric.Core.Tests
 
             // assert
             Assert.AreEqual(6, building.Owner.TotalPeople);
+        }
+        
+        [Test] 
+        public void IsUpgradePossible_ReturnsTrueWhenBuildingCanBeUpgraded()
+        {
+            // arrange
+            var player = new Player
+            {
+                Resources = Mock.Of<IResources>(r => r.Enough(It.IsAny<IResources>()) == true),
+                ResearchedTechnologies = new List<Research> { new Research() },
+            };
+            var to = new Building
+            {
+                RequiredResearches = player.ResearchedTechnologies.ToArray(),
+            };
+
+            var from = new Building
+            {
+                Finished = true,
+                Upgrades = new[] {to},
+                Owner = player,
+            };
+
+            // act
+            var result = from.IsUpgradePossible(to);
+
+            // assert
+            Assert.IsTrue(result);
         }
     }
 }

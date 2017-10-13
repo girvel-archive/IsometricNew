@@ -49,15 +49,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AreaGeneration\ComplexAreaGeneratorTests.cs" />
-    <Compile Include="AreaGeneration\RandomModifierTests.cs" />
-    <Compile Include="AreaGeneration\RandomPositionModifierTests.cs" />
     <Compile Include="AreaTests.cs" />
     <Compile Include="ArmyTests.cs" />
     <Compile Include="Buildings\ArmyBuildingTests.cs" />
+    <Compile Include="Buildings\BuildingHelper.cs" />
     <Compile Include="Buildings\IncomeBuildingTests.cs" />
     <Compile Include="Buildings\PeriodIncomeBuildingTests.cs" />
     <Compile Include="Buildings\ScienceBuildingTests.cs" />
-    <Compile Include="BuildingTemplateTests.cs" />
     <Compile Include="BuildingTests.cs" />
     <Compile Include="Managers\ArmiesManagerTests.cs" />
     <Compile Include="Managers\PeopleManagerTests.cs" />

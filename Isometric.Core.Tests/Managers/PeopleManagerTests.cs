@@ -51,7 +51,7 @@ namespace Isometric.Core.Tests.Managers
                 {
                     Mock.Of<IncomeBuilding>(
                         b =>
-                            b.Finished == true && b.Workers == 0 && ((Building) b).TotalPeople == 10 &&
+                            b.Finished == true && b.Workers == 0 && b.FreePeople == 10 &&
                             b.Prototype == Mock.Of<IncomeBuilding>(p => p.Workers == 1))
                 }
             };
@@ -75,7 +75,7 @@ namespace Isometric.Core.Tests.Managers
                 {
                     Mock.Of<IncomeBuilding>(
                         b =>
-                            b.Finished == true && b.Workers == 1 && ((Building) b).TotalPeople == 9 &&
+                            b.Finished == true && b.Workers == 1 && b.FreePeople == 9 &&
                             b.Prototype == Mock.Of<IncomeBuilding>(p => p.Workers == 1))
                 }
             };
@@ -100,7 +100,7 @@ namespace Isometric.Core.Tests.Managers
                     Mock.Of<Building>(
                         b =>
                             b.Finished == false &&
-                            b.Builders == 0 && b.TotalPeople == 10 &&
+                            b.Builders == 0 && b.FreePeople == 10 &&
                             b.Prototype == Mock.Of<IncomeBuilding>(
                                 p => p.Workers == 0 && p.Builders == 1))
                 }

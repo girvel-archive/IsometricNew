@@ -4,6 +4,6 @@ namespace Isometric.Core.AreaGeneration
 {
     public interface IAreaGenerator
     {
-        void GenerateArea(World world, Vector position);
+        void GenerateArea(World world, Vector position, Player owner);
     }
 }

@@ -71,13 +71,11 @@ namespace Isometric.Core
 
         public bool Finished { get; set; }
 
-        public Building[] Upgrades { get; set; } = {};
+        public Building[] Upgrades { get; set; } = new Building[0];
 
         public Research[] RequiredResearches { get; set; } = {};
 
         public IResources Price { get; set; }
-
-        public TickAction TickAction { get; set; }
 
         #endregion
 
@@ -184,7 +182,13 @@ namespace Isometric.Core
         {
             World.SetBuilding(
                 Position,
-                CreateByPrototype(Constants.DestroyedBuilding, Player.Neutral, World, Position, Constants, this));
+                CreateByPrototype(
+                    Constants.DestroyedBuilding, 
+                    Constants.NeutralPlayer, 
+                    World, 
+                    Position,
+                    Constants, 
+                    this));
         }
 
         #endregion
@@ -274,13 +278,6 @@ namespace Isometric.Core
                 }
             }
 
-            if (Owner == Player.Neutral)
-            {
-                return;
-            }
-
-            TickAction?.Invoke(deltaTime);
-
             // people appearance
 
             if (TotalPeople != 0 && Owner.BirthrateK != 0)
@@ -296,7 +293,7 @@ namespace Isometric.Core
                             (float)PersonCreationTime.Ticks
                             / creationPeriod.Ticks)));
 
-                TotalPeople += times;
+                FreePeople += times;
                 PersonCreationTime -= creationPeriod.Multiple(times);
 
                 OnPeopleCreated?.Invoke(times);

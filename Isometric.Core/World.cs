@@ -48,7 +48,8 @@ namespace Isometric.Core
 
         public void GenerateArea(int x, int y)
         {
-            Generators[new Random(Seed).Next(Generators.Length)].GenerateArea(this, new Vector(x, y));
+            Generators[new Random(Seed).Next(Generators.Length)]
+                .GenerateArea(this, new Vector(x, y), Constants.NeutralPlayer);
         }
 
         public bool TryUpgrade(Vector position, Building to)
@@ -87,7 +88,7 @@ namespace Isometric.Core
             Landscape[areaPosition.X, areaPosition.Y] = value;
         }
         
-        public Building GetBuilding(Vector position)
+        public virtual Building GetBuilding(Vector position)
         {
             return GetArea(position.GetAreaPosition(AreaWidth))?[position.GetLocalPosition(AreaWidth)];
         }

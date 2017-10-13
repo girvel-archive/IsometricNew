@@ -1,4 +1,5 @@
-﻿using Isometric.Core.Vectors;
+﻿using Isometric.Core.AreaGeneration.Modification;
+using Isometric.Core.Vectors;
 
 namespace Isometric.Core.AreaGeneration
 {
@@ -23,13 +24,13 @@ namespace Isometric.Core.AreaGeneration
 
 
 
-        public void GenerateArea(World world, Vector position)
+        public void GenerateArea(World world, Vector position, Player owner)
         {
-            Generator.GenerateArea(world, position);
+            Generator.GenerateArea(world, position, owner);
 
-            foreach (var modificator in Modifiers)
+            foreach (var modifier in Modifiers)
             {
-                modificator.Modify(world, position, Player.Neutral);
+                modifier.Modify(world, position, owner);
             }
         }
     }

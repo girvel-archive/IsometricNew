@@ -42,6 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Armies.cs" />
     <Compile Include="BuildingPrototypes.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Researches.cs" />

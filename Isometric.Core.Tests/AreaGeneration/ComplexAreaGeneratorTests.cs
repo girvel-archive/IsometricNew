@@ -1,5 +1,6 @@
 ﻿using System;
 using Isometric.Core.AreaGeneration;
+using Isometric.Core.AreaGeneration.Modification;
 using Isometric.Core.Vectors;
 using Moq;
 using NUnit.Framework;
@@ -17,9 +18,9 @@ namespace Isometric.Core.Tests.AreaGeneration
 
             var innerGenerator = new Mock<IAreaGenerator>();
             innerGenerator
-                .Setup(g => g.GenerateArea(It.IsAny<World>(), It.IsAny<Vector>()))
+                .Setup(g => g.GenerateArea(It.IsAny<World>(), It.IsAny<Vector>(), It.IsAny<Player>()))
                 .Callback(
-                    (World w, Vector p) =>
+                    (World w, Vector p, Player o) =>
                     {
                         w.SetArea(p, resultArea);
                     });
@@ -37,12 +38,11 @@ namespace Isometric.Core.Tests.AreaGeneration
             var areaPosition = new Vector(0, 0);
 
             // act
-            complexGenerator.GenerateArea(world, areaPosition);
+            complexGenerator.GenerateArea(world, areaPosition, null);
 
             // assert
             Assert.AreEqual(resultArea, world.GetArea(areaPosition));
-            throw new NotImplementedException();
-            //modificator.Verify(m => m.Modify(world, position), Times.Exactly(2));
+            modificator.Verify(m => m.Modify(world, areaPosition, null), Times.Exactly(2));
         }
     }
 }

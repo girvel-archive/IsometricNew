@@ -132,14 +132,22 @@ namespace Isometric.Core.Tests
         public void SetPosition_MovesIfEnemyDiesBecauseOfAttack()
         {
             // arrange
+            var area = Mock.Of<Area>();
+
+            var world = new Mock<World>();
+            world
+                .Setup(w => w.GetBuilding(It.IsAny<Vector>()))
+                .Returns<Vector>(v => area[v]);
+            
             var enemy = new Army
             {
+                World = world.Object,
                 Owner = new Player(),
                 LifePoints = 2,
                 Damage = 1,
+                Constants = new GameConstants{ZeroResources = new DefaultResources()},
             };
 
-            var area = Mock.Of<Area>();
             area.Buildings = new[,]
             {
                 {
@@ -148,17 +156,13 @@ namespace Isometric.Core.Tests
                 },
             };
 
-            var world = new Mock<World>();
-            world
-                .Setup(w => w.GetBuilding(It.IsAny<Vector>()))
-                .Returns<Vector>(v => area[v]);
-
             var army = new Army
             {
                 World = world.Object,
                 Position = new Vector(0, 0),
                 LifePoints = 5,
                 Damage = 2,
+                Owner = new Player{Resources = new DefaultResources()},
             };
 
             // act

@@ -15,7 +15,7 @@ namespace Isometric.Core.AreaGeneration
         }
 
 
-        public void GenerateArea(World world, Vector position)
+        public void GenerateArea(World world, Vector position, Player owner)
         {
             var area = new Area(world, position);
 
@@ -25,7 +25,7 @@ namespace Isometric.Core.AreaGeneration
                 area.Buildings[x, y] 
                     = Building.CreateByPrototype(
                         ChanceCollection.Get(), 
-                        Player.Neutral, 
+                        owner, 
                         world, 
                         position * world.AreaWidth + new Vector(x, y), 
                         world.Constants);

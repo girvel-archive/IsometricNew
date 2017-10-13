@@ -2,7 +2,7 @@
 using System.Linq;
 using Isometric.Core.Vectors;
 
-namespace Isometric.Core.AreaGeneration
+namespace Isometric.Core.AreaGeneration.Modification
 {
     public class VillageModifier : IAreaModifier
     {
@@ -60,7 +60,7 @@ namespace Isometric.Core.AreaGeneration
                         areaPosition * world.AreaWidth + currentPosition, 
                         world.Constants);
 
-                //building.Finished = true;
+                building.Finished = true;
             }
         }
     }

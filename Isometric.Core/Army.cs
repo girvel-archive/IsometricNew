@@ -65,7 +65,7 @@ namespace Isometric.Core
 
         #region IMilitaryObject
 
-        public virtual int LifePoints { get; set; }
+        public int LifePoints { get; set; }
 
         public virtual int Damage { get; set; }
 
@@ -155,10 +155,11 @@ namespace Isometric.Core
             {
                 var currentConsumption = Consumption.Multiplied((float)deltaTime.Ticks / ConsumptionPeriod.Ticks);
 
-                Owner.Resources =
-                    (IsHungry = !Owner.Resources.Enough(currentConsumption))
-                        ? Constants.ZeroResources
-                        : Owner.Resources.Substracted(currentConsumption);
+                IsHungry = !Owner.Resources.Enough(currentConsumption);
+                if (!IsHungry)
+                {
+                    Owner.Resources = Owner.Resources.Substracted(currentConsumption);
+                }
             }
         }
 

@@ -1,6 +1,6 @@
 ﻿using Isometric.Core.Vectors;
 
-namespace Isometric.Core.AreaGeneration
+namespace Isometric.Core.AreaGeneration.Modification
 {
     public interface IAreaModifier
     {

@@ -20,7 +20,12 @@ namespace Isometric.Core.Tests
                 Finished = true,
             };
 
-            var area = new Area(new World { AreaWidth = 1 }, new Vector()) { [0, 0] = from };
+            var area = new Area
+            {
+                World = new World {Landscape = new Area[1, 1], AreaWidth = 1,},
+                Buildings = new Building[1, 1],
+                [0, 0] = from,
+            };
             area.World.SetArea(new Vector(), area);
 
             // act
@@ -42,7 +47,12 @@ namespace Isometric.Core.Tests
                 Finished = true,
             };
 
-            var area = new Area(new World { AreaWidth = 1 }, new Vector()) { [0, 0] = from };
+            var area = new Area
+            {
+                World = new World {Landscape = new Area[1, 1], AreaWidth = 1,},
+                Buildings = new Building[1, 1],
+                [0, 0] = from,
+            };
             area.World.SetArea(new Vector(), area);
 
             // act
@@ -81,7 +91,12 @@ namespace Isometric.Core.Tests
                 Finished = true,
             };
 
-            var area = new Area(new World { AreaWidth = 1 }, new Vector()) { [0, 0] = from };
+            var area = new Area
+            {
+                World = new World {Landscape = new Area[1, 1], AreaWidth = 1,},
+                Buildings = new Building[1, 1],
+                [0, 0] = from,
+            };
             area.World.SetArea(new Vector(), area);
 
             // act

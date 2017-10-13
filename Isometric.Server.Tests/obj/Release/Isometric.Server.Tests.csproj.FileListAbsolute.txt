@@ -12,3 +12,5 @@ E:\projects\isometric\Isometric.Server.Tests\bin\Release\nunit.framework.xml
 E:\projects\isometric\Isometric.Server.Tests\obj\Release\Isometric.Server.Tests.csprojResolveAssemblyReference.cache
 E:\projects\isometric\Isometric.Server.Tests\obj\Release\Isometric.Server.Tests.dll
 E:\projects\isometric\Isometric.Server.Tests\obj\Release\Isometric.Server.Tests.pdb
+E:\projects\isometric\Isometric.Server.Tests\bin\Release\Castle.Core.dll
+E:\projects\isometric\Isometric.Server.Tests\bin\Release\Castle.Core.xml

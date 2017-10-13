@@ -318,10 +318,12 @@ namespace Isometric.Server.Application
                                                             ? b.Name
                                                             : "",
                                                     OwnerName = GetPlayerName(b.Owner),
-                                                    BuildingTime = b.BuildingTime.Multiple(
-                                                        b.Prototype.Builders == 0
-                                                            ? 1
-                                                            : (float)b.Builders / b.Prototype.Builders),
+                                                    BuildingTime = b.Finished
+                                                        ? TimeSpan.Zero 
+                                                        : b.BuildingTime.Multiple(
+                                                            b.Prototype.Builders == 0
+                                                                ? 1
+                                                                : (float)b.Builders / b.Prototype.Builders),
                                                     IsThereArmy = b.Armies.Any(),
                                                     ArePeopleHungry = b.ArePeopleHungry || b.Armies.Any(a => a.IsHungry),
                                                 }),
@@ -348,7 +350,7 @@ namespace Isometric.Server.Application
                             {
                                 var position = (Vector) args["position"];
                                 var b = Session.World.GetBuilding(position);
-                                if (b.Owner == Player.Neutral)
+                                if (b.Owner == Session.World.Constants.NeutralPlayer)
                                 {
                                     b.Owner = c.Account.ExternalData;
                                 }
@@ -436,7 +438,11 @@ namespace Isometric.Server.Application
                                 return new Dictionary<string, dynamic>
                                 {
                                     ["upgrades"] =
-                                        new[] { c.Account.ExternalData, Player.Neutral }.Contains(b.Owner) && b.Finished
+                                        new[]
+                                        {
+                                            c.Account.ExternalData, 
+                                            Session.World.Constants.NeutralPlayer,
+                                        }.Contains(b.Owner) && b.Finished
                                             ? b.Upgrades
                                                 .Select(u => new UpgradeDto
                                                 {

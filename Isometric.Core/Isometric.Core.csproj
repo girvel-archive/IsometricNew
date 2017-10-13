@@ -43,13 +43,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Area.cs" />
-    <Compile Include="AreaGeneration\ArmyModifier.cs" />
     <Compile Include="AreaGeneration\ComplexAreaGenerator.cs" />
     <Compile Include="AreaGeneration\IAreaGenerator.cs" />
-    <Compile Include="AreaGeneration\IAreaModifier.cs" />
+    <Compile Include="AreaGeneration\Modification\ArmyModifier.cs" />
+    <Compile Include="AreaGeneration\Modification\ComplexModifier.cs" />
+    <Compile Include="AreaGeneration\Modification\IAreaModifier.cs" />
+    <Compile Include="AreaGeneration\Modification\VillageModifier.cs" />
     <Compile Include="AreaGeneration\RandomGenerator.cs" />
-    <Compile Include="AreaGeneration\RandomPositionModifier.cs" />
-    <Compile Include="AreaGeneration\VillageModifier.cs" />
     <Compile Include="ArmorType.cs" />
     <Compile Include="Army.cs" />
     <Compile Include="Building.cs" />

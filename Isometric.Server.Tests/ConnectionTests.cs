@@ -26,7 +26,7 @@ namespace Isometric.Server.Tests
                     m => m.GetResponse(
                         It.IsAny<string>(),
                         It.IsAny<Connection<object>>()))
-                    .Returns(new JObject { ["response"] = "nothing" }.ToString);
+                    .Returns(new JObject { ["response"] = "nothing" }.ToString());
 
                 var server = new Server<object>(
                     connectionSocket.LocalEndPoint,

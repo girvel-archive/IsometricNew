@@ -28,6 +28,7 @@ namespace Isometric.Core.Tests.Managers
                     {{
                         new Area
                         {
+                            Buildings = new Building[3, 3],
                             [0, 0] = new Building(),
                             [0, 1] = new Building(),
                             [0, 2] = new Building(),
@@ -37,10 +38,9 @@ namespace Isometric.Core.Tests.Managers
                             [2, 0] = new Building(),
                             [2, 1] = new Building(),
                             [2, 2] = new Building(),
-                        }
+                        },
                     }},
                 },
-                Position = new Vector(0, 0),
             };
 
             // act
@@ -75,7 +75,8 @@ namespace Isometric.Core.Tests.Managers
                             [2, 2] = new Building(),
                         }
                     }
-                }
+                },
+                AreaWidth = 1,
             };
 
             var army = new Army

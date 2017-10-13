@@ -8,10 +8,6 @@ namespace Isometric.Core
 {
     public class Player : ITimeObject
     {
-        public static readonly Player Neutral = new Player();
-
-
-
         public GameConstants Constants { get; set; }
 
         public IResources Resources { get; set; }
@@ -54,6 +50,7 @@ namespace Isometric.Core
         {
             Area = area;
             Constants = constants;
+            Resources = Constants.ZeroResources;
         }
 
         public static Player CreateForWorld(World world)
@@ -64,7 +61,7 @@ namespace Isometric.Core
             {
                 throw new ArgumentException("World's landscape is full");
             }
-
+ 
             var playerAreaIndex = new Random(world.Seed).Next(emptyAreas);
 
             int x = playerAreaIndex % world.Landscape.GetLength(0),
@@ -74,15 +71,17 @@ namespace Isometric.Core
 
             var result = new Player(world.Landscape[x, y], world.Constants)
             {
-                Resources = world.Constants.StartResources
-            }; 
-            
+                Resources = world.Constants.StartResources,
+            };
+
             var b = result.Area[0, 0];
             b.FreePeople = world.Constants.StartPeople;
             b.Owner = result;
 
             world.OnPlayerCreate(result);
             world.Constants.PlayerStartVillageModifier?.Modify(world, new Vector(x, y), result);
+            world.Constants.PlayerStartDungeonModifier?.Modify(
+                world, new Vector(x, y), new Player(result.Area, world.Constants));
 
             Army.CreateByPrototype(
                 new Army(
