@@ -14,11 +14,16 @@ namespace Isometric.Core
 
         public Area[,] Landscape { get; set; }
 
-        public int AreaWidth { get; set; }
+        public virtual int AreaWidth { get; set; }
 
         public IAreaGenerator[] Generators { get; set; }
 
         public int Seed { get; set; }
+
+        public virtual Vector Size => 
+            new Vector(
+                Landscape.GetLength(0) * AreaWidth, 
+                Landscape.GetLength(1) * AreaWidth);
 
 
 

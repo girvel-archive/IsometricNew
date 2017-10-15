@@ -4,11 +4,11 @@ namespace Isometric.Core.Vectors
 {
     public struct Vector
     {
-        public int X, Y;
+        public readonly int X, Y;
 
-        public int SqrMagnitude => X * X + Y * Y;
+        public int SquaredMagnitude => X * X + Y * Y;
 
-        public double Magnitude => Math.Sqrt(SqrMagnitude);
+        public double Magnitude => Math.Sqrt(SquaredMagnitude);
 
 
 
@@ -68,6 +68,6 @@ namespace Isometric.Core.Vectors
             }
         }
 
-        public override string ToString() => $"({X}; {Y})";
+        public override string ToString() => $"{{{X}; {Y}}}";
     }
 }

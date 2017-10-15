@@ -57,27 +57,21 @@ namespace Isometric.Core.Tests.Managers
             // arrange
             var manager = new ArmiesManager();
 
-            var world = new World
+            var buildings = new[,]
             {
-                Landscape = new[,]
-                {
-                    {
-                        new Area(new World {AreaWidth = 3,}, new Vector())
-                        {
-                            [0, 0] = new Building(),
-                            [0, 1] = new Building(),
-                            [0, 2] = new Building(),
-                            [1, 0] = new Building(),
-                            [1, 1] = new Building(),
-                            [1, 2] = new Building(),
-                            [2, 0] = new Building(),
-                            [2, 1] = new Building(),
-                            [2, 2] = new Building(),
-                        }
-                    }
-                },
-                AreaWidth = 1,
+                {new Building(), new Building(), new Building(),},
+                {new Building(), new Building(), new Building(),},
+                {new Building(), new Building(), new Building(),},
             };
+            
+            var worldMock = new Mock<World>();
+            worldMock
+                .Setup(w => w.GetBuilding(It.IsAny<Vector>()))
+                .Returns((Vector v) => buildings[v.X, v.Y]);
+            
+            worldMock
+                .SetupGet(w => w.AreaWidth)
+                .Returns(1);
 
             var army = new Army
             {
@@ -88,12 +82,12 @@ namespace Isometric.Core.Tests.Managers
                 },
                 IsHungry = true,
                 Constants = new GameConstants { HungerK = 0.5f, },
-                World = world,
+                World = worldMock.Object,
                 Position = new Vector(0, 0),
             };
 
             // act
-            //manager.AddMovingTask(army, new Vector(2, 2));
+            manager.AddMovingTask(army, new Vector(2, 2));
             manager.Tick(new TimeSpan(4));
 
             // assert
