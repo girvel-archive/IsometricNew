@@ -83,26 +83,6 @@ namespace Isometric.Core
             world.Constants.PlayerStartDungeonModifier?.Modify(
                 world, new Vector(x, y), new Player(result.Area, world.Constants));
 
-            Army.CreateByPrototype(
-                new Army(
-                    "Infantry", 
-                    20, 
-                    TimeSpan.FromSeconds(1), 
-                    10, 
-                    world.Constants.ZeroResources, 
-                    world.Constants.ZeroResources)
-                {
-                    Damage = 5,
-                    BonusDamage = 5,
-                    BonusDamageArmorType = ArmorType.Building,
-                    Armor = ArmorType.Heavy,
-                    AttackTime = TimeSpan.FromSeconds(15),
-                }, 
-                result, 
-                result.Area.World, 
-                b.Position, 
-                world.Constants);
-
             return result;
         }
 

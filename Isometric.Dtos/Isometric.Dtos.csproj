@@ -49,6 +49,13 @@
     <Compile Include="ResourcesDto.cs" />
     <Compile Include="UpgradeDto.cs" />
     <Compile Include="UpgradePossibility.cs" />
+    <Compile Include="VisionDto.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Isometric.Core.Vectors\Isometric.Core.Vectors.csproj">
+      <Project>{AFF2F993-116B-4E56-BBAB-6DF858B182C2}</Project>
+      <Name>Isometric.Core.Vectors</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -63,7 +63,9 @@ namespace Isometric.Server
                     string receivedData = "-";
                     try
                     {
-                        Send(Server.RequestManager.GetResponse(receivedData = Receive(), this));
+                        string response;
+                        Send(response = Server.RequestManager.GetResponse(receivedData = Receive(), this));
+                        _log.Message(">> " + response);
                     }
                     catch (SocketException)
                     {

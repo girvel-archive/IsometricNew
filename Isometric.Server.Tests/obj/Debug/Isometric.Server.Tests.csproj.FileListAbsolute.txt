@@ -12,3 +12,5 @@ E:\projects\isometric\Isometric.Server.Tests\bin\Debug\Newtonsoft.Json.xml
 E:\projects\isometric\Isometric.Server.Tests\bin\Debug\nunit.framework.xml
 E:\projects\isometric\Isometric.Server.Tests\obj\Debug\Isometric.Server.Tests.dll
 E:\projects\isometric\Isometric.Server.Tests\obj\Debug\Isometric.Server.Tests.pdb
+E:\projects\isometric\Isometric.Server.Tests\bin\Debug\Castle.Core.dll
+E:\projects\isometric\Isometric.Server.Tests\bin\Debug\Castle.Core.xml

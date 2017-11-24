@@ -4,7 +4,7 @@ using Isometric.Core.Vectors;
 
 namespace Isometric.Core.Managers.Tasks
 {
-    internal class MovingTask : ArmyTask
+    public class MovingTask : ArmyTask
     {
         public Vector To;
 

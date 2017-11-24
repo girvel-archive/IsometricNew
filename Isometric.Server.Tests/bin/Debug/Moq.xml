@@ -190,12 +190,6 @@
             equal to <see langword="true"/>.
             </summary>
         </member>
-        <member name="M:Moq.ExpressionExtensions.CastTo``1(System.Linq.Expressions.Expression)">
-            <summary>
-            Creates an expression that casts the given expression to the <typeparamref name="T"/> 
-            type.
-            </summary>
-        </member>
         <member name="M:Moq.ExpressionExtensions.ToStringFixed(System.Linq.Expressions.Expression)">
             <devdoc>
             TODO: remove this code when https://connect.microsoft.com/VisualStudio/feedback/ViewFeedback.aspx?FeedbackID=331583 
@@ -247,40 +241,40 @@
             when the actual invocation is made.
             </summary>
         </member>
-        <member name="M:Moq.Guard.NotNull``1(System.Linq.Expressions.Expression{System.Func{``0}},``0)">
+        <member name="M:Moq.Guard.NotNull(System.Object,System.String)">
             <summary>
             Ensures the given <paramref name="value"/> is not null.
             Throws <see cref="T:System.ArgumentNullException"/> otherwise.
             </summary>
         </member>
-        <member name="M:Moq.Guard.NotNullOrEmpty(System.Linq.Expressions.Expression{System.Func{System.String}},System.String)">
+        <member name="M:Moq.Guard.NotNullOrEmpty(System.String,System.String)">
             <summary>
             Ensures the given string <paramref name="value"/> is not null or empty.
             Throws <see cref="T:System.ArgumentNullException"/> in the first case, or 
             <see cref="T:System.ArgumentException"/> in the latter.
             </summary>
         </member>
-        <member name="M:Moq.Guard.NotOutOfRangeInclusive``1(System.Linq.Expressions.Expression{System.Func{``0}},``0,``0,``0)">
+        <member name="M:Moq.Guard.NotOutOfRangeInclusive``1(``0,``0,``0,System.String)">
             <summary>
             Checks an argument to ensure it is in the specified range including the edges.
             </summary>
             <typeparam name="T">Type of the argument to check, it must be an <see cref="T:System.IComparable"/> type.
             </typeparam>
-            <param name="reference">The expression containing the name of the argument.</param>
             <param name="value">The argument value to check.</param>
             <param name="from">The minimun allowed value for the argument.</param>
             <param name="to">The maximun allowed value for the argument.</param>
+            <param name="paramName">The name of the parameter.</param>
         </member>
-        <member name="M:Moq.Guard.NotOutOfRangeExclusive``1(System.Linq.Expressions.Expression{System.Func{``0}},``0,``0,``0)">
+        <member name="M:Moq.Guard.NotOutOfRangeExclusive``1(``0,``0,``0,System.String)">
             <summary>
             Checks an argument to ensure it is in the specified range excluding the edges.
             </summary>
             <typeparam name="T">Type of the argument to check, it must be an <see cref="T:System.IComparable"/> type.
             </typeparam>
-            <param name="reference">The expression containing the name of the argument.</param>
             <param name="value">The argument value to check.</param>
             <param name="from">The minimun allowed value for the argument.</param>
             <param name="to">The maximun allowed value for the argument.</param>
+            <param name="paramName">The name of the parameter.</param>
         </member>
         <member name="T:Moq.IDefaultValueProvider">
             <summary>
@@ -368,19 +362,21 @@
             Intercept strategy that handles `System.Object` methods.
             </summary>
         </member>
-        <member name="M:Moq.AddActualInvocation.GetEventFromName(System.String)">
+        <member name="M:Moq.AddActualInvocation.GetEventFromName(System.String,Moq.InterceptorContext)">
             <summary>
             Get an eventInfo for a given event name.  Search type ancestors depth first if necessary.
             </summary>
             <param name="eventName">Name of the event, with the set_ or get_ prefix already removed</param>
+            <param name="ctx"/>
         </member>
-        <member name="M:Moq.AddActualInvocation.GetEventFromName(System.String,System.Reflection.BindingFlags)">
+        <member name="M:Moq.AddActualInvocation.GetEventFromName(System.String,System.Reflection.BindingFlags,Moq.InterceptorContext)">
             <summary>
             Get an eventInfo for a given event name.  Search type ancestors depth first if necessary.
             Searches events using the specified binding constraints.
             </summary>
             <param name="eventName">Name of the event, with the set_ or get_ prefix already removed</param>
             <param name="bindingAttr">Specifies how the search for events is conducted</param>
+            <param name="ctx"/>
         </member>
         <member name="M:Moq.AddActualInvocation.GetAncestorTypes(System.Type)">
             <summary>
@@ -3669,13 +3665,6 @@
             and fail with any other call.
             </summary>
         </member>
-        <member name="T:Moq.MethodCallReturn">
-            <devdoc>
-            We need this non-generics base class so that 
-            we can use <see cref="P:Moq.MethodCallReturn.HasReturnValue"/> from 
-            generic code.
-            </devdoc>
-        </member>
         <member name="T:Moq.Mock`1">
             <summary>
 			Provides a mock implementation of <typeparamref name="T" />.
@@ -4432,57 +4421,6 @@
             Perform an expectation in the trace.
             </summary>
         </member>
-        <member name="T:Moq.ObsoleteMockException">
-            <summary>
-            Exception thrown by mocks when setups are not matched, 
-            the mock is not properly setup, etc.
-            </summary>
-            <remarks>
-            A distinct exception type is provided so that exceptions 
-            thrown by the mock can be differentiated in tests that 
-            expect other exceptions to be thrown (i.e. ArgumentException).
-            <para>
-            Richer exception hierarchy/types are not provided as 
-            tests typically should <b>not</b> catch or expect exceptions 
-            from the mocks. These are typically the result of changes 
-            in the tested class or its collaborators implementation, and 
-            result in fixes in the mock setup so that they dissapear and 
-            allow the test to pass.
-            </para>
-            </remarks>
-        </member>
-        <member name="T:Moq.ObsoleteMockException.ExceptionReason">
-            <summary>
-            Made internal as it's of no use for 
-            consumers, but it's important for 
-            our own tests.
-            </summary>
-        </member>
-        <member name="M:Moq.ObsoleteMockException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)">
-            <summary>
-            Supports the serialization infrastructure.
-            </summary>
-            <param name="info">Serialization information.</param>
-            <param name="context">Streaming context.</param>
-        </member>
-        <member name="M:Moq.ObsoleteMockException.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)">
-            <summary>
-            Supports the serialization infrastructure.
-            </summary>
-            <param name="info">Serialization information.</param>
-            <param name="context">Streaming context.</param>
-        </member>
-        <member name="T:Moq.ObsoleteMockVerificationException">
-            <devdoc>
-            Used by the mock factory to accumulate verification 
-            failures.
-            </devdoc>
-        </member>
-        <member name="M:Moq.ObsoleteMockVerificationException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)">
-            <summary>
-            Supports the serialization infrastructure.
-            </summary>
-        </member>
         <member name="T:Moq.MockLegacyExtensions">
             <summary>
             Provides legacy API members as extensions so that 
@@ -4994,6 +4932,12 @@
                Looks up a localized string similar to Method {0}.{1} is public. Use strong-typed Expect overload instead:
             mock.Setup(x =&gt; x.{1}());
             .
+             </summary>
+        </member>
+        <member name="P:Moq.Properties.Resources.MethodNotVisibleToProxyFactory">
+             <summary>
+               Looks up a localized string similar to Cannot set up {0}.{1} because it is not accessible to the proxy generator used by Moq:
+            {2}.
              </summary>
         </member>
         <member name="P:Moq.Properties.Resources.MinDelayMustBeLessThanMaxDelay">
@@ -5525,6 +5469,13 @@
         <member name="M:Moq.Proxy.CastleProxyFactory.GetDelegateProxyInterface(System.Type,System.Reflection.MethodInfo@)">
             <inheritdoc />
         </member>
+        <member name="T:Moq.Proxy.CastleProxyFactory.IncludeObjectMethodsHook">
+            <summary>
+            This hook tells Castle DynamicProxy to proxy the default methods it suggests,
+            plus some of the methods defined by <see cref="T:System.Object"/>, e.g. so we can intercept
+            <see cref="M:System.Object.ToString"/> and give mocks useful default names.
+            </summary>
+        </member>
         <member name="M:Moq.Proxy.IProxyFactory.GetDelegateProxyInterface(System.Type,System.Reflection.MethodInfo@)">
             <summary>
             Gets an autogenerated interface with a method on it that matches the signature of the specified
@@ -5537,21 +5488,6 @@
             </remarks>
             <param name="delegateType">The delegate type for which an interface is required.</param>
             <param name="delegateInterfaceMethod">The method on the autogenerated interface.</param>
-        </member>
-        <member name="T:Moq.Proxy.ProxyMethodHook">
-            <summary>
-            Hook used to tells Castle which methods to proxy in mocked classes.
-            
-            Here we proxy the default methods Castle suggests (everything Object's methods)
-            plus Object.ToString(), so we can give mocks useful default names.
-            
-            This is required to allow Moq to mock ToString on proxy *class* implementations.
-            </summary>
-        </member>
-        <member name="M:Moq.Proxy.ProxyMethodHook.ShouldInterceptMethod(System.Type,System.Reflection.MethodInfo)">
-            <summary>
-            Extends AllMethodsHook.ShouldInterceptMethod to also intercept Object.ToString().
-            </summary>
         </member>
         <member name="T:Moq.Range">
             <summary>
@@ -5920,13 +5856,13 @@
             <summary>Branch: master</summary>
         </member>
         <member name="F:ThisAssembly.Git.Commit">
-            <summary>Commit: e266272</summary>
+            <summary>Commit: 7a0f435</summary>
         </member>
         <member name="F:ThisAssembly.Git.Sha">
-            <summary>Sha: e2662721e13d52b081a2706608cb03e458019279</summary>
+            <summary>Sha: 7a0f435a8a0b84f542e5572f3f19703a3dc4c7d4</summary>
         </member>
         <member name="F:ThisAssembly.Git.Commits">
-            <summary>Commits on top of base version: 99</summary>
+            <summary>Commits on top of base version: 142</summary>
         </member>
         <member name="F:ThisAssembly.Git.Tag">
             <summary>Tag: </summary>
@@ -5956,7 +5892,7 @@
             <summary>Minor: 7</summary>
         </member>
         <member name="F:ThisAssembly.Git.SemVer.Patch">
-            <summary>Patch: 99</summary>
+            <summary>Patch: 142</summary>
         </member>
         <member name="F:ThisAssembly.Git.SemVer.Label">
             <summary>Label: </summary>

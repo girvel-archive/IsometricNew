@@ -39,22 +39,7 @@ namespace Isometric.Core.Managers
 
         public void AddAreaLootTask(Army army, Vector to, int range)
         {
-            AddTask(new MovingTask{Army = army, To = to,});
-
-            var centralBuilding = army.World.GetBuilding(to);
-            for (var y = -range; y <= range; y++)
-            for (var x = -range; x <= range; x++)
-            {
-                var delta = new Vector(x, y);
-                var currentBuilding = army.World.GetBuilding(to + delta);
-                
-                if (currentBuilding != null
-                    && army.World.GetBuilding(to).Owner == army.World.GetBuilding(to + delta).Owner)
-                {
-                    AddTask(new MovingTask {Army = army, To = to + delta,});
-                    AddTask(new DestroyingTask{Army = army,});
-                }
-            }
+            AddTask(new LootTask(army, to, range));
         }
 
 

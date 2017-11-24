@@ -31,11 +31,12 @@ namespace Isometric.Server.Application.Administration
                         float speed;
                         if (!float.TryParse(args["value"], out speed))
                         {
-                            data.StringBuilder.Append("Wrong integer format of argument 'value'\n");
+                            data.StringBuilder.Append("Wrong integer format of argument 'value'");
                             return;
                         }
 
                         Program.Session.GameSpeedK = speed;
+                        data.StringBuilder.Append("Success");
                     }));
         }
         
@@ -49,7 +50,7 @@ namespace Isometric.Server.Application.Administration
                 command,
                 new AdministrationCommandArgs {Account = account, StringBuilder = builder});
             
-            output = builder.ToString();
+            output = "\n\n" + builder + "\n";
             return result;
         }
     }

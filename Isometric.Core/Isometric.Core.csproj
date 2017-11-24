@@ -61,12 +61,14 @@
     <Compile Include="Common\ResourcesHelper.cs" />
     <Compile Include="Common\TimeSpanHelper.cs" />
     <Compile Include="Common\VectorHelper.cs" />
+    <Compile Include="Common\WorldHelper.cs" />
     <Compile Include="DefaultResources.cs" />
     <Compile Include="GameConstants.cs" />
     <Compile Include="IMilitaryObject.cs" />
     <Compile Include="IResources.cs" />
     <Compile Include="Managers\ArmiesManager.cs" />
     <Compile Include="Managers\PeopleManager.cs" />
+    <Compile Include="Managers\Tasks\LootTask.cs" />
     <Compile Include="Managers\Tasks\DestroyingTask.cs" />
     <Compile Include="Managers\Tasks\ArmyTask.cs" />
     <Compile Include="Managers\Tasks\MovingTask.cs" />

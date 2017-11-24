@@ -1,0 +1,3178 @@
+03:11:40	 Server started
+03:12:18	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51791
+03:12:18	 >> {
+  "$id": "1",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:18	 >> {
+  "$id": "2",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "world width": 2048
+}
+03:12:18	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51792
+03:12:18	 >> {
+  "$id": "3",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:18	 >> {
+  "$id": "4",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:18	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51793
+03:12:18	 >> {
+  "$id": "5",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:18	 >> {
+  "$id": "8",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:18	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51795
+03:12:18	 >> {
+  "$id": "9",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:18	 >> {
+  "$id": "10",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:18	 >> {
+  "$id": "6",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "7",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:18	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51796
+03:12:18	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51791
+03:12:18	 >> {
+  "$id": "11",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:18	 >> {
+  "$id": "12",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:18	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51797
+03:12:18	 >> {
+  "$id": "13",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:18	 >> {
+  "$id": "14",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "world width": 2048
+}
+03:12:19	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51798
+03:12:19	 >> {
+  "$id": "15",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:19	 >> {
+  "$id": "16",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "17",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:19	 >> {
+  "$id": "18",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "19",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:19	 >> {
+  "$id": "23",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "24",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:19	 >> {
+  "$id": "21",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "22",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:19	 >> {
+  "$id": "25",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:19	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51792
+03:12:19	 >> {
+  "$id": "20",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:19	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51799
+03:12:19	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51793
+03:12:19	 >> {
+  "$id": "26",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:19	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51795
+03:12:19	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51800
+03:12:19	 >> {
+  "$id": "27",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:19	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51796
+03:12:19	 >> {
+  "$id": "28",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:19	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51801
+03:12:19	 >> {
+  "$id": "29",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:19	 >> {
+  "$id": "30",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:19	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51802
+03:12:19	 >> {
+  "$id": "31",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:19	 >> {
+  "$id": "32",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:19	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51803
+03:12:19	 >> {
+  "$id": "33",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:19	 >> {
+  "$id": "34",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:19	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51804
+03:12:19	 >> {
+  "$id": "35",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:19	 >> {
+  "$id": "36",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:19	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51805
+03:12:19	 >> {
+  "$id": "37",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:19	 >> {
+  "$id": "38",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:19	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51806
+03:12:19	 >> {
+  "$id": "39",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:19	 >> {
+  "$id": "40",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:19	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51807
+03:12:19	 >> {
+  "$id": "41",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:19	 >> {
+  "$id": "42",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:19	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51808
+03:12:19	 >> {
+  "$id": "43",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:19	 >> {
+  "$id": "44",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:19	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51809
+03:12:19	 >> {
+  "$id": "45",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:19	 >> {
+  "$id": "46",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:19	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51810
+03:12:19	 >> {
+  "$id": "47",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:19	 >> {
+  "$id": "48",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:19	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51811
+03:12:19	 >> {
+  "$id": "49",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:19	 >> {
+  "$id": "50",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:19	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51812
+03:12:19	 >> {
+  "$id": "51",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:19	 >> {
+  "$id": "52",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:19	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51813
+03:12:19	 >> {
+  "$id": "53",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:19	 >> {
+  "$id": "54",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:19	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51814
+03:12:19	 >> {
+  "$id": "55",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:19	 >> {
+  "$id": "56",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:19	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51815
+03:12:19	 >> {
+  "$id": "57",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:19	 >> {
+  "$id": "58",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:19	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51816
+03:12:19	 >> {
+  "$id": "59",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:19	 >> {
+  "$id": "60",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:19	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51817
+03:12:19	 >> {
+  "$id": "61",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:19	 >> {
+  "$id": "62",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:19	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51818
+03:12:19	 >> {
+  "$id": "63",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:19	 >> {
+  "$id": "64",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:19	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51819
+03:12:19	 >> {
+  "$id": "65",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:19	 >> {
+  "$id": "66",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:19	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51820
+03:12:19	 >> {
+  "$id": "67",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:19	 >> {
+  "$id": "68",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:19	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51821
+03:12:19	 >> {
+  "$id": "69",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:19	 >> {
+  "$id": "70",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:19	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51822
+03:12:19	 >> {
+  "$id": "71",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:19	 >> {
+  "$id": "72",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:19	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51823
+03:12:19	 >> {
+  "$id": "73",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:19	 >> {
+  "$id": "74",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:19	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51824
+03:12:19	 >> {
+  "$id": "75",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:19	 >> {
+  "$id": "76",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:19	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51825
+03:12:19	 >> {
+  "$id": "77",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:19	 >> {
+  "$id": "78",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:19	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51826
+03:12:19	 >> {
+  "$id": "79",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:19	 >> {
+  "$id": "80",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:19	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51827
+03:12:19	 >> {
+  "$id": "81",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:19	 >> {
+  "$id": "82",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:19	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51828
+03:12:19	 >> {
+  "$id": "83",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:19	 >> {
+  "$id": "84",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:19	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51829
+03:12:19	 >> {
+  "$id": "85",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:19	 >> {
+  "$id": "86",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:19	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51830
+03:12:19	 >> {
+  "$id": "87",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:19	 >> {
+  "$id": "88",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:19	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51831
+03:12:19	 >> {
+  "$id": "89",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:19	 >> {
+  "$id": "90",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:19	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51832
+03:12:19	 >> {
+  "$id": "91",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:19	 >> {
+  "$id": "92",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:20	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51833
+03:12:20	 >> {
+  "$id": "93",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:20	 >> {
+  "$id": "94",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:20	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51834
+03:12:20	 >> {
+  "$id": "95",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:20	 >> {
+  "$id": "96",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:20	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51835
+03:12:20	 >> {
+  "$id": "97",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:20	 >> {
+  "$id": "98",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:20	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51836
+03:12:20	 >> {
+  "$id": "99",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:20	 >> {
+  "$id": "100",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:20	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51837
+03:12:20	 >> {
+  "$id": "101",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:20	 >> {
+  "$id": "102",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:20	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51838
+03:12:20	 >> {
+  "$id": "103",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:20	 >> {
+  "$id": "104",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:20	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51839
+03:12:20	 >> {
+  "$id": "105",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:20	 >> {
+  "$id": "106",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:20	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51840
+03:12:20	 >> {
+  "$id": "107",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:20	 >> {
+  "$id": "108",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:20	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51841
+03:12:20	 >> {
+  "$id": "109",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:20	 >> {
+  "$id": "110",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:20	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51842
+03:12:20	 >> {
+  "$id": "111",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:20	 >> {
+  "$id": "112",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:20	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51843
+03:12:20	 >> {
+  "$id": "113",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:20	 >> {
+  "$id": "114",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:20	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51844
+03:12:20	 >> {
+  "$id": "115",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:20	 >> {
+  "$id": "116",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:20	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51845
+03:12:20	 >> {
+  "$id": "117",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:20	 >> {
+  "$id": "118",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:20	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51846
+03:12:20	 >> {
+  "$id": "119",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:20	 >> {
+  "$id": "120",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:20	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51847
+03:12:20	 >> {
+  "$id": "121",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:20	 >> {
+  "$id": "122",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:20	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51848
+03:12:20	 >> {
+  "$id": "123",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:20	 >> {
+  "$id": "124",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:20	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51849
+03:12:20	 >> {
+  "$id": "125",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:20	 >> {
+  "$id": "126",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:20	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51850
+03:12:20	 >> {
+  "$id": "127",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:20	 >> {
+  "$id": "128",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:20	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51851
+03:12:20	 >> {
+  "$id": "129",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:20	 >> {
+  "$id": "130",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:20	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51852
+03:12:20	 >> {
+  "$id": "131",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:20	 >> {
+  "$id": "132",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:20	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51853
+03:12:20	 >> {
+  "$id": "133",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:20	 >> {
+  "$id": "134",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:20	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51854
+03:12:20	 >> {
+  "$id": "135",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:20	 >> {
+  "$id": "136",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:20	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51855
+03:12:20	 >> {
+  "$id": "137",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:20	 >> {
+  "$id": "138",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:20	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51856
+03:12:20	 >> {
+  "$id": "139",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:20	 >> {
+  "$id": "140",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:20	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51857
+03:12:20	 >> {
+  "$id": "141",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:20	 >> {
+  "$id": "142",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:20	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51858
+03:12:20	 >> {
+  "$id": "143",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:20	 >> {
+  "$id": "144",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:20	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51859
+03:12:20	 >> {
+  "$id": "145",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:20	 >> {
+  "$id": "146",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:20	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51860
+03:12:20	 >> {
+  "$id": "147",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:20	 >> {
+  "$id": "148",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:20	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51861
+03:12:20	 >> {
+  "$id": "149",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:20	 >> {
+  "$id": "150",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:20	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51862
+03:12:20	 >> {
+  "$id": "151",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:20	 >> {
+  "$id": "152",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:20	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51863
+03:12:20	 >> {
+  "$id": "153",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:20	 >> {
+  "$id": "154",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:20	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51864
+03:12:20	 >> {
+  "$id": "155",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:20	 >> {
+  "$id": "156",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:20	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51865
+03:12:20	 >> {
+  "$id": "157",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:20	 >> {
+  "$id": "158",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:20	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51866
+03:12:20	 >> {
+  "$id": "159",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:20	 >> {
+  "$id": "160",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:20	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51867
+03:12:20	 >> {
+  "$id": "161",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:20	 >> {
+  "$id": "162",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:20	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51868
+03:12:20	 >> {
+  "$id": "163",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:20	 >> {
+  "$id": "164",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:20	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51869
+03:12:20	 >> {
+  "$id": "165",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:20	 >> {
+  "$id": "166",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:20	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51870
+03:12:20	 >> {
+  "$id": "167",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:20	 >> {
+  "$id": "168",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:21	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51871
+03:12:21	 >> {
+  "$id": "169",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:21	 >> {
+  "$id": "170",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:21	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51872
+03:12:21	 >> {
+  "$id": "171",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:21	 >> {
+  "$id": "172",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:21	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51873
+03:12:21	 >> {
+  "$id": "173",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:21	 >> {
+  "$id": "174",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:21	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51874
+03:12:21	 >> {
+  "$id": "175",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:21	 >> {
+  "$id": "176",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:21	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51875
+03:12:21	 >> {
+  "$id": "177",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:12:21	 >> {
+  "$id": "178",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "permission"
+}
+03:12:49	 >> {
+  "$id": "179",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "180",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:49	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51875
+03:12:50	 >> {
+  "$id": "311",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "312",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:50	 >> {
+  "$id": "217",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "218",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:50	 >> {
+  "$id": "220",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "222",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:50	 >> {
+  "$id": "184",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "186",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:50	 >> {
+  "$id": "236",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "238",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:50	 >> {
+  "$id": "210",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "212",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:50	 >> {
+  "$id": "242",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "244",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:50	 >> {
+  "$id": "293",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "294",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:50	 >> {
+  "$id": "240",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "241",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:50	 >> {
+  "$id": "223",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "225",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:50	 >> {
+  "$id": "291",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "292",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:50	 >> {
+  "$id": "226",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "228",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:50	 >> {
+  "$id": "266",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "316",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:51	 >> {
+  "$id": "318",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "319",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:50	 >> {
+  "$id": "221",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "224",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:50	 >> {
+  "$id": "230",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "231",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:50	 >> {
+  "$id": "233",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "235",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:50	 >> {
+  "$id": "227",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "229",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:50	 >> {
+  "$id": "219",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "317",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:50	 >> {
+  "$id": "247",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "250",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:50	 >> {
+  "$id": "232",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "234",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:50	 >> {
+  "$id": "249",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "251",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:50	 >> {
+  "$id": "252",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "254",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:50	 >> {
+  "$id": "209",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "211",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:50	 >> {
+  "$id": "200",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "202",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:50	 >> {
+  "$id": "188",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "320",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:50	 >> {
+  "$id": "277",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "279",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:50	 >> {
+  "$id": "237",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "239",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:50	 >> {
+  "$id": "243",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "245",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:50	 >> {
+  "$id": "255",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "258",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:50	 >> {
+  "$id": "261",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "265",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:50	 >> {
+  "$id": "267",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "272",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:50	 >> {
+  "$id": "268",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "315",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:50	 >> {
+  "$id": "287",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "290",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:50	 >> {
+  "$id": "198",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "201",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:50	 >> {
+  "$id": "270",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "271",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:50	 >> {
+  "$id": "273",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "289",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:51	 >> {
+  "$id": "215",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "216",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:50	 >> {
+  "$id": "193",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "196",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:50	 >> {
+  "$id": "213",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "237",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:50	 >> {
+  "$id": "301",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "308",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:50	 >> {
+  "$id": "182",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "183",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:50	 >> {
+  "$id": "298",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "302",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:50	 >> {
+  "$id": "190",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "194",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:50	 >> {
+  "$id": "197",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "199",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:50	 >> {
+  "$id": "299",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "303",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:51	 >> {
+  "$id": "246",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "248",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:51	 >> {
+  "$id": "260",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "263",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:51	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51870
+03:12:50	 >> {
+  "$id": "257",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "259",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:50	 >> {
+  "$id": "185",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "187",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:51	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51874
+03:12:51	 >> {
+  "$id": "204",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "206",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:51	 >> {
+  "$id": "253",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "256",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:51	 >> {
+  "$id": "274",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "314",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:51	 >> {
+  "$id": "275",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "276",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:51	 >> {
+  "$id": "205",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "207",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:51	 >> {
+  "$id": "278",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "280",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:51	 >> {
+  "$id": "283",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "284",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:51	 >> {
+  "$id": "203",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "208",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:51	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51850
+03:12:51	 >> {
+  "$id": "281",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "282",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:50	 >> {
+  "$id": "262",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "264",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:50	 >> {
+  "$id": "309",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "322",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:50	 >> {
+  "$id": "182",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "183",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:51	 >> {
+  "$id": "285",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "286",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:51	 >> {
+  "$id": "297",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "313",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:51	 >> {
+  "$id": "296",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "335",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:50	 >> {
+  "$id": "304",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "305",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:50	 >> {
+  "$id": "310",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "321",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:51	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51842
+03:12:51	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51823
+03:12:51	 >> {
+  "$id": "295",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "300",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:50	 >> {
+  "$id": "191",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "192",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:51	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51817
+03:12:51	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51822
+03:12:50	 >> {
+  "$id": "269",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "288",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:51	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51814
+03:12:51	 >> {
+  "$id": "306",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "307",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:51	 >> {
+  "$id": "333",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "334",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:51	 >> {
+  "$id": "330",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "332",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:51	 >> {
+  "$id": "327",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "329",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:51	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51807
+03:12:51	 >> {
+  "$id": "324",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "325",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:52	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51872
+03:12:52	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51845
+03:12:52	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51803
+03:12:52	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51863
+03:12:52	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51837
+03:12:52	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51833
+03:12:52	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51871
+03:12:52	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51867
+03:12:52	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51868
+03:12:52	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51866
+03:12:52	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51862
+03:12:52	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51831
+03:12:52	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51855
+03:12:52	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51851
+03:12:52	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51854
+03:12:52	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51859
+03:12:52	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51858
+03:12:52	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51843
+03:12:52	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51847
+03:12:52	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51840
+03:12:52	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51808
+03:12:52	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51860
+03:12:52	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51848
+03:12:52	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51841
+03:12:52	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51846
+03:12:52	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51844
+03:12:52	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51838
+03:12:52	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51834
+03:12:52	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51830
+03:12:52	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51869
+03:12:52	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51873
+03:12:52	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51864
+03:12:52	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51856
+03:12:52	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51865
+03:12:52	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51861
+03:12:52	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51819
+03:12:52	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51852
+03:12:52	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51857
+03:12:52	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51853
+03:12:52	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51826
+03:12:52	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51805
+03:12:52	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51839
+03:12:52	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51835
+03:12:52	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51821
+03:12:52	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51849
+03:12:52	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51836
+03:12:52	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51832
+03:12:52	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51827
+03:12:52	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51810
+03:12:52	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51815
+03:12:52	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51818
+03:12:51	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51799
+03:12:52	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51806
+03:12:52	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51828
+03:12:52	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51804
+03:12:51	 >> {
+  "$id": "190",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "195",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:52	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51829
+03:12:52	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51825
+03:12:52	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51824
+03:12:52	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51820
+03:12:52	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51816
+03:12:51	 >> {
+  "$id": "326",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "328",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:52	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51813
+03:12:51	 >> {
+  "$id": "323",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "331",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:12:52	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51811
+03:12:52	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51812
+03:12:52	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51809
+03:12:52	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51798
+03:12:52	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51801
+03:12:53	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51800
+03:12:53	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51797
+03:12:53	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51802
+03:13:31	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51894
+03:13:31	 >> {
+  "$id": "336",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:13:31	 >> {
+  "$id": "337",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "world width": 2048
+}
+03:13:32	 >> {
+  "$id": "338",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "resources": {
+    "$id": "339",
+    "$type": "Isometric.Dtos.ResourcesDto, Isometric.Dtos",
+    "ResourcesArray": {
+      "$type": "System.Single[], mscorlib",
+      "$values": [
+        1000.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "FreePeople": 30,
+    "MaxPeople": 0
+  }
+}
+03:13:32	 >> {
+  "$id": "340",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "news": {
+    "$type": "Isometric.Dtos.NewsDto[], Isometric.Dtos",
+    "$values": []
+  }
+}
+03:13:33	 >> {
+  "$id": "341",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "resources": {
+    "$id": "342",
+    "$type": "Isometric.Dtos.ResourcesDto, Isometric.Dtos",
+    "ResourcesArray": {
+      "$type": "System.Single[], mscorlib",
+      "$values": [
+        1000.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "FreePeople": 30,
+    "MaxPeople": 0
+  }
+}
+03:13:33	 >> {
+  "$id": "343",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "news": {
+    "$type": "Isometric.Dtos.NewsDto[], Isometric.Dtos",
+    "$values": []
+  }
+}
+03:13:51	 >> {
+  "$id": "344",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "345",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:13:51	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51894
+03:14:12	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51913
+03:14:12	 >> {
+  "$id": "346",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:14:12	 >> {
+  "$id": "347",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "world width": 2048
+}
+03:14:13	 >> {
+  "$id": "348",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "resources": {
+    "$id": "349",
+    "$type": "Isometric.Dtos.ResourcesDto, Isometric.Dtos",
+    "ResourcesArray": {
+      "$type": "System.Single[], mscorlib",
+      "$values": [
+        1000.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "FreePeople": 30,
+    "MaxPeople": 0
+  }
+}
+03:14:13	 >> {
+  "$id": "350",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "news": {
+    "$type": "Isometric.Dtos.NewsDto[], Isometric.Dtos",
+    "$values": []
+  }
+}
+03:14:14	 >> {
+  "$id": "351",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "resources": {
+    "$id": "352",
+    "$type": "Isometric.Dtos.ResourcesDto, Isometric.Dtos",
+    "ResourcesArray": {
+      "$type": "System.Single[], mscorlib",
+      "$values": [
+        1000.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "FreePeople": 30,
+    "MaxPeople": 0
+  }
+}
+03:14:14	 >> {
+  "$id": "353",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "news": {
+    "$type": "Isometric.Dtos.NewsDto[], Isometric.Dtos",
+    "$values": []
+  }
+}
+03:14:17	 >> {
+  "$id": "354",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "355",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:14:17	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51913
+03:15:47	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51938
+03:15:47	 >> {
+  "$id": "356",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:15:47	 >> {
+  "$id": "357",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "world width": 2048
+}
+03:15:48	 >> {
+  "$id": "358",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "resources": {
+    "$id": "359",
+    "$type": "Isometric.Dtos.ResourcesDto, Isometric.Dtos",
+    "ResourcesArray": {
+      "$type": "System.Single[], mscorlib",
+      "$values": [
+        1000.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "FreePeople": 30,
+    "MaxPeople": 0
+  }
+}
+03:15:48	 >> {
+  "$id": "360",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "news": {
+    "$type": "Isometric.Dtos.NewsDto[], Isometric.Dtos",
+    "$values": []
+  }
+}
+03:15:49	 >> {
+  "$id": "361",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "362",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:15:49	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51938
+03:16:14	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51949
+03:16:14	 >> {
+  "$id": "363",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:16:14	 >> {
+  "$id": "364",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "world width": 2048
+}
+03:16:20	 >> {
+  "$id": "365",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "366",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:16:20	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51949
+03:17:04	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51975
+03:17:05	 >> {
+  "$id": "367",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:17:05	 >> {
+  "$id": "368",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "world width": 2048
+}
+03:17:05	 >> {
+  "$id": "369",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "resources": {
+    "$id": "370",
+    "$type": "Isometric.Dtos.ResourcesDto, Isometric.Dtos",
+    "ResourcesArray": {
+      "$type": "System.Single[], mscorlib",
+      "$values": [
+        1000.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "FreePeople": 30,
+    "MaxPeople": 0
+  }
+}
+03:17:05	 >> {
+  "$id": "371",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "news": {
+    "$type": "Isometric.Dtos.NewsDto[], Isometric.Dtos",
+    "$values": []
+  }
+}
+03:17:06	 >> {
+  "$id": "372",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "resources": {
+    "$id": "373",
+    "$type": "Isometric.Dtos.ResourcesDto, Isometric.Dtos",
+    "ResourcesArray": {
+      "$type": "System.Single[], mscorlib",
+      "$values": [
+        1000.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "FreePeople": 30,
+    "MaxPeople": 0
+  }
+}
+03:17:06	 >> {
+  "$id": "374",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "news": {
+    "$type": "Isometric.Dtos.NewsDto[], Isometric.Dtos",
+    "$values": []
+  }
+}
+03:17:07	 >> {
+  "$id": "375",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "error type": "request",
+  "exception": {
+    "$id": "376",
+    "$type": "Newtonsoft.Json.JsonReaderException, Newtonsoft.Json",
+    "ClassName": "Newtonsoft.Json.JsonReaderException",
+    "Message": "Error reading JToken from JsonReader. Path '', line 0, position 0.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   в Newtonsoft.Json.Linq.JToken.ReadFrom(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Load(JsonReader reader, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json, JsonLoadSettings settings)\r\n   в Newtonsoft.Json.Linq.JToken.Parse(String json)\r\n   в Isometric.Server.RequestManager`1.GetResponse(String request, Connection`1 connection) в E:\\projects\\isometric\\Isometric.Server\\RequestManager.cs:строка 49",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nReadFrom\nNewtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed\nNewtonsoft.Json.Linq.JToken\nNewtonsoft.Json.Linq.JToken ReadFrom(Newtonsoft.Json.JsonReader, Newtonsoft.Json.Linq.JsonLoadSettings)",
+    "HResult": -2146233088,
+    "Source": "Newtonsoft.Json",
+    "WatsonBuckets": null
+  }
+}
+03:17:07	 Closed connection to 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51975
+03:17:52	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:51993
+03:17:52	 >> {
+  "$id": "377",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+03:17:52	 >> {
+  "$id": "378",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "world width": 2048
+}
+03:17:53	 >> {
+  "$id": "379",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "resources": {
+    "$id": "380",
+    "$type": "Isometric.Dtos.ResourcesDto, Isometric.Dtos",
+    "ResourcesArray": {
+      "$type": "System.Single[], mscorlib",
+      "$values": [
+        1000.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "FreePeople": 30,
+    "MaxPeople": 0
+  }
+}
+03:17:53	 >> {
+  "$id": "381",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "news": {
+    "

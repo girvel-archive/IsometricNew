@@ -4,7 +4,7 @@ namespace Isometric.Core.Vectors
 {
     public struct Vector
     {
-        public readonly int X, Y;
+        public int X, Y;
 
         public int SquaredMagnitude => X * X + Y * Y;
 

@@ -72,7 +72,7 @@ namespace Isometric.Game
                 new IResources[] {new Resources {Wood = 5,}})
             {
                 Builders = 2,
-                BuildingTime = TimeSpan.FromSeconds(60),
+                BuildingTime = TimeSpan.FromSeconds(40),
                 LifePoints = 80,
                 Acceleration = Acceleration,
             },
@@ -84,7 +84,7 @@ namespace Isometric.Game
                 new IResources[] {new Resources {RawFood = 5,}})
             {
                 Builders = 2,
-                BuildingTime = TimeSpan.FromSeconds(60),
+                BuildingTime = TimeSpan.FromSeconds(40),
                 LifePoints = 80,
                 Acceleration = Acceleration,
             },
@@ -96,7 +96,7 @@ namespace Isometric.Game
                 2)
             {
                 Builders = 2,
-                BuildingTime = TimeSpan.FromSeconds(60),
+                BuildingTime = TimeSpan.FromSeconds(40),
                 LifePoints = 80,
             },
 

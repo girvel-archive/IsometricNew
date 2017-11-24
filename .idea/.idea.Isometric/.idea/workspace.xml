@@ -1,55 +1,145 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="091ee08e-5292-4466-9502-0d91d21f75cb" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Core.Tests/bin/Release/Isometric.Core.Tests.dll" afterPath="$PROJECT_DIR$/Isometric.Core.Tests/bin/Release/Isometric.Core.Tests.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Core.Tests/bin/Release/Isometric.Core.Tests.pdb" afterPath="$PROJECT_DIR$/Isometric.Core.Tests/bin/Release/Isometric.Core.Tests.pdb" />
+    <list default="true" id="091ee08e-5292-4466-9502-0d91d21f75cb" name="Default" comment="#">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Core.Tests/bin/Debug/Isometric.Core.Tests.dll" afterPath="$PROJECT_DIR$/Isometric.Core.Tests/bin/Debug/Isometric.Core.Tests.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Core.Tests/bin/Debug/Isometric.Core.Tests.pdb" afterPath="$PROJECT_DIR$/Isometric.Core.Tests/bin/Debug/Isometric.Core.Tests.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Core.Tests/bin/Debug/Isometric.Core.Vectors.dll" afterPath="$PROJECT_DIR$/Isometric.Core.Tests/bin/Debug/Isometric.Core.Vectors.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Core.Tests/bin/Debug/Isometric.Core.Vectors.pdb" afterPath="$PROJECT_DIR$/Isometric.Core.Tests/bin/Debug/Isometric.Core.Vectors.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Core.Tests/bin/Debug/Isometric.Core.dll" afterPath="$PROJECT_DIR$/Isometric.Core.Tests/bin/Debug/Isometric.Core.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Core.Tests/bin/Debug/Isometric.Core.pdb" afterPath="$PROJECT_DIR$/Isometric.Core.Tests/bin/Debug/Isometric.Core.pdb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Core.Tests/bin/Release/Isometric.Core.Vectors.dll" afterPath="$PROJECT_DIR$/Isometric.Core.Tests/bin/Release/Isometric.Core.Vectors.dll" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Core.Tests/bin/Release/Isometric.Core.Vectors.pdb" afterPath="$PROJECT_DIR$/Isometric.Core.Tests/bin/Release/Isometric.Core.Vectors.pdb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Core.Tests/bin/Release/Isometric.Core.dll" afterPath="$PROJECT_DIR$/Isometric.Core.Tests/bin/Release/Isometric.Core.dll" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Core.Tests/bin/Release/Isometric.Core.pdb" afterPath="$PROJECT_DIR$/Isometric.Core.Tests/bin/Release/Isometric.Core.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Core.Tests/obj/Release/Isometric.Core.Tests.csprojResolveAssemblyReference.cache" afterPath="$PROJECT_DIR$/Isometric.Core.Tests/obj/Release/Isometric.Core.Tests.csprojResolveAssemblyReference.cache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Core.Tests/obj/Release/Isometric.Core.Tests.dll" afterPath="$PROJECT_DIR$/Isometric.Core.Tests/obj/Release/Isometric.Core.Tests.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Core.Tests/obj/Release/Isometric.Core.Tests.pdb" afterPath="$PROJECT_DIR$/Isometric.Core.Tests/obj/Release/Isometric.Core.Tests.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Core.Tests/obj/Debug/CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/Isometric.Core.Tests/obj/Debug/CoreCompileInputs.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Core.Tests/obj/Debug/Isometric.Core.Tests.csprojResolveAssemblyReference.cache" afterPath="$PROJECT_DIR$/Isometric.Core.Tests/obj/Debug/Isometric.Core.Tests.csprojResolveAssemblyReference.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Core.Tests/obj/Debug/Isometric.Core.Tests.dll" afterPath="$PROJECT_DIR$/Isometric.Core.Tests/obj/Debug/Isometric.Core.Tests.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Core.Tests/obj/Debug/Isometric.Core.Tests.pdb" afterPath="$PROJECT_DIR$/Isometric.Core.Tests/obj/Debug/Isometric.Core.Tests.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Core.Vectors/bin/Debug/Isometric.Core.Vectors.dll" afterPath="$PROJECT_DIR$/Isometric.Core.Vectors/bin/Debug/Isometric.Core.Vectors.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Core.Vectors/bin/Debug/Isometric.Core.Vectors.pdb" afterPath="$PROJECT_DIR$/Isometric.Core.Vectors/bin/Debug/Isometric.Core.Vectors.pdb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Core.Vectors/bin/Release/Isometric.Core.Vectors.dll" afterPath="$PROJECT_DIR$/Isometric.Core.Vectors/bin/Release/Isometric.Core.Vectors.dll" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Core.Vectors/bin/Release/Isometric.Core.Vectors.pdb" afterPath="$PROJECT_DIR$/Isometric.Core.Vectors/bin/Release/Isometric.Core.Vectors.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Core.Vectors/obj/Debug/Isometric.Core.Vectors.dll" afterPath="$PROJECT_DIR$/Isometric.Core.Vectors/obj/Debug/Isometric.Core.Vectors.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Core.Vectors/obj/Debug/Isometric.Core.Vectors.pdb" afterPath="$PROJECT_DIR$/Isometric.Core.Vectors/obj/Debug/Isometric.Core.Vectors.pdb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Core.Vectors/obj/Release/Isometric.Core.Vectors.dll" afterPath="$PROJECT_DIR$/Isometric.Core.Vectors/obj/Release/Isometric.Core.Vectors.dll" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Core.Vectors/obj/Release/Isometric.Core.Vectors.pdb" afterPath="$PROJECT_DIR$/Isometric.Core.Vectors/obj/Release/Isometric.Core.Vectors.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Core/bin/Debug/Isometric.Core.Vectors.dll" afterPath="$PROJECT_DIR$/Isometric.Core/bin/Debug/Isometric.Core.Vectors.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Core/bin/Debug/Isometric.Core.Vectors.pdb" afterPath="$PROJECT_DIR$/Isometric.Core/bin/Debug/Isometric.Core.Vectors.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Core/bin/Debug/Isometric.Core.dll" afterPath="$PROJECT_DIR$/Isometric.Core/bin/Debug/Isometric.Core.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Core/bin/Debug/Isometric.Core.pdb" afterPath="$PROJECT_DIR$/Isometric.Core/bin/Debug/Isometric.Core.pdb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Core/bin/Release/Isometric.Core.Vectors.dll" afterPath="$PROJECT_DIR$/Isometric.Core/bin/Release/Isometric.Core.Vectors.dll" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Core/bin/Release/Isometric.Core.Vectors.pdb" afterPath="$PROJECT_DIR$/Isometric.Core/bin/Release/Isometric.Core.Vectors.pdb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Core/bin/Release/Isometric.Core.dll" afterPath="$PROJECT_DIR$/Isometric.Core/bin/Release/Isometric.Core.dll" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Core/bin/Release/Isometric.Core.pdb" afterPath="$PROJECT_DIR$/Isometric.Core/bin/Release/Isometric.Core.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Core/obj/Release/CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/Isometric.Core/obj/Release/CoreCompileInputs.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Core/obj/Debug/CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/Isometric.Core/obj/Debug/CoreCompileInputs.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Core/obj/Debug/Isometric.Core.csprojResolveAssemblyReference.cache" afterPath="$PROJECT_DIR$/Isometric.Core/obj/Debug/Isometric.Core.csprojResolveAssemblyReference.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Core/obj/Debug/Isometric.Core.dll" afterPath="$PROJECT_DIR$/Isometric.Core/obj/Debug/Isometric.Core.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Core/obj/Debug/Isometric.Core.pdb" afterPath="$PROJECT_DIR$/Isometric.Core/obj/Debug/Isometric.Core.pdb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Core/obj/Release/Isometric.Core.csprojResolveAssemblyReference.cache" afterPath="$PROJECT_DIR$/Isometric.Core/obj/Release/Isometric.Core.csprojResolveAssemblyReference.cache" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Core/obj/Release/Isometric.Core.dll" afterPath="$PROJECT_DIR$/Isometric.Core/obj/Release/Isometric.Core.dll" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Core/obj/Release/Isometric.Core.pdb" afterPath="$PROJECT_DIR$/Isometric.Core/obj/Release/Isometric.Core.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Dtos/bin/Debug/Isometric.Dtos.dll" afterPath="$PROJECT_DIR$/Isometric.Dtos/bin/Debug/Isometric.Dtos.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Dtos/bin/Debug/Isometric.Dtos.pdb" afterPath="$PROJECT_DIR$/Isometric.Dtos/bin/Debug/Isometric.Dtos.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Dtos/bin/Release/Isometric.Dtos.dll" afterPath="$PROJECT_DIR$/Isometric.Dtos/bin/Release/Isometric.Dtos.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Dtos/bin/Release/Isometric.Dtos.pdb" afterPath="$PROJECT_DIR$/Isometric.Dtos/bin/Release/Isometric.Dtos.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Dtos/obj/Debug/CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/Isometric.Dtos/obj/Debug/CoreCompileInputs.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Dtos/obj/Debug/Isometric.Dtos.csprojResolveAssemblyReference.cache" afterPath="$PROJECT_DIR$/Isometric.Dtos/obj/Debug/Isometric.Dtos.csprojResolveAssemblyReference.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Dtos/obj/Debug/Isometric.Dtos.dll" afterPath="$PROJECT_DIR$/Isometric.Dtos/obj/Debug/Isometric.Dtos.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Dtos/obj/Debug/Isometric.Dtos.pdb" afterPath="$PROJECT_DIR$/Isometric.Dtos/obj/Debug/Isometric.Dtos.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Dtos/obj/Release/CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/Isometric.Dtos/obj/Release/CoreCompileInputs.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Dtos/obj/Release/Isometric.Dtos.csprojResolveAssemblyReference.cache" afterPath="$PROJECT_DIR$/Isometric.Dtos/obj/Release/Isometric.Dtos.csprojResolveAssemblyReference.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Dtos/obj/Release/Isometric.Dtos.dll" afterPath="$PROJECT_DIR$/Isometric.Dtos/obj/Release/Isometric.Dtos.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Dtos/obj/Release/Isometric.Dtos.pdb" afterPath="$PROJECT_DIR$/Isometric.Dtos/obj/Release/Isometric.Dtos.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Game.Tests/bin/Debug/Isometric.Game.Tests.dll" afterPath="$PROJECT_DIR$/Isometric.Game.Tests/bin/Debug/Isometric.Game.Tests.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Game.Tests/bin/Debug/Isometric.Game.Tests.pdb" afterPath="$PROJECT_DIR$/Isometric.Game.Tests/bin/Debug/Isometric.Game.Tests.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Game.Tests/obj/Debug/Isometric.Game.Tests.dll" afterPath="$PROJECT_DIR$/Isometric.Game.Tests/obj/Debug/Isometric.Game.Tests.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Game.Tests/obj/Debug/Isometric.Game.Tests.pdb" afterPath="$PROJECT_DIR$/Isometric.Game.Tests/obj/Debug/Isometric.Game.Tests.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Game/bin/Debug/Isometric.Core.Vectors.dll" afterPath="$PROJECT_DIR$/Isometric.Game/bin/Debug/Isometric.Core.Vectors.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Game/bin/Debug/Isometric.Core.Vectors.pdb" afterPath="$PROJECT_DIR$/Isometric.Game/bin/Debug/Isometric.Core.Vectors.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Game/bin/Debug/Isometric.Core.dll" afterPath="$PROJECT_DIR$/Isometric.Game/bin/Debug/Isometric.Core.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Game/bin/Debug/Isometric.Core.pdb" afterPath="$PROJECT_DIR$/Isometric.Game/bin/Debug/Isometric.Core.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Game/bin/Debug/Isometric.Game.dll" afterPath="$PROJECT_DIR$/Isometric.Game/bin/Debug/Isometric.Game.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Game/bin/Debug/Isometric.Game.pdb" afterPath="$PROJECT_DIR$/Isometric.Game/bin/Debug/Isometric.Game.pdb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Game/bin/Release/Isometric.Core.Vectors.dll" afterPath="$PROJECT_DIR$/Isometric.Game/bin/Release/Isometric.Core.Vectors.dll" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Game/bin/Release/Isometric.Core.Vectors.pdb" afterPath="$PROJECT_DIR$/Isometric.Game/bin/Release/Isometric.Core.Vectors.pdb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Game/bin/Release/Isometric.Core.dll" afterPath="$PROJECT_DIR$/Isometric.Game/bin/Release/Isometric.Core.dll" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Game/bin/Release/Isometric.Core.pdb" afterPath="$PROJECT_DIR$/Isometric.Game/bin/Release/Isometric.Core.pdb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Game/bin/Release/Isometric.Game.dll" afterPath="$PROJECT_DIR$/Isometric.Game/bin/Release/Isometric.Game.dll" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Game/bin/Release/Isometric.Game.pdb" afterPath="$PROJECT_DIR$/Isometric.Game/bin/Release/Isometric.Game.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Game/obj/Debug/CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/Isometric.Game/obj/Debug/CoreCompileInputs.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Game/obj/Debug/Isometric.Game.csprojResolveAssemblyReference.cache" afterPath="$PROJECT_DIR$/Isometric.Game/obj/Debug/Isometric.Game.csprojResolveAssemblyReference.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Game/obj/Debug/Isometric.Game.dll" afterPath="$PROJECT_DIR$/Isometric.Game/obj/Debug/Isometric.Game.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Game/obj/Debug/Isometric.Game.pdb" afterPath="$PROJECT_DIR$/Isometric.Game/obj/Debug/Isometric.Game.pdb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Game/obj/Release/Isometric.Game.csprojResolveAssemblyReference.cache" afterPath="$PROJECT_DIR$/Isometric.Game/obj/Release/Isometric.Game.csprojResolveAssemblyReference.cache" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Game/obj/Release/Isometric.Game.dll" afterPath="$PROJECT_DIR$/Isometric.Game/obj/Release/Isometric.Game.dll" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Game/obj/Release/Isometric.Game.pdb" afterPath="$PROJECT_DIR$/Isometric.Game/obj/Release/Isometric.Game.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Server.Application/bin/Debug/Isometric.Core.Vectors.dll" afterPath="$PROJECT_DIR$/Isometric.Server.Application/bin/Debug/Isometric.Core.Vectors.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Server.Application/bin/Debug/Isometric.Core.Vectors.pdb" afterPath="$PROJECT_DIR$/Isometric.Server.Application/bin/Debug/Isometric.Core.Vectors.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Server.Application/bin/Debug/Isometric.Core.dll" afterPath="$PROJECT_DIR$/Isometric.Server.Application/bin/Debug/Isometric.Core.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Server.Application/bin/Debug/Isometric.Core.pdb" afterPath="$PROJECT_DIR$/Isometric.Server.Application/bin/Debug/Isometric.Core.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Server.Application/bin/Debug/Isometric.Dtos.dll" afterPath="$PROJECT_DIR$/Isometric.Server.Application/bin/Debug/Isometric.Dtos.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Server.Application/bin/Debug/Isometric.Dtos.pdb" afterPath="$PROJECT_DIR$/Isometric.Server.Application/bin/Debug/Isometric.Dtos.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Server.Application/bin/Debug/Isometric.Game.dll" afterPath="$PROJECT_DIR$/Isometric.Server.Application/bin/Debug/Isometric.Game.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Server.Application/bin/Debug/Isometric.Game.pdb" afterPath="$PROJECT_DIR$/Isometric.Server.Application/bin/Debug/Isometric.Game.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Server.Application/bin/Debug/Isometric.Server.Application.exe" afterPath="$PROJECT_DIR$/Isometric.Server.Application/bin/Debug/Isometric.Server.Application.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Server.Application/bin/Debug/Isometric.Server.Application.pdb" afterPath="$PROJECT_DIR$/Isometric.Server.Application/bin/Debug/Isometric.Server.Application.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Server.Application/bin/Debug/Isometric.Server.dll" afterPath="$PROJECT_DIR$/Isometric.Server.Application/bin/Debug/Isometric.Server.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Server.Application/bin/Debug/Isometric.Server.pdb" afterPath="$PROJECT_DIR$/Isometric.Server.Application/bin/Debug/Isometric.Server.pdb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Server.Application/bin/Release/Isometric.Core.Vectors.dll" afterPath="$PROJECT_DIR$/Isometric.Server.Application/bin/Release/Isometric.Core.Vectors.dll" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Server.Application/bin/Release/Isometric.Core.Vectors.pdb" afterPath="$PROJECT_DIR$/Isometric.Server.Application/bin/Release/Isometric.Core.Vectors.pdb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Server.Application/bin/Release/Isometric.Core.dll" afterPath="$PROJECT_DIR$/Isometric.Server.Application/bin/Release/Isometric.Core.dll" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Server.Application/bin/Release/Isometric.Core.pdb" afterPath="$PROJECT_DIR$/Isometric.Server.Application/bin/Release/Isometric.Core.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Server.Application/bin/Release/Isometric.Dtos.dll" afterPath="$PROJECT_DIR$/Isometric.Server.Application/bin/Release/Isometric.Dtos.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Server.Application/bin/Release/Isometric.Dtos.pdb" afterPath="$PROJECT_DIR$/Isometric.Server.Application/bin/Release/Isometric.Dtos.pdb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Server.Application/bin/Release/Isometric.Game.dll" afterPath="$PROJECT_DIR$/Isometric.Server.Application/bin/Release/Isometric.Game.dll" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Server.Application/bin/Release/Isometric.Game.pdb" afterPath="$PROJECT_DIR$/Isometric.Server.Application/bin/Release/Isometric.Game.pdb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Server.Application/bin/Release/Isometric.Server.Application.exe" afterPath="$PROJECT_DIR$/Isometric.Server.Application/bin/Release/Isometric.Server.Application.exe" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Server.Application/bin/Release/Isometric.Server.Application.pdb" afterPath="$PROJECT_DIR$/Isometric.Server.Application/bin/Release/Isometric.Server.Application.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Server.Application/bin/Release/Isometric.Server.dll" afterPath="$PROJECT_DIR$/Isometric.Server.Application/bin/Release/Isometric.Server.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Server.Application/bin/Release/Isometric.Server.pdb" afterPath="$PROJECT_DIR$/Isometric.Server.Application/bin/Release/Isometric.Server.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Server.Application/obj/Debug/Isometric.Server.Application.csprojResolveAssemblyReference.cache" afterPath="$PROJECT_DIR$/Isometric.Server.Application/obj/Debug/Isometric.Server.Application.csprojResolveAssemblyReference.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Server.Application/obj/Debug/Isometric.Server.Application.exe" afterPath="$PROJECT_DIR$/Isometric.Server.Application/obj/Debug/Isometric.Server.Application.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Server.Application/obj/Debug/Isometric.Server.Application.pdb" afterPath="$PROJECT_DIR$/Isometric.Server.Application/obj/Debug/Isometric.Server.Application.pdb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Server.Application/obj/Release/Isometric.Server.Application.csprojResolveAssemblyReference.cache" afterPath="$PROJECT_DIR$/Isometric.Server.Application/obj/Release/Isometric.Server.Application.csprojResolveAssemblyReference.cache" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Server.Application/obj/Release/Isometric.Server.Application.exe" afterPath="$PROJECT_DIR$/Isometric.Server.Application/obj/Release/Isometric.Server.Application.exe" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Server.Application/obj/Release/Isometric.Server.Application.pdb" afterPath="$PROJECT_DIR$/Isometric.Server.Application/obj/Release/Isometric.Server.Application.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Server.Tests/bin/Debug/Isometric.Server.Tests.dll" afterPath="$PROJECT_DIR$/Isometric.Server.Tests/bin/Debug/Isometric.Server.Tests.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Server.Tests/bin/Debug/Isometric.Server.Tests.pdb" afterPath="$PROJECT_DIR$/Isometric.Server.Tests/bin/Debug/Isometric.Server.Tests.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Server.Tests/bin/Debug/Isometric.Server.dll" afterPath="$PROJECT_DIR$/Isometric.Server.Tests/bin/Debug/Isometric.Server.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Server.Tests/bin/Debug/Isometric.Server.pdb" afterPath="$PROJECT_DIR$/Isometric.Server.Tests/bin/Debug/Isometric.Server.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Server.Tests/bin/Debug/Moq.dll" afterPath="$PROJECT_DIR$/Isometric.Server.Tests/bin/Debug/Moq.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Server.Tests/bin/Debug/Moq.pdb" afterPath="$PROJECT_DIR$/Isometric.Server.Tests/bin/Debug/Moq.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Server.Tests/bin/Release/Isometric.Server.dll" afterPath="$PROJECT_DIR$/Isometric.Server.Tests/bin/Release/Isometric.Server.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Server.Tests/bin/Release/Isometric.Server.pdb" afterPath="$PROJECT_DIR$/Isometric.Server.Tests/bin/Release/Isometric.Server.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Server.Tests/obj/Debug/CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/Isometric.Server.Tests/obj/Debug/CoreCompileInputs.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Server.Tests/obj/Debug/Isometric.Server.Tests.csprojResolveAssemblyReference.cache" afterPath="$PROJECT_DIR$/Isometric.Server.Tests/obj/Debug/Isometric.Server.Tests.csprojResolveAssemblyReference.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Server.Tests/obj/Debug/Isometric.Server.Tests.dll" afterPath="$PROJECT_DIR$/Isometric.Server.Tests/obj/Debug/Isometric.Server.Tests.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Server.Tests/obj/Debug/Isometric.Server.Tests.pdb" afterPath="$PROJECT_DIR$/Isometric.Server.Tests/obj/Debug/Isometric.Server.Tests.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Server/bin/Debug/Isometric.Server.dll" afterPath="$PROJECT_DIR$/Isometric.Server/bin/Debug/Isometric.Server.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Server/bin/Debug/Isometric.Server.pdb" afterPath="$PROJECT_DIR$/Isometric.Server/bin/Debug/Isometric.Server.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Server/bin/Release/Isometric.Server.dll" afterPath="$PROJECT_DIR$/Isometric.Server/bin/Release/Isometric.Server.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Server/bin/Release/Isometric.Server.pdb" afterPath="$PROJECT_DIR$/Isometric.Server/bin/Release/Isometric.Server.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Server/obj/Debug/Isometric.Server.dll" afterPath="$PROJECT_DIR$/Isometric.Server/obj/Debug/Isometric.Server.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Server/obj/Debug/Isometric.Server.pdb" afterPath="$PROJECT_DIR$/Isometric.Server/obj/Debug/Isometric.Server.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Server/obj/Release/Isometric.Server.dll" afterPath="$PROJECT_DIR$/Isometric.Server/obj/Release/Isometric.Server.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Server/obj/Release/Isometric.Server.pdb" afterPath="$PROJECT_DIR$/Isometric.Server/obj/Release/Isometric.Server.pdb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.Isometric/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.Isometric/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Core.Tests/Managers/ArmiesManagerTests.cs" afterPath="$PROJECT_DIR$/Isometric.Core.Tests/Managers/ArmiesManagerTests.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Core.Tests/Managers/VisionManagerTests.cs" afterPath="$PROJECT_DIR$/Isometric.Core.Tests/Managers/VisionManagerTests.cs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Core.Vectors/Vector.cs" afterPath="$PROJECT_DIR$/Isometric.Core.Vectors/Vector.cs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Core/Isometric.Core.csproj" afterPath="$PROJECT_DIR$/Isometric.Core/Isometric.Core.csproj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Core/Managers/VisionManager.cs" afterPath="$PROJECT_DIR$/Isometric.Core/Managers/VisionManager.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Core/World.cs" afterPath="$PROJECT_DIR$/Isometric.Core/World.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Core/Managers/ArmiesManager.cs" afterPath="$PROJECT_DIR$/Isometric.Core/Managers/ArmiesManager.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Core/Managers/Tasks/MovingTask.cs" afterPath="$PROJECT_DIR$/Isometric.Core/Managers/Tasks/MovingTask.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Core/Player.cs" afterPath="$PROJECT_DIR$/Isometric.Core/Player.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Dtos/Isometric.Dtos.csproj" afterPath="$PROJECT_DIR$/Isometric.Dtos/Isometric.Dtos.csproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Dtos/obj/Debug/Isometric.Dtos.csproj.FileListAbsolute.txt" afterPath="$PROJECT_DIR$/Isometric.Dtos/obj/Debug/Isometric.Dtos.csproj.FileListAbsolute.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Dtos/obj/Release/Isometric.Dtos.csproj.FileListAbsolute.txt" afterPath="$PROJECT_DIR$/Isometric.Dtos/obj/Release/Isometric.Dtos.csproj.FileListAbsolute.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Game/BuildingPrototypes.cs" afterPath="$PROJECT_DIR$/Isometric.Game/BuildingPrototypes.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Server.Application/Administration/AdministrationConsoleFacade.cs" afterPath="$PROJECT_DIR$/Isometric.Server.Application/Administration/AdministrationConsoleFacade.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Server.Application/Program.cs" afterPath="$PROJECT_DIR$/Isometric.Server.Application/Program.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Server.Tests/bin/Debug/Moq.xml" afterPath="$PROJECT_DIR$/Isometric.Server.Tests/bin/Debug/Moq.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Server.Tests/obj/Debug/Isometric.Server.Tests.csproj.FileListAbsolute.txt" afterPath="$PROJECT_DIR$/Isometric.Server.Tests/obj/Debug/Isometric.Server.Tests.csproj.FileListAbsolute.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Server/Connection.cs" afterPath="$PROJECT_DIR$/Isometric.Server/Connection.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Isometric.Server/Log.cs" afterPath="$PROJECT_DIR$/Isometric.Server/Log.cs" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -73,46 +163,154 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="VisionManager.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Isometric.Core/Managers/VisionManager.cs">
+      <file leaf-file-name="ArmiesManager.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Isometric.Core/Managers/ArmiesManager.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1116">
-              <caret line="64" column="24" lean-forward="true" selection-start-line="64" selection-start-column="24" selection-end-line="64" selection-end-column="24" />
+            <state relative-caret-position="594">
+              <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
               <folding>
-                <marker date="1508039483102" expanded="false" signature="6:62" ph="..." />
-                <marker date="1508039483102" expanded="true" signature="97:3020" ph="{...}" />
-                <marker date="1508039483102" expanded="true" signature="130:3018" ph="{...}" />
-                <marker date="1508039483102" expanded="true" signature="247:307" ph="{...}" />
-                <marker date="1508039483102" expanded="true" signature="391:1144" ph="{...}" />
-                <marker date="1508039483102" expanded="true" signature="553:1107" ph="{...}" />
-                <marker date="1508039483102" expanded="true" signature="689:1093" ph="{...}" />
-                <marker date="1508039483102" expanded="true" signature="994:1075" ph="{...}" />
-                <marker date="1508039483102" expanded="true" signature="1205:3012" ph="{...}" />
-                <marker date="1508039483102" expanded="true" signature="1494:1983" ph="{...}" />
-                <marker date="1508039483102" expanded="true" signature="2055:2974" ph="{...}" />
-                <marker date="1508039483102" expanded="true" signature="2477:2960" ph="{...}" />
-                <marker date="1508039483102" expanded="true" signature="2625:2942" ph="{...}" />
+                <marker date="1510901576371" expanded="false" signature="6:160" ph="..." />
+                <marker date="1510901576371" expanded="true" signature="195:2790" ph="{...}" />
+                <marker date="1510901576371" expanded="true" signature="242:2788" ph="{...}" />
+                <marker date="1510901576371" expanded="true" signature="621:800" ph="{...}" />
+                <marker date="1510901576371" expanded="true" signature="883:964" ph="{...}" />
+                <marker date="1510901576371" expanded="true" signature="1034:1106" ph="{...}" />
+                <marker date="1510901576371" expanded="true" signature="1154:1971" ph="{...}" />
+                <marker date="1510901576371" expanded="true" signature="1313:1947" ph="{...}" />
+                <marker date="1510901576371" expanded="true" signature="1378:1534" ph="{...}" />
+                <marker date="1510901576371" expanded="true" signature="1599:1929" ph="{...}" />
+                <marker date="1510901576371" expanded="true" signature="2012:2145" ph="{...}" />
+                <marker date="1510901576371" expanded="true" signature="2189:2432" ph="{...}" />
+                <marker date="1510901576371" expanded="true" signature="2487:2782" ph="{...}" />
+                <marker date="1510901576371" expanded="true" signature="2593:2692" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="VisionManagerTests.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Isometric.Core.Tests/Managers/VisionManagerTests.cs">
+      <file leaf-file-name="LootTask.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Isometric.Core/Managers/Tasks/LootTask.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="571">
-              <caret line="90" column="76" lean-forward="false" selection-start-line="90" selection-start-column="76" selection-end-line="90" selection-end-column="76" />
+            <state relative-caret-position="72">
+              <caret line="7" column="36" lean-forward="false" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
               <folding>
-                <marker date="1508039423559" expanded="false" signature="6:128" ph="..." />
-                <marker date="1508039423559" expanded="true" signature="169:3780" ph="{...}" />
-                <marker date="1508039423559" expanded="true" signature="225:3778" ph="{...}" />
-                <marker date="1508039423559" expanded="true" signature="317:640" ph="{...}" />
-                <marker date="1508039423559" expanded="true" signature="731:1278" ph="{...}" />
-                <marker date="1508039423559" expanded="true" signature="1351:3772" ph="{...}" />
-                <marker date="1508039423559" expanded="true" signature="1435:1810" ph="{...}" />
-                <marker date="1508039423559" expanded="true" signature="1865:2354" ph="{...}" />
-                <marker date="1508039423559" expanded="true" signature="3168:3420" ph="{...}" />
-                <marker date="1508039423559" expanded="true" signature="3570:3685" ph="{...}" />
+                <marker date="1510902283464" expanded="false" signature="6:110" ph="..." />
+                <marker date="1510902283464" expanded="true" signature="190:1692" ph="{...}" />
+                <marker date="1510902283464" expanded="true" signature="510:708" ph="{...}" />
+                <marker date="1510902283464" expanded="true" signature="789:1686" ph="{...}" />
+                <marker date="1510902283464" expanded="true" signature="905:963" ph="{...}" />
+                <marker date="1510902283464" expanded="true" signature="1282:1339" ph="{...}" />
+                <marker date="1510902283464" expanded="true" signature="1396:1499" ph="{...}" />
+                <marker date="1510902283464" expanded="true" signature="1516:1639" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Log.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Isometric.Server/Log.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+              <folding>
+                <marker date="1510933912448" expanded="false" signature="6:83" ph="..." />
+                <marker date="1510933912448" expanded="true" signature="111:539" ph="{...}" />
+                <marker date="1510933912448" expanded="true" signature="134:537" ph="{...}" />
+                <marker date="1510933912448" expanded="true" signature="241:301" ph="{...}" />
+                <marker date="1510933912448" expanded="true" signature="351:531" ph="{...}" />
+                <marker date="1510933912448" expanded="true" signature="463:521" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MovingTask.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Isometric.Core/Managers/Tasks/MovingTask.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding>
+                <marker date="1510900366999" expanded="false" signature="6:72" ph="..." />
+                <marker date="1510900366999" expanded="true" signature="154:1038" ph="{...}" />
+                <marker date="1510900366999" expanded="true" signature="241:1032" ph="{...}" />
+                <marker date="1510900366999" expanded="true" signature="400:995" ph="{...}" />
+                <marker date="1510900366999" expanded="true" signature="522:649" ph="{...}" />
+                <marker date="1510900366999" expanded="true" signature="699:826" ph="{...}" />
+                <marker date="1510900366999" expanded="true" signature="847:981" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DestroyingTask.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Isometric.Core/Managers/Tasks/DestroyingTask.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding>
+                <marker date="1504152964642" expanded="true" signature="99:605" ph="{...}" />
+                <marker date="1504152964642" expanded="true" signature="159:599" ph="{...}" />
+                <marker date="1504152964642" expanded="true" signature="265:562" ph="{...}" />
+                <marker date="1504152964642" expanded="true" signature="414:548" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Building.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Isometric.Core/Building.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="828">
+              <caret line="183" column="25" lean-forward="false" selection-start-line="183" selection-start-column="25" selection-end-line="183" selection-end-column="25" />
+              <folding>
+                <marker date="1507688119590" expanded="true" signature="6:152" ph="..." />
+                <marker date="1507688119590" expanded="true" signature="354:8424" ph="{...}" />
+                <marker date="1507688119590" expanded="false" signature="369:617" ph="Private fields" />
+                <marker date="1507688119590" expanded="false" signature="629:1461" ph="Building main variables" />
+                <marker date="1507688119590" expanded="true" signature="792:1285" ph="{...}" />
+                <marker date="1507688119590" expanded="true" signature="845:1275" ph="{...}" />
+                <marker date="1507688119590" expanded="true" signature="895:1043" ph="{...}" />
+                <marker date="1507688119590" expanded="true" signature="1113:1261" ph="{...}" />
+                <marker date="1507688119590" expanded="false" signature="1481:1853" ph="Prototype main variables" />
+                <marker date="1507688119590" expanded="false" signature="1873:3809" ph="People variables" />
+                <marker date="1507688119590" expanded="true" signature="2058:2479" ph="{...}" />
+                <marker date="1507688119590" expanded="true" signature="2127:2469" ph="{...}" />
+                <marker date="1507688119590" expanded="true" signature="2330:2437" ph="{...}" />
+                <marker date="1507688119590" expanded="true" signature="2576:2811" ph="{...}" />
+                <marker date="1507688119590" expanded="true" signature="2642:2801" ph="{...}" />
+                <marker date="1507688119590" expanded="true" signature="2840:3069" ph="{...}" />
+                <marker date="1507688119590" expanded="true" signature="2904:3059" ph="{...}" />
+                <marker date="1507688119590" expanded="true" signature="3106:3428" ph="{...}" />
+                <marker date="1507688119590" expanded="true" signature="3177:3418" ph="{...}" />
+                <marker date="1507688119590" expanded="true" signature="3321:3404" ph="{...}" />
+                <marker date="1507688119590" expanded="true" signature="3463:3789" ph="{...}" />
+                <marker date="1507688119590" expanded="true" signature="3533:3779" ph="{...}" />
+                <marker date="1507688119590" expanded="true" signature="3672:3765" ph="{...}" />
+                <marker date="1507688119590" expanded="true" signature="3829:4571" ph="IMilitaryObject" />
+                <marker date="1507688119590" expanded="true" signature="4225:4551" ph="{...}" />
+                <marker date="1507688119590" expanded="false" signature="4695:4756" ph="/// Testing ctor ... " />
+                <marker date="1507688119590" expanded="false" signature="4842:4914" ph="{...}" />
+                <marker date="1507688119590" expanded="false" signature="5165:5643" ph="{...}" />
+                <marker date="1507688119590" expanded="false" signature="5718:5929" ph="{...}" />
+                <marker date="1507688119590" expanded="false" signature="5950:6002" ph="{...}" />
+                <marker date="1507688119590" expanded="false" signature="6058:8151" ph="{...}" />
+                <marker date="1507688119590" expanded="true" signature="6132:6198" ph="{...}" />
+                <marker date="1507688119590" expanded="true" signature="6251:6804" ph="{...}" />
+                <marker date="1507688119590" expanded="true" signature="6632:6790" ph="{...}" />
+                <marker date="1507688119590" expanded="true" signature="6898:7556" ph="{...}" />
+                <marker date="1507688119590" expanded="true" signature="7660:8141" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArmyTask.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Isometric.Core/Managers/Tasks/ArmyTask.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" column="38" lean-forward="false" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+              <folding>
+                <marker date="1503558332009" expanded="true" signature="91:198" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -122,10 +320,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>TestC</find>
-      <find>TestCla</find>
-      <find>TestClas</find>
-      <find>T</find>
       <find>Tes</find>
       <find>TestClass</find>
       <find>TestM</find>
@@ -133,7 +327,6 @@
       <find>TestMeth</find>
       <find>TestMetho</find>
       <find>TestMethod</find>
-      <find>N</find>
       <find>NotIm</find>
       <find>NotImp</find>
       <find>NotImpl</find>
@@ -144,6 +337,19 @@
       <find>NotImplement</find>
       <find>NotImplemente</find>
       <find>NotImplemented</find>
+      <find>N</find>
+      <find>Near</find>
+      <find>f</find>
+      <find>find</find>
+      <find>fin</find>
+      <find>Find</find>
+      <find>Fin</find>
+      <find>F</find>
+      <find>g</find>
+      <find>get</find>
+      <find>t</find>
+      <find>this</find>
+      <find>this</find>
     </findStrings>
     <replaceStrings>
       <replace>TestFixture</replace>
@@ -151,9 +357,16 @@
     </replaceStrings>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="girvel &lt;widauka@ya.ru&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Isometric.Core/Managers/Tasks/LootTask.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Isometric.Dtos/BuildingAreaDto.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../tools/BashDotNet/BashDotNet/Library.cs" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/../tools/BashDotNet/BashDotNet/Command.cs" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Isometric.Server.Application/Administration/AdministrationConsoleFacade.cs" root0="FORCE_HIGHLIGHTING" />
@@ -204,25 +417,20 @@
     <setting file="file://$PROJECT_DIR$/Isometric.Core/Buildings/ArmyBuilding.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Isometric.Core.Tests/Buildings/BuildingHelper.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Isometric.Core/Buildings/WorkerBuilding.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Isometric.Dtos/VisionDto.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Isometric.Core/AreaGeneration/Modification/ComplexModifier.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Isometric.Game/Armies.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Isometric.Core/AreaGeneration/Modification/ArmyModifier.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Isometric.Core.Vectors/Vector.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Isometric.Game/SessionGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Isometric.Game/Researches.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Isometric.Game/BuildingPrototypes.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Isometric.Core/Common/VectorHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Isometric.Core/Common/WorldHelper.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Isometric.Server.Application/Administration/AdministrationConsoleFacade.cs" />
-        <option value="$PROJECT_DIR$/Isometric.Core/Buildings/IncomeBuilding.cs" />
-        <option value="$PROJECT_DIR$/Isometric.Core/Buildings/PeriodIncomeBuilding.cs" />
-        <option value="$PROJECT_DIR$/Isometric.Core.Vectors/AbsolutePosition.cs" />
-        <option value="$PROJECT_DIR$/Isometric.Core/AbsolutePosition.cs" />
-        <option value="$PROJECT_DIR$/Isometric.Core/Common/VectorHelper.cs" />
-        <option value="$PROJECT_DIR$/Isometric.Core/Managers/Tasks/MovingTask.cs" />
-        <option value="$PROJECT_DIR$/Isometric.Core.Tests/AreaGeneration/RandomPositionModifierTests.cs" />
         <option value="$PROJECT_DIR$/Isometric.Core.Tests/AreaTests.cs" />
         <option value="$PROJECT_DIR$/Isometric.Server/Server.cs" />
         <option value="$PROJECT_DIR$/Isometric.Core/Buildings/ArmyBuilding.cs" />
@@ -231,18 +439,14 @@
         <option value="$PROJECT_DIR$/Isometric.Core/Managers/Tasks/ArmyTask.cs" />
         <option value="$PROJECT_DIR$/Isometric.Core/Managers/Tasks/QueueTask.cs" />
         <option value="$PROJECT_DIR$/Isometric.Core/Managers/Tasks/DestroyingTask.cs" />
-        <option value="$PROJECT_DIR$/Isometric.Core/Managers/ArmiesManager.cs" />
         <option value="$PROJECT_DIR$/Isometric.Core/AreaGeneration/ArmyModifier.cs" />
         <option value="$PROJECT_DIR$/Isometric.Core/AreaGeneration/IAreaGenerator.cs" />
         <option value="$PROJECT_DIR$/Isometric.Core/AreaGeneration/ComplexAreaGenerator.cs" />
         <option value="$PROJECT_DIR$/Isometric.Core/AreaGeneration/VillageModifier.cs" />
-        <option value="$PROJECT_DIR$/Isometric.Server.Application/Program.cs" />
-        <option value="$PROJECT_DIR$/Isometric.Game/BuildingPrototypes.cs" />
         <option value="$PROJECT_DIR$/Isometric.Game/Armies.cs" />
         <option value="$PROJECT_DIR$/Isometric.Core/AreaGeneration/ComplexModifier.cs" />
         <option value="$PROJECT_DIR$/Isometric.Game/SessionGenerator.cs" />
         <option value="$PROJECT_DIR$/Isometric.Core/AreaGeneration/Modification/ComplexModifier.cs" />
-        <option value="$PROJECT_DIR$/Isometric.Core/Player.cs" />
         <option value="$PROJECT_DIR$/Isometric.Core.Tests/AreaGeneration/ComplexAreaGeneratorTests.cs" />
         <option value="$PROJECT_DIR$/Isometric.Core/Army.cs" />
         <option value="$PROJECT_DIR$/Isometric.Core.Tests/BuildingTemplateTests.cs" />
@@ -263,9 +467,21 @@
         <option value="$PROJECT_DIR$/Isometric.Core.Tests/Managers/Vision.cs" />
         <option value="$PROJECT_DIR$/Isometric.Core/Managers/Vision.cs" />
         <option value="$PROJECT_DIR$/Isometric.Core/World.cs" />
-        <option value="$PROJECT_DIR$/Isometric.Core.Vectors/Vector.cs" />
         <option value="$PROJECT_DIR$/Isometric.Core.Tests/Managers/VisionManagerTests.cs" />
         <option value="$PROJECT_DIR$/Isometric.Core/Managers/VisionManager.cs" />
+        <option value="$PROJECT_DIR$/Isometric.Dtos/VisionDto.cs" />
+        <option value="$PROJECT_DIR$/Isometric.Server/Connection.cs" />
+        <option value="$PROJECT_DIR$/Isometric.Core.Vectors/Vector.cs" />
+        <option value="$PROJECT_DIR$/Isometric.Server.Application/Program.cs" />
+        <option value="$PROJECT_DIR$/Isometric.Server.Application/Administration/AdministrationConsoleFacade.cs" />
+        <option value="$PROJECT_DIR$/Isometric.Game/BuildingPrototypes.cs" />
+        <option value="$PROJECT_DIR$/Isometric.Core/Player.cs" />
+        <option value="$PROJECT_DIR$/Isometric.Core/Managers/Tasks/MovingTask.cs" />
+        <option value="$PROJECT_DIR$/Isometric.Core/Common/WorldHelper.cs" />
+        <option value="$PROJECT_DIR$/Isometric.Core/Managers/Tasks/AreaLootTask.cs" />
+        <option value="$PROJECT_DIR$/Isometric.Core/Managers/ArmiesManager.cs" />
+        <option value="$PROJECT_DIR$/Isometric.Core/Managers/Tasks/LootTask.cs" />
+        <option value="$PROJECT_DIR$/Isometric.Server/Log.cs" />
       </list>
     </option>
   </component>
@@ -321,25 +537,7 @@
               <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Isometric.Core.Tests" />
-              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" />
-              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Isometric (9 projects)" />
-              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Isometric.Core.Tests" />
-              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Managers" />
+              <option name="myItemId" value="Isometric.Server" />
               <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
             </PATH_ELEMENT>
           </PATH>
@@ -372,6 +570,46 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Managers" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Isometric (9 projects)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Isometric.Core" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Managers" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Tasks" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Isometric (9 projects)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Isometric.Core" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Common" />
               <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
             </PATH_ELEMENT>
           </PATH>
@@ -385,7 +623,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../tools/BashDotNet/BashDotNet/bin/Release/BashDotNet.dll" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RunDashboard">
@@ -465,7 +703,7 @@
       <option name="PROJECT_PATH" value="$PROJECT_DIR$/Isometric.Server.Application/Isometric.Server.Application.csproj" />
       <option name="PROJECT_KIND" value="Console" />
       <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5.2" />
-      <option name="EXE_PATH" value="$PROJECT_DIR$/Isometric.Server.Application/bin/Release/Isometric.Server.Application.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Isometric.Server.Application/bin/Debug/Isometric.Server.Application.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="USE_MONO" value="0" />
@@ -473,10 +711,10 @@
       <envs />
       <method />
     </configuration>
-    <configuration />
     <list size="1">
       <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
     </list>
+    <configuration />
     <configuration />
     <configuration />
     <configuration />
@@ -514,12 +752,18 @@
       <workItem from="1507771875200" duration="1161000" />
       <workItem from="1507866043240" duration="1083000" />
       <workItem from="1507875658174" duration="3364000" />
-      <workItem from="1508035968548" duration="3512000" />
+      <workItem from="1508035968548" duration="4707000" />
+      <workItem from="1508118909750" duration="2550000" />
+      <workItem from="1508204672892" duration="2377000" />
+      <workItem from="1509806546854" duration="4568000" />
+      <workItem from="1509877711325" duration="6399000" />
+      <workItem from="1510895360348" duration="4786000" />
+      <workItem from="1511078370127" duration="4744000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="104907000" />
+    <option name="totallyTimeSpent" value="131526000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -532,22 +776,21 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39915523" sideWeight="0.5125" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3252376" sideWeight="0.49166667" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947916" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947916" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2998944" sideWeight="0.49375" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5036959" sideWeight="0.4875" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5058078" sideWeight="0.4875" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -573,7 +816,7 @@
           <option name="timeStamp" value="31" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="39" />
+      <option name="time" value="44" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Unit Tests">
@@ -584,78 +827,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../tools/BashDotNet/BashDotNet/Generic/Library.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="167" column="16" lean-forward="false" selection-start-line="167" selection-start-column="16" selection-end-line="167" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tools/BashDotNet/BashDotNet/Command.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Isometric.Server.Application/CommandsLibrary.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="43" column="71" lean-forward="false" selection-start-line="43" selection-start-column="71" selection-end-line="43" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Isometric.Server/Server.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Isometric.Core/AreaGeneration/Modification/RandomPositionModifier.cs" />
-    <entry file="file://$PROJECT_DIR$/Isometric.Core.Tests/Buildings/IncomeBuildingTests.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="112" column="32" lean-forward="false" selection-start-line="112" selection-start-column="32" selection-end-line="112" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Isometric.Core/Managers/Tasks/QueueTask.cs" />
-    <entry file="file://$PROJECT_DIR$/Isometric.Core/Managers/Tasks/ArmyTask.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="38" lean-forward="false" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Isometric.Core/Managers/Tasks/DestroyingTask.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="41" lean-forward="false" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Isometric.Core/Managers/ArmiesManager.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1386">
-          <caret line="85" column="17" lean-forward="false" selection-start-line="85" selection-start-column="17" selection-end-line="85" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Isometric.Core/AreaGeneration/IAreaGenerator.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="66" lean-forward="false" selection-start-line="6" selection-start-column="66" selection-end-line="6" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Isometric.Core/Buildings/IncomeBuilding.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="60" column="44" lean-forward="false" selection-start-line="60" selection-start-column="44" selection-end-line="60" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Isometric.Core/Common/ResourcesHelper.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="451">
@@ -677,13 +848,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Isometric.Game/BuildingPrototypes.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="111" column="0" lean-forward="false" selection-start-line="111" selection-start-column="0" selection-end-line="111" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Isometric.Core/AreaGeneration/Modification/ComplexModifier.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
@@ -695,27 +859,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Isometric.Game/SessionGenerator.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="17" column="58" lean-forward="false" selection-start-line="17" selection-start-column="58" selection-end-line="17" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Isometric.Core/Player.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="12" column="46" lean-forward="false" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Isometric.Server/Connection.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -761,13 +904,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
           <caret line="23" column="18" lean-forward="false" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Isometric.Core/Common/VectorHelper.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="28" lean-forward="false" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -854,16 +990,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="21" column="36" lean-forward="false" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
-          <folding>
-            <marker date="1507688438980" expanded="false" signature="6:111" ph="..." />
-            <marker date="1507688438980" expanded="true" signature="198:2988" ph="{...}" />
-            <marker date="1507688438980" expanded="true" signature="272:1703" ph="{...}" />
-            <marker date="1507688438980" expanded="true" signature="295:354" ph="/* TODO use NetHelper.GetIpEndPoint ... */" />
-            <marker date="1507688438980" expanded="true" signature="564:1693" ph="{...}" />
-            <marker date="1507688438980" expanded="true" signature="1792:2982" ph="{...}" />
-            <marker date="1507688438980" expanded="true" signature="2154:2972" ph="{...}" />
-            <marker date="1507688438980" expanded="true" signature="2233:2466" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -871,27 +997,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Isometric.Server/RequestManager.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="11" column="69" lean-forward="false" selection-start-line="11" selection-start-column="69" selection-end-line="11" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Isometric.Core/Building.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5058">
-          <caret line="286" column="37" lean-forward="false" selection-start-line="286" selection-start-column="37" selection-end-line="286" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Isometric.Server.Application/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="539" column="36" lean-forward="false" selection-start-line="539" selection-start-column="36" selection-end-line="539" selection-end-column="36" />
         </state>
       </provider>
     </entry>
@@ -906,25 +1011,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1174">
           <caret line="93" column="20" lean-forward="false" selection-start-line="93" selection-start-column="20" selection-end-line="93" selection-end-column="20" />
-          <folding>
-            <marker date="1507686349885" expanded="false" signature="6:110" ph="..." />
-            <marker date="1507686349885" expanded="true" signature="151:4682" ph="{...}" />
-            <marker date="1507686349885" expanded="true" signature="207:4680" ph="{...}" />
-            <marker date="1507686349885" expanded="true" signature="287:674" ph="{...}" />
-            <marker date="1507686349885" expanded="true" signature="767:1304" ph="{...}" />
-            <marker date="1507686349885" expanded="true" signature="1393:2106" ph="{...}" />
-            <marker date="1507686349885" expanded="true" signature="1474:1778" ph="{...}" />
-            <marker date="1507686349885" expanded="true" signature="1492:1764" ph="{...}" />
-            <marker date="1507686349885" expanded="true" signature="2195:2908" ph="{...}" />
-            <marker date="1507686349885" expanded="true" signature="2276:2579" ph="{...}" />
-            <marker date="1507686349885" expanded="true" signature="2294:2565" ph="{...}" />
-            <marker date="1507686349885" expanded="true" signature="2999:3790" ph="{...}" />
-            <marker date="1507686349885" expanded="true" signature="3080:3460" ph="{...}" />
-            <marker date="1507686349885" expanded="true" signature="3098:3446" ph="{...}" />
-            <marker date="1507686349885" expanded="true" signature="3882:4674" ph="{...}" />
-            <marker date="1507686349885" expanded="true" signature="3963:4343" ph="{...}" />
-            <marker date="1507686349885" expanded="true" signature="3981:4329" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -932,10 +1018,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="2" column="29" lean-forward="false" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-          <folding>
-            <marker date="1508036070171" expanded="true" signature="64:209" ph="{...}" />
-            <marker date="1508036070171" expanded="true" signature="90:207" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -943,81 +1025,256 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
           <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding>
-            <marker date="1508037554038" expanded="false" signature="6:136" ph="..." />
-            <marker date="1508037554038" expanded="true" signature="162:2804" ph="{...}" />
-            <marker date="1508037554038" expanded="true" signature="201:2802" ph="{...}" />
-            <marker date="1508037554038" expanded="true" signature="711:772" ph="/// testing ctor ... " />
-            <marker date="1508037554038" expanded="true" signature="916:1126" ph="{...}" />
-            <marker date="1508037554038" expanded="true" signature="1173:1303" ph="{...}" />
-            <marker date="1508037554038" expanded="true" signature="1227:1293" ph="{...}" />
-            <marker date="1508037554038" expanded="true" signature="1351:1516" ph="{...}" />
-            <marker date="1508037554038" expanded="true" signature="1578:2133" ph="{...}" />
-            <marker date="1508037554038" expanded="true" signature="1680:1738" ph="{...}" />
-            <marker date="1508037554038" expanded="true" signature="2185:2267" ph="{...}" />
-            <marker date="1508037554038" expanded="true" signature="2329:2412" ph="{...}" />
-            <marker date="1508037554038" expanded="true" signature="2482:2606" ph="{...}" />
-            <marker date="1508037554038" expanded="true" signature="2672:2796" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Isometric.Core.Vectors/Vector.cs">
+    <entry file="file://$PROJECT_DIR$/Isometric.Dtos/BuildingAreaDto.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-          <folding>
-            <marker date="1508038427903" expanded="true" signature="47:1586" ph="{...}" />
-            <marker date="1508038427903" expanded="true" signature="74:1584" ph="{...}" />
-            <marker date="1508038427903" expanded="true" signature="273:331" ph="{...}" />
-            <marker date="1508038427903" expanded="true" signature="834:888" ph="{...}" />
-            <marker date="1508038427903" expanded="true" signature="950:1002" ph="{...}" />
-            <marker date="1508038427903" expanded="true" signature="1053:1253" ph="{...}" />
-            <marker date="1508038427903" expanded="true" signature="1094:1205" ph="{...}" />
-            <marker date="1508038427903" expanded="true" signature="1295:1364" ph="{...}" />
-            <marker date="1508038427903" expanded="true" signature="1407:1515" ph="{...}" />
-            <marker date="1508038427903" expanded="true" signature="1439:1505" ph="{...}" />
-          </folding>
+        <state relative-caret-position="72">
+          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Isometric.Core.Tests/Managers/VisionManagerTests.cs">
+    <entry file="file://$PROJECT_DIR$/Isometric.Server/RequestManager.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="571">
-          <caret line="90" column="76" lean-forward="false" selection-start-line="90" selection-start-column="76" selection-end-line="90" selection-end-column="76" />
-          <folding>
-            <marker date="1508039423559" expanded="false" signature="6:128" ph="..." />
-            <marker date="1508039423559" expanded="true" signature="169:3780" ph="{...}" />
-            <marker date="1508039423559" expanded="true" signature="225:3778" ph="{...}" />
-            <marker date="1508039423559" expanded="true" signature="317:640" ph="{...}" />
-            <marker date="1508039423559" expanded="true" signature="731:1278" ph="{...}" />
-            <marker date="1508039423559" expanded="true" signature="1351:3772" ph="{...}" />
-            <marker date="1508039423559" expanded="true" signature="1435:1810" ph="{...}" />
-            <marker date="1508039423559" expanded="true" signature="1865:2354" ph="{...}" />
-            <marker date="1508039423559" expanded="true" signature="3168:3420" ph="{...}" />
-            <marker date="1508039423559" expanded="true" signature="3570:3685" ph="{...}" />
-          </folding>
+        <state relative-caret-position="1152">
+          <caret line="69" column="13" lean-forward="false" selection-start-line="69" selection-start-column="13" selection-end-line="69" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Isometric.Server/Connection.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1242">
+          <caret line="73" column="10" lean-forward="false" selection-start-line="73" selection-start-column="10" selection-end-line="73" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Isometric.Dtos/VisionDto.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Isometric.Core/Managers/VisionManager.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1116">
-          <caret line="64" column="24" lean-forward="true" selection-start-line="64" selection-start-column="24" selection-end-line="64" selection-end-column="24" />
+        <state relative-caret-position="576">
+          <caret line="34" column="25" lean-forward="false" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Isometric.Core.Vectors/Vector.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="36" column="33" lean-forward="false" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Isometric.Server.Application/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4068">
+          <caret line="243" column="20" lean-forward="false" selection-start-line="243" selection-start-column="20" selection-end-line="243" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Isometric.Server.Application/Administration/AdministrationConsoleFacade.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="738">
+          <caret line="41" column="8" lean-forward="false" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Isometric.Core.Tests/Managers/VisionManagerTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1548">
+          <caret line="90" column="76" lean-forward="false" selection-start-line="90" selection-start-column="76" selection-end-line="90" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Isometric.Game/Researches.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="27" column="21" lean-forward="false" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Isometric.Game/BuildingPrototypes.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1025">
+          <caret line="105" column="40" lean-forward="false" selection-start-line="105" selection-start-column="40" selection-end-line="105" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Isometric.Game/SessionGenerator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="28" column="12" lean-forward="false" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Isometric.Server.Application/CommandsLibrary.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="631">
+          <caret line="43" column="50" lean-forward="false" selection-start-line="43" selection-start-column="50" selection-end-line="43" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Isometric.Core/Player.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="68" column="12" lean-forward="true" selection-start-line="68" selection-start-column="12" selection-end-line="68" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Isometric.Core/Common/VectorHelper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="28" lean-forward="false" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Isometric.Core/Common/WorldHelper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="23" column="24" lean-forward="false" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Isometric.Core/Managers/ArmiesManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
           <folding>
-            <marker date="1508039483102" expanded="false" signature="6:62" ph="..." />
-            <marker date="1508039483102" expanded="true" signature="97:3020" ph="{...}" />
-            <marker date="1508039483102" expanded="true" signature="130:3018" ph="{...}" />
-            <marker date="1508039483102" expanded="true" signature="247:307" ph="{...}" />
-            <marker date="1508039483102" expanded="true" signature="391:1144" ph="{...}" />
-            <marker date="1508039483102" expanded="true" signature="553:1107" ph="{...}" />
-            <marker date="1508039483102" expanded="true" signature="689:1093" ph="{...}" />
-            <marker date="1508039483102" expanded="true" signature="994:1075" ph="{...}" />
-            <marker date="1508039483102" expanded="true" signature="1205:3012" ph="{...}" />
-            <marker date="1508039483102" expanded="true" signature="1494:1983" ph="{...}" />
-            <marker date="1508039483102" expanded="true" signature="2055:2974" ph="{...}" />
-            <marker date="1508039483102" expanded="true" signature="2477:2960" ph="{...}" />
-            <marker date="1508039483102" expanded="true" signature="2625:2942" ph="{...}" />
+            <marker date="1510901576371" expanded="false" signature="6:160" ph="..." />
+            <marker date="1510901576371" expanded="true" signature="195:2790" ph="{...}" />
+            <marker date="1510901576371" expanded="true" signature="242:2788" ph="{...}" />
+            <marker date="1510901576371" expanded="true" signature="621:800" ph="{...}" />
+            <marker date="1510901576371" expanded="true" signature="883:964" ph="{...}" />
+            <marker date="1510901576371" expanded="true" signature="1034:1106" ph="{...}" />
+            <marker date="1510901576371" expanded="true" signature="1154:1971" ph="{...}" />
+            <marker date="1510901576371" expanded="true" signature="1313:1947" ph="{...}" />
+            <marker date="1510901576371" expanded="true" signature="1378:1534" ph="{...}" />
+            <marker date="1510901576371" expanded="true" signature="1599:1929" ph="{...}" />
+            <marker date="1510901576371" expanded="true" signature="2012:2145" ph="{...}" />
+            <marker date="1510901576371" expanded="true" signature="2189:2432" ph="{...}" />
+            <marker date="1510901576371" expanded="true" signature="2487:2782" ph="{...}" />
+            <marker date="1510901576371" expanded="true" signature="2593:2692" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Isometric.Core/Managers/Tasks/ArmyTask.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="38" lean-forward="false" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+          <folding>
+            <marker date="1503558332009" expanded="true" signature="91:198" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Isometric.Core/Building.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="183" column="25" lean-forward="false" selection-start-line="183" selection-start-column="25" selection-end-line="183" selection-end-column="25" />
+          <folding>
+            <marker date="1507688119590" expanded="true" signature="6:152" ph="..." />
+            <marker date="1507688119590" expanded="true" signature="354:8424" ph="{...}" />
+            <marker date="1507688119590" expanded="false" signature="369:617" ph="Private fields" />
+            <marker date="1507688119590" expanded="false" signature="629:1461" ph="Building main variables" />
+            <marker date="1507688119590" expanded="true" signature="792:1285" ph="{...}" />
+            <marker date="1507688119590" expanded="true" signature="845:1275" ph="{...}" />
+            <marker date="1507688119590" expanded="true" signature="895:1043" ph="{...}" />
+            <marker date="1507688119590" expanded="true" signature="1113:1261" ph="{...}" />
+            <marker date="1507688119590" expanded="false" signature="1481:1853" ph="Prototype main variables" />
+            <marker date="1507688119590" expanded="false" signature="1873:3809" ph="People variables" />
+            <marker date="1507688119590" expanded="true" signature="2058:2479" ph="{...}" />
+            <marker date="1507688119590" expanded="true" signature="2127:2469" ph="{...}" />
+            <marker date="1507688119590" expanded="true" signature="2330:2437" ph="{...}" />
+            <marker date="1507688119590" expanded="true" signature="2576:2811" ph="{...}" />
+            <marker date="1507688119590" expanded="true" signature="2642:2801" ph="{...}" />
+            <marker date="1507688119590" expanded="true" signature="2840:3069" ph="{...}" />
+            <marker date="1507688119590" expanded="true" signature="2904:3059" ph="{...}" />
+            <marker date="1507688119590" expanded="true" signature="3106:3428" ph="{...}" />
+            <marker date="1507688119590" expanded="true" signature="3177:3418" ph="{...}" />
+            <marker date="1507688119590" expanded="true" signature="3321:3404" ph="{...}" />
+            <marker date="1507688119590" expanded="true" signature="3463:3789" ph="{...}" />
+            <marker date="1507688119590" expanded="true" signature="3533:3779" ph="{...}" />
+            <marker date="1507688119590" expanded="true" signature="3672:3765" ph="{...}" />
+            <marker date="1507688119590" expanded="true" signature="3829:4571" ph="IMilitaryObject" />
+            <marker date="1507688119590" expanded="true" signature="4225:4551" ph="{...}" />
+            <marker date="1507688119590" expanded="false" signature="4695:4756" ph="/// Testing ctor ... " />
+            <marker date="1507688119590" expanded="false" signature="4842:4914" ph="{...}" />
+            <marker date="1507688119590" expanded="false" signature="5165:5643" ph="{...}" />
+            <marker date="1507688119590" expanded="false" signature="5718:5929" ph="{...}" />
+            <marker date="1507688119590" expanded="false" signature="5950:6002" ph="{...}" />
+            <marker date="1507688119590" expanded="false" signature="6058:8151" ph="{...}" />
+            <marker date="1507688119590" expanded="true" signature="6132:6198" ph="{...}" />
+            <marker date="1507688119590" expanded="true" signature="6251:6804" ph="{...}" />
+            <marker date="1507688119590" expanded="true" signature="6632:6790" ph="{...}" />
+            <marker date="1507688119590" expanded="true" signature="6898:7556" ph="{...}" />
+            <marker date="1507688119590" expanded="true" signature="7660:8141" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Isometric.Core/Managers/Tasks/DestroyingTask.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <marker date="1504152964642" expanded="true" signature="99:605" ph="{...}" />
+            <marker date="1504152964642" expanded="true" signature="159:599" ph="{...}" />
+            <marker date="1504152964642" expanded="true" signature="265:562" ph="{...}" />
+            <marker date="1504152964642" expanded="true" signature="414:548" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Isometric.Core/Managers/Tasks/MovingTask.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <marker date="1510900366999" expanded="false" signature="6:72" ph="..." />
+            <marker date="1510900366999" expanded="true" signature="154:1038" ph="{...}" />
+            <marker date="1510900366999" expanded="true" signature="241:1032" ph="{...}" />
+            <marker date="1510900366999" expanded="true" signature="400:995" ph="{...}" />
+            <marker date="1510900366999" expanded="true" signature="522:649" ph="{...}" />
+            <marker date="1510900366999" expanded="true" signature="699:826" ph="{...}" />
+            <marker date="1510900366999" expanded="true" signature="847:981" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Isometric.Core/Managers/Tasks/LootTask.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="7" column="36" lean-forward="false" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+          <folding>
+            <marker date="1510902283464" expanded="false" signature="6:110" ph="..." />
+            <marker date="1510902283464" expanded="true" signature="190:1692" ph="{...}" />
+            <marker date="1510902283464" expanded="true" signature="510:708" ph="{...}" />
+            <marker date="1510902283464" expanded="true" signature="789:1686" ph="{...}" />
+            <marker date="1510902283464" expanded="true" signature="905:963" ph="{...}" />
+            <marker date="1510902283464" expanded="true" signature="1282:1339" ph="{...}" />
+            <marker date="1510902283464" expanded="true" signature="1396:1499" ph="{...}" />
+            <marker date="1510902283464" expanded="true" signature="1516:1639" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Isometric.Server/Log.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+          <folding>
+            <marker date="1510933912448" expanded="false" signature="6:83" ph="..." />
+            <marker date="1510933912448" expanded="true" signature="111:539" ph="{...}" />
+            <marker date="1510933912448" expanded="true" signature="134:537" ph="{...}" />
+            <marker date="1510933912448" expanded="true" signature="241:301" ph="{...}" />
+            <marker date="1510933912448" expanded="true" signature="351:531" ph="{...}" />
+            <marker date="1510933912448" expanded="true" signature="463:521" ph="{...}" />
           </folding>
         </state>
       </provider>

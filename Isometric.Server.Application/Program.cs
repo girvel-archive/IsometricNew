@@ -277,7 +277,7 @@ namespace Isometric.Server.Application
                                 (args, c) => new Dictionary<string, dynamic>
                                 {
                                     ["success"] = AdministrationConsoleFacade.TryExecute(
-                                        args["command"], 
+                                        (string) args["command"], 
                                         c.Account, 
                                         out string output),
                                     ["output"] = output,
@@ -307,26 +307,58 @@ namespace Isometric.Server.Application
                                 {
                                     var area = Session.World.GetArea((Vector) args["position"]);
                                     var isOpened = Session.VisionManager.IsAreaOpened(c.Account.ExternalData, area);
-
+    
                                     return new Dictionary<string, dynamic>
                                     {
                                         ["buildings"] =
-                                            area.Buildings.TwoDimSelect(
-                                                b => new BuildingAreaDto
-                                                {
-                                                    Name = isOpened
-                                                            ? b.Name
-                                                            : "",
-                                                    OwnerName = GetPlayerName(b.Owner),
-                                                    BuildingTime = b.Finished
-                                                        ? TimeSpan.Zero 
-                                                        : b.BuildingTime.Multiple(
-                                                            b.Prototype.Builders == 0
-                                                                ? 1
-                                                                : (float)b.Builders / b.Prototype.Builders),
-                                                    IsThereArmy = b.Armies.Any(),
-                                                    ArePeopleHungry = b.ArePeopleHungry || b.Armies.Any(a => a.IsHungry),
-                                                }),
+                                        area.Buildings.TwoDimSelect(
+                                            b => new BuildingAreaDto
+                                            {
+                                                Name = isOpened
+                                                    ? b.Name
+                                                    : "",
+                                                OwnerName = GetPlayerName(b.Owner),
+                                                BuildingTime = b.Finished
+                                                    ? TimeSpan.Zero 
+                                                    : b.BuildingTime.Multiple(
+                                                        b.Prototype.Builders == 0
+                                                            ? 1
+                                                            : (float)b.Builders / b.Prototype.Builders),
+                                                IsThereArmy = b.Armies.Any(),
+                                                ArePeopleHungry = b.ArePeopleHungry || b.Armies.Any(a => a.IsHungry),
+                                            }),
+                                    };
+                                },
+                                "user"),
+
+                        ["get vision"] =
+                            new ResponsePair<Player>(
+                                (args, c) =>
+                                {
+                                    var vision = Session.VisionManager.GetVision(Session.World, c.Account.ExternalData);
+                                    return new Dictionary<string, dynamic>
+                                    {
+                                        ["vision"] = new VisionDto
+                                        {
+                                            Buildings = vision.Buildings.TwoDimSelect(
+                                                b => b == null
+                                                    ? null
+                                                    : new BuildingAreaDto
+                                                    {
+                                                        Name = b.Name,
+                                                        OwnerName = GetPlayerName(b.Owner),
+                                                        BuildingTime = b.Finished
+                                                            ? TimeSpan.Zero
+                                                            : b.BuildingTime.Multiple(
+                                                                b.Prototype.Builders == 0
+                                                                    ? 1
+                                                                    : (float) b.Builders / b.Prototype.Builders),
+                                                        IsThereArmy = b.Armies.Any(),
+                                                        ArePeopleHungry =
+                                                            b.ArePeopleHungry || b.Armies.Any(a => a.IsHungry),
+                                                    }),
+                                            Position = vision.Position,
+                                        }
                                     };
                                 },
                                 "user"),
@@ -393,7 +425,9 @@ namespace Isometric.Server.Application
                                         IsIncomeBuilding = incomeBuilding != null,
                                         Workers = workerBuilding?.Workers ?? 0,
                                         MaxWorkers = workerBuilding?.Prototype.Workers ?? 0,
-                                        Income = (incomeBuilding?.Incomes[incomeBuilding.LastIncomeIndex] ?? Resources.Zero).ResourcesArray,
+                                        Income = 
+                                            (incomeBuilding?.Incomes[incomeBuilding.LastIncomeIndex] ?? Resources.Zero)
+                                            .ResourcesArray,
                                         LastIncome = (incomeBuilding?.LastIncome ?? Resources.Zero).ResourcesArray,
                                         Armies = building.Armies
                                             .Select(a => $"{a.LifePoints} ({GetPlayerName(a.Owner)})")

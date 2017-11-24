@@ -1,0 +1,2027 @@
+08:52:08	 Server started
+
+08:52:56	 Accepted connection from 0.0.0.0.0.0.0.0.0.0.255.255.192.168.0.100:63519
+
+08:52:56	 >> {
+  "$id": "1",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "success": true
+}
+
+08:52:57	 >> {
+  "$id": "2",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "vision": {
+    "$id": "3",
+    "$type": "Isometric.Dtos.VisionDto, Isometric.Dtos",
+    "Buildings": {
+      "$type": "Isometric.Dtos.BuildingAreaDto[,], Isometric.Dtos",
+      "$values": [
+        [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          null,
+          null,
+          {
+            "$id": "4",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Forest",
+            "OwnerName": "",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": true,
+            "ArePeopleHungry": true
+          },
+          {
+            "$id": "5",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Plain",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "6",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Forest",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "7",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Plain",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "8",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Forest",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "9",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Forest",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "10",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Forest",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "11",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Forest",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "12",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Forest",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "13",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Plain",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          null
+        ],
+        [
+          null,
+          null,
+          {
+            "$id": "14",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Forest",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "15",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Plain",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "16",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Plain",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "17",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Forest",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "18",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Forest",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "19",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Forest",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "20",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Plain",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "21",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Plain",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "22",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Forest",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "23",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Forest",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          null
+        ],
+        [
+          null,
+          null,
+          {
+            "$id": "24",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Plain",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "25",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Plain",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "26",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Plain",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "27",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Plain",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "28",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Forest",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "29",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Plain",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "30",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Plain",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "31",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Plain",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "32",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Plain",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "33",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Forest",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          null
+        ],
+        [
+          null,
+          null,
+          {
+            "$id": "34",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Plain",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "35",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Plain",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "36",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Forest",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "37",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Plain",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "38",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Plain",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "39",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Underground house",
+            "OwnerName": "",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "40",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Plain",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "41",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Plain",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "42",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Forest",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "43",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Plain",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "44",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Forest",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          }
+        ],
+        [
+          null,
+          null,
+          {
+            "$id": "45",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Plain",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "46",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Forest",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "47",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Forest",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "48",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Underground house",
+            "OwnerName": "",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "49",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Underground house",
+            "OwnerName": "",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "50",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Underground house",
+            "OwnerName": "",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "51",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Plain",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "52",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Plain",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "53",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Plain",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "54",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Plain",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "55",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Plain",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          }
+        ],
+        [
+          null,
+          null,
+          {
+            "$id": "56",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Plain",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "57",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Forest",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "58",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Plain",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "59",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Plain",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "60",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Underground house",
+            "OwnerName": "",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "61",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Underground house",
+            "OwnerName": "",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "62",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Plain",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "63",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Forest",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "64",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Plain",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "65",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Forest",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "66",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Forest",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          }
+        ],
+        [
+          null,
+          null,
+          {
+            "$id": "67",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Forest",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "68",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Forest",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "69",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Forest",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "70",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Plain",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "71",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Plain",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "72",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Plain",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "73",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Forest",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "74",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Plain",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "75",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Forest",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "76",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Plain",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          null
+        ],
+        [
+          null,
+          null,
+          {
+            "$id": "77",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Plain",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "78",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Plain",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "79",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Forest",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "80",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Plain",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "81",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Plain",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "82",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Plain",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "83",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Plain",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "84",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Forest",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "85",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Plain",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "86",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Forest",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          null
+        ],
+        [
+          null,
+          null,
+          {
+            "$id": "87",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Forest",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "88",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Plain",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "89",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Plain",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "90",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Forest",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "91",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Plain",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "92",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Forest",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "93",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Plain",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "94",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Plain",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "95",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Forest",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "96",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Forest",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          null
+        ],
+        [
+          null,
+          null,
+          null,
+          {
+            "$id": "97",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Forest",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "98",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Plain",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "99",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Plain",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "100",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Plain",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "101",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Plain",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "102",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Forest",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "103",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Forest",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "104",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Forest",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          null,
+          null
+        ],
+        [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          {
+            "$id": "105",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Plain",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          {
+            "$id": "106",
+            "$type": "Isometric.Dtos.BuildingAreaDto, Isometric.Dtos",
+            "Name": "Forest",
+            "OwnerName": "no owner",
+            "BuildingTime": {
+              "$type": "System.TimeSpan",
+              "$value": "00:00:00"
+            },
+            "IsThereArmy": false,
+            "ArePeopleHungry": false
+          },
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      ]
+    },
+    "Position": {
+      "$id": "107",
+      "$type": "Isometric.Core.Vectors.Vector, Isometric.Core.Vectors",
+      "X": 1774,
+      "Y": 238,
+      "SquaredMagnitude": 3203720,
+      "Magnitude": 1789.8938516012618
+    }
+  }
+}
+
+08:52:57	 >> {
+  "$id": "108",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "world width": 2048
+}
+
+08:52:58	 >> {
+  "$id": "109",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "resources": {
+    "$id": "110",
+    "$type": "Isometric.Dtos.ResourcesDto, Isometric.Dtos",
+    "ResourcesArray": {
+      "$type": "System.Single[], mscorlib",
+      "$values": [
+        1000.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "FreePeople": 30,
+    "MaxPeople": 0
+  }
+}
+
+08:52:58	 >> {
+  "$id": "111",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "news": {
+    "$type": "Isometric.Dtos.NewsDto[], Isometric.Dtos",
+    "$values": []
+  }
+}
+
+08:52:59	 >> {
+  "$id": "112",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "resources": {
+    "$id": "113",
+    "$type": "Isometric.Dtos.ResourcesDto, Isometric.Dtos",
+    "ResourcesArray": {
+      "$type": "System.Single[], mscorlib",
+      "$values": [
+        1000.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "FreePeople": 30,
+    "MaxPeople": 0
+  }
+}
+
+08:52:59	 >> {
+  "$id": "114",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "news": {
+    "$type": "Isometric.Dtos.NewsDto[], Isometric.Dtos",
+    "$values": []
+  }
+}
+
+08:52:59	 >> {
+  "$id": "115",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "data": {
+    "$id": "116",
+    "$type": "Isometric.Dtos.BuildingFullDto, Isometric.Dtos",
+    "OwnerName": "",
+    "Name": "Forest",
+    "CreatingArmy": "",
+    "FreePeople": 18,
+    "Builders": 0,
+    "Workers": 0,
+    "MaxWorkers": 0,
+    "MaxBuilders": 0,
+    "PeopleForArmy": 0,
+    "ArmyQueueSize": 0,
+    "Income": {
+      "$type": "System.Single[], mscorlib",
+      "$values": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "LastIncome": {
+      "$type": "System.Single[], mscorlib",
+      "$values": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "ArmyPrice": {
+      "$type": "System.Single[], mscorlib",
+      "$values": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "Armies": {
+      "$type": "System.String[], mscorlib",
+      "$values": [
+        "10 ()"
+      ]
+    },
+    "IsWorkerBuilding": false,
+    "IsIncomeBuilding": false,
+    "IsArmyBuilding": false,
+    "IsFinished": true,
+    "ArmyCreationTime": {
+      "$type": "System.TimeSpan",
+      "$value": "00:00:00"
+    },
+    "ArmyCreationTimeMax": {
+      "$type": "System.TimeSpan",
+      "$value": "00:00:00"
+    }
+  }
+}
+
+08:52:59	 >> {
+  "$id": "117",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "data": {
+    "$id": "118",
+    "$type": "Isometric.Dtos.BuildingFullDto, Isometric.Dtos",
+    "OwnerName": "no owner",
+    "Name": "Plain",
+    "CreatingArmy": "",
+    "FreePeople": 0,
+    "Builders": 0,
+    "Workers": 0,
+    "MaxWorkers": 0,
+    "MaxBuilders": 0,
+    "PeopleForArmy": 0,
+    "ArmyQueueSize": 0,
+    "Income": {
+      "$type": "System.Single[], mscorlib",
+      "$values": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "LastIncome": {
+      "$type": "System.Single[], mscorlib",
+      "$values": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "ArmyPrice": {
+      "$type": "System.Single[], mscorlib",
+      "$values": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "Armies": {
+      "$type": "System.String[], mscorlib",
+      "$values": []
+    },
+    "IsWorkerBuilding": false,
+    "IsIncomeBuilding": false,
+    "IsArmyBuilding": false,
+    "IsFinished": true,
+    "ArmyCreationTime": {
+      "$type": "System.TimeSpan",
+      "$value": "00:00:00"
+    },
+    "ArmyCreationTimeMax": {
+      "$type": "System.TimeSpan",
+      "$value": "00:00:00"
+    }
+  }
+}
+
+08:52:59	 >> {
+  "$id": "119",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "data": {
+    "$id": "120",
+    "$type": "Isometric.Dtos.BuildingFullDto, Isometric.Dtos",
+    "OwnerName": "no owner",
+    "Name": "Forest",
+    "CreatingArmy": "",
+    "FreePeople": 0,
+    "Builders": 0,
+    "Workers": 0,
+    "MaxWorkers": 0,
+    "MaxBuilders": 0,
+    "PeopleForArmy": 0,
+    "ArmyQueueSize": 0,
+    "Income": {
+      "$type": "System.Single[], mscorlib",
+      "$values": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "LastIncome": {
+      "$type": "System.Single[], mscorlib",
+      "$values": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "ArmyPrice": {
+      "$type": "System.Single[], mscorlib",
+      "$values": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "Armies": {
+      "$type": "System.String[], mscorlib",
+      "$values": []
+    },
+    "IsWorkerBuilding": false,
+    "IsIncomeBuilding": false,
+    "IsArmyBuilding": false,
+    "IsFinished": true,
+    "ArmyCreationTime": {
+      "$type": "System.TimeSpan",
+      "$value": "00:00:00"
+    },
+    "ArmyCreationTimeMax": {
+      "$type": "System.TimeSpan",
+      "$value": "00:00:00"
+    }
+  }
+}
+
+08:52:59	 >> {
+  "$id": "121",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "data": {
+    "$id": "122",
+    "$type": "Isometric.Dtos.BuildingFullDto, Isometric.Dtos",
+    "OwnerName": "no owner",
+    "Name": "Plain",
+    "CreatingArmy": "",
+    "FreePeople": 0,
+    "Builders": 0,
+    "Workers": 0,
+    "MaxWorkers": 0,
+    "MaxBuilders": 0,
+    "PeopleForArmy": 0,
+    "ArmyQueueSize": 0,
+    "Income": {
+      "$type": "System.Single[], mscorlib",
+      "$values": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "LastIncome": {
+      "$type": "System.Single[], mscorlib",
+      "$values": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "ArmyPrice": {
+      "$type": "System.Single[], mscorlib",
+      "$values": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "Armies": {
+      "$type": "System.String[], mscorlib",
+      "$values": []
+    },
+    "IsWorkerBuilding": false,
+    "IsIncomeBuilding": false,
+    "IsArmyBuilding": false,
+    "IsFinished": true,
+    "ArmyCreationTime": {
+      "$type": "System.TimeSpan",
+      "$value": "00:00:00"
+    },
+    "ArmyCreationTimeMax": {
+      "$type": "System.TimeSpan",
+      "$value": "00:00:00"
+    }
+  }
+}
+
+08:53:00	 >> {
+  "$id": "123",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "data": {
+    "$id": "124",
+    "$type": "Isometric.Dtos.BuildingFullDto, Isometric.Dtos",
+    "OwnerName": "no owner",
+    "Name": "Plain",
+    "CreatingArmy": "",
+    "FreePeople": 0,
+    "Builders": 0,
+    "Workers": 0,
+    "MaxWorkers": 0,
+    "MaxBuilders": 0,
+    "PeopleForArmy": 0,
+    "ArmyQueueSize": 0,
+    "Income": {
+      "$type": "System.Single[], mscorlib",
+      "$values": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "LastIncome": {
+      "$type": "System.Single[], mscorlib",
+      "$values": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "ArmyPrice": {
+      "$type": "System.Single[], mscorlib",
+      "$values": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "Armies": {
+      "$type": "System.String[], mscorlib",
+      "$values": []
+    },
+    "IsWorkerBuilding": false,
+    "IsIncomeBuilding": false,
+    "IsArmyBuilding": false,
+    "IsFinished": true,
+    "ArmyCreationTime": {
+      "$type": "System.TimeSpan",
+      "$value": "00:00:00"
+    },
+    "ArmyCreationTimeMax": {
+      "$type": "System.TimeSpan",
+      "$value": "00:00:00"
+    }
+  }
+}
+
+08:53:00	 >> {
+  "$id": "125",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "resources": {
+    "$id": "126",
+    "$type": "Isometric.Dtos.ResourcesDto, Isometric.Dtos",
+    "ResourcesArray": {
+      "$type": "System.Single[], mscorlib",
+      "$values": [
+        1000.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "FreePeople": 30,
+    "MaxPeople": 0
+  }
+}
+
+08:53:00	 >> {
+  "$id": "127",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "news": {
+    "$type": "Isometric.Dtos.NewsDto[], Isometric.Dtos",
+    "$values": []
+  }
+}
+
+08:53:00	 >> {
+  "$id": "128",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "data": {
+    "$id": "129",
+    "$type": "Isometric.Dtos.BuildingFullDto, Isometric.Dtos",
+    "OwnerName": "no owner",
+    "Name": "Plain",
+    "CreatingArmy": "",
+    "FreePeople": 0,
+    "Builders": 0,
+    "Workers": 0,
+    "MaxWorkers": 0,
+    "MaxBuilders": 0,
+    "PeopleForArmy": 0,
+    "ArmyQueueSize": 0,
+    "Income": {
+      "$type": "System.Single[], mscorlib",
+      "$values": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "LastIncome": {
+      "$type": "System.Single[], mscorlib",
+      "$values": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "ArmyPrice": {
+      "$type": "System.Single[], mscorlib",
+      "$values": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "Armies": {
+      "$type": "System.String[], mscorlib",
+      "$values": []
+    },
+    "IsWorkerBuilding": false,
+    "IsIncomeBuilding": false,
+    "IsArmyBuilding": false,
+    "IsFinished": true,
+    "ArmyCreationTime": {
+      "$type": "System.TimeSpan",
+      "$value": "00:00:00"
+    },
+    "ArmyCreationTimeMax": {
+      "$type": "System.TimeSpan",
+      "$value": "00:00:00"
+    }
+  }
+}
+
+08:53:00	 >> {
+  "$id": "130",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "data": {
+    "$id": "131",
+    "$type": "Isometric.Dtos.BuildingFullDto, Isometric.Dtos",
+    "OwnerName": "no owner",
+    "Name": "Plain",
+    "CreatingArmy": "",
+    "FreePeople": 0,
+    "Builders": 0,
+    "Workers": 0,
+    "MaxWorkers": 0,
+    "MaxBuilders": 0,
+    "PeopleForArmy": 0,
+    "ArmyQueueSize": 0,
+    "Income": {
+      "$type": "System.Single[], mscorlib",
+      "$values": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "LastIncome": {
+      "$type": "System.Single[], mscorlib",
+      "$values": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "ArmyPrice": {
+      "$type": "System.Single[], mscorlib",
+      "$values": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "Armies": {
+      "$type": "System.String[], mscorlib",
+      "$values": []
+    },
+    "IsWorkerBuilding": false,
+    "IsIncomeBuilding": false,
+    "IsArmyBuilding": false,
+    "IsFinished": true,
+    "ArmyCreationTime": {
+      "$type": "System.TimeSpan",
+      "$value": "00:00:00"
+    },
+    "ArmyCreationTimeMax": {
+      "$type": "System.TimeSpan",
+      "$value": "00:00:00"
+    }
+  }
+}
+
+08:53:01	 >> {
+  "$id": "132",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "data": {
+    "$id": "133",
+    "$type": "Isometric.Dtos.BuildingFullDto, Isometric.Dtos",
+    "OwnerName": "no owner",
+    "Name": "Forest",
+    "CreatingArmy": "",
+    "FreePeople": 0,
+    "Builders": 0,
+    "Workers": 0,
+    "MaxWorkers": 0,
+    "MaxBuilders": 0,
+    "PeopleForArmy": 0,
+    "ArmyQueueSize": 0,
+    "Income": {
+      "$type": "System.Single[], mscorlib",
+      "$values": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "LastIncome": {
+      "$type": "System.Single[], mscorlib",
+      "$values": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "ArmyPrice": {
+      "$type": "System.Single[], mscorlib",
+      "$values": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "Armies": {
+      "$type": "System.String[], mscorlib",
+      "$values": []
+    },
+    "IsWorkerBuilding": false,
+    "IsIncomeBuilding": false,
+    "IsArmyBuilding": false,
+    "IsFinished": true,
+    "ArmyCreationTime": {
+      "$type": "System.TimeSpan",
+      "$value": "00:00:00"
+    },
+    "ArmyCreationTimeMax": {
+      "$type": "System.TimeSpan",
+      "$value": "00:00:00"
+    }
+  }
+}
+
+08:53:01	 >> {
+  "$id": "134",
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+  "data": {
+    "$id": "135",
+    "$type": "Isometric.Dtos.BuildingFullDto, Isometric.Dtos",
+    "OwnerName": "no owner",
+    "Name": "Plain",
+    "CreatingArmy": "",
+    "FreePeople": 0,
+    "Builders": 0,
+    "Workers": 0,
+    "MaxWorkers": 0,
+    "MaxBuilders": 0,
+    "PeopleForArmy": 0,
+    "ArmyQueueSize": 0,
+    "Income": {
+      "$type": "System.Single[], mscorlib",
+      "$values": [
+        0.0,
+        0.0,
+        0.0,
